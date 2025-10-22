@@ -1,0 +1,49 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Variables de entorno
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribución
+build/
+dist/
+*.egg-info/
+
+# Logs
+logs/*.log
+
+# Datos temporales
+data/raw/*.json
+data/processed/*.json
+data/exports/*.xlsx
+
+# Mantener estructura de carpetas
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/exports/.gitkeep
+!logs/scraper/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Playwright
+.playwright/

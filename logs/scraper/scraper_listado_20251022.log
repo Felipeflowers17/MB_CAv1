@@ -1,0 +1,38 @@
+2025-10-22 14:52:35 - scraper_listado - INFO - INICIANDO SCRAPING DE LISTADO
+2025-10-22 14:52:35 - scraper_listado - INFO - Fecha: 2025-10-21
+2025-10-22 14:52:35 - scraper_listado - INFO - Límite páginas: Sin límite
+2025-10-22 14:52:46 - scraper_listado - INFO - Iniciando navegador...
+2025-10-22 14:52:48 - scraper_listado - INFO - Obteniendo información de paginación...
+2025-10-22 14:52:48 - scraper_listado - INFO - Navegando a página 1
+2025-10-22 14:52:53 - scraper_listado - ERROR - ERROR: No se capturó respuesta en página 1
+2025-10-22 14:52:53 - scraper_listado - ERROR - ERROR: No se pudo obtener primera página
+2025-10-22 14:52:54 - scraper_listado - INFO - Navegador cerrado
+2025-10-22 14:52:54 - scraper_listado - INFO - ==================================================
+2025-10-22 14:52:54 - scraper_listado - INFO - RESUMEN DE SCRAPING
+2025-10-22 14:52:54 - scraper_listado - INFO - ==================================================
+2025-10-22 14:52:54 - scraper_listado - INFO - tiempo_total: 18s
+2025-10-22 14:52:54 - scraper_listado - INFO - paginas_procesadas: 0
+2025-10-22 14:52:54 - scraper_listado - INFO - compras_scrapeadas: 0
+2025-10-22 14:52:54 - scraper_listado - INFO - errores: 1
+2025-10-22 14:52:54 - scraper_listado - INFO - reintentos: 0
+2025-10-22 14:52:54 - scraper_listado - INFO - inicio: 2025-10-22 14:52:35
+2025-10-22 14:52:54 - scraper_listado - INFO - fin: 2025-10-22 14:52:54
+2025-10-22 14:52:54 - scraper_listado - INFO - ==================================================
+2025-10-22 17:17:32 - scraper_listado - INFO - INICIANDO SCRAPING DE LISTADO
+2025-10-22 17:17:32 - scraper_listado - INFO - Fecha: 2025-10-21
+2025-10-22 17:17:32 - scraper_listado - INFO - Límite páginas: Sin límite
+2025-10-22 17:17:32 - scraper_listado - INFO - Iniciando navegador...
+2025-10-22 17:17:34 - scraper_listado - INFO - Obteniendo información de paginación...
+2025-10-22 17:17:34 - scraper_listado - INFO - Navegando a página 1
+2025-10-22 17:17:43 - scraper_listado - INFO - Página 1 procesada: 15 compras
+2025-10-22 17:17:43 - scraper_listado - INFO - Total de resultados: 3381
+2025-10-22 17:17:43 - scraper_listado - INFO - Total de páginas: 226
+2025-10-22 17:17:43 - scraper_listado - INFO - Páginas a procesar: 226
+2025-10-22 17:17:43 - scraper_listado - INFO - ------------------------------------------------------------
+2025-10-22 17:17:45 - scraper_listado - INFO - Navegando a página 2
+2025-10-22 17:17:50 - scraper_listado - INFO - Página 2 procesada: 15 compras
+2025-10-22 17:17:50 - scraper_listado - INFO - Progreso: 2/226 | Total compras: 30
+2025-10-22 17:17:52 - scraper_listado - INFO - Navegando a página 3
+2025-10-22 17:17:58 - scraper_listado - INFO - Página 3 procesada: 15 compras
+2025-10-22 17:17:58 - scraper_listado - INFO - Progreso: 3/226 | Total compras: 45
+2025-10-22 17:18:00 - scraper_listado - INFO - Navegando a página 4
