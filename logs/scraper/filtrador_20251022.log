@@ -1,0 +1,42 @@
+2025-10-22 17:46:28 - filtrador - INFO - ============================================================
+2025-10-22 17:46:28 - filtrador - INFO - PASO 1: PRE-FILTRADO POR TEXTO
+2025-10-22 17:46:28 - filtrador - INFO - ============================================================
+2025-10-22 17:46:28 - filtrador - INFO - Total compras a analizar: 2
+2025-10-22 17:46:28 - filtrador - INFO - Compras marcadas como posible segundo llamado: 1
+2025-10-22 17:46:28 - filtrador - INFO - Tasa de pre-filtrado: 50.0%
+2025-10-22 17:46:28 - filtrador - INFO - Compras a verificar con detalles: 1
+2025-10-22 17:52:22 - filtrador - INFO - ============================================================
+2025-10-22 17:52:22 - filtrador - INFO - PASO 1: PRE-FILTRADO POR TEXTO
+2025-10-22 17:52:22 - filtrador - INFO - ============================================================
+2025-10-22 17:52:22 - filtrador - INFO - Total compras a analizar: 45
+2025-10-22 17:52:22 - filtrador - INFO - Compras marcadas como posible segundo llamado: 0
+2025-10-22 17:52:22 - filtrador - INFO - Tasa de pre-filtrado: 0.0%
+2025-10-22 17:52:22 - filtrador - INFO - Compras a verificar con detalles: 0
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - INICIANDO FILTRADO POR ESTADO_CONVOCATORIA
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - Total compras a analizar: 4
+2025-10-22 18:15:35 - filtrador - INFO - Compras con segundo llamado: 2
+2025-10-22 18:15:35 - filtrador - INFO - Porcentaje: 50.0%
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - INICIANDO FILTRADO POR ESTADO_CONVOCATORIA
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - Total compras a analizar: 1
+2025-10-22 18:15:35 - filtrador - INFO - Compras con segundo llamado: 1
+2025-10-22 18:15:35 - filtrador - INFO - Porcentaje: 100.0%
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - INICIANDO FILTRADO POR ESTADO_CONVOCATORIA
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:15:35 - filtrador - INFO - Total compras a analizar: 10
+2025-10-22 18:15:35 - filtrador - INFO - Compras con segundo llamado: 4
+2025-10-22 18:15:35 - filtrador - INFO - Porcentaje: 40.0%
+2025-10-22 18:15:35 - filtrador - INFO - ============================================================
+2025-10-22 18:43:05 - filtrador - INFO - ============================================================
+2025-10-22 18:43:05 - filtrador - INFO - INICIANDO FILTRADO POR ESTADO_CONVOCATORIA
+2025-10-22 18:43:05 - filtrador - INFO - ============================================================
+2025-10-22 18:43:05 - filtrador - INFO - Total compras a analizar: 3210
+2025-10-22 18:43:05 - filtrador - INFO - Compras con segundo llamado: 0
+2025-10-22 18:43:05 - filtrador - INFO - Porcentaje: 0.0%
+2025-10-22 18:43:05 - filtrador - INFO - ============================================================

@@ -1,0 +1,242 @@
+"""
+Test de flujo completo del sistema
+Ejecuta todo el proceso con SOLO 3 páginas:
+1. Scraping de listado (3 páginas)
+2. Pre-filtrado por texto
+3. Scraping de detalles
+4. Validación por historial
+5. Guardado de resultados
+"""
+import sys
+from pathlib import Path
+from datetime import datetime
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
+
+from playwright.sync_api import sync_playwright
+from src.scraper.list_scraper import ScraperListado
+from src.scraper.detail_scraper import ScraperDetalles
+from src.scraper.filters import FiltradorCompras
+from config.config import FECHA_SCRAPING, MODO_HEADLESS
+
+
+def test_flujo_completo():
+    """Ejecuta flujo completo con 3 páginas"""
+    
+    tiempo_inicio = datetime.now()
+    
+    print("=" * 60)
+    print("TEST: Flujo completo del sistema (3 páginas)")
+    print("=" * 60)
+    print(f"Fecha: {FECHA_SCRAPING}")
+    print()
+    
+    # ========================================
+    # PASO 1: SCRAPING DE LISTADO (3 PÁGINAS)
+    # ========================================
+    print("[1/5] Scraping de listado (3 páginas)")
+    print("-" * 60)
+    
+    scraper_listado = ScraperListado(max_paginas=3)
+    compras_completas, archivo_completo = scraper_listado.ejecutar(guardar=True)
+    
+    if not compras_completas:
+        print("ERROR: No se obtuvieron compras")
+        return 1
+    
+    tiempo_paso1 = (datetime.now() - tiempo_inicio).total_seconds()
+    
+    print(f"✓ Compras extraídas: {len(compras_completas)}")
+    print(f"✓ Tiempo: {int(tiempo_paso1)}s")
+    print(f"✓ Archivo: {Path(archivo_completo).name}")
+    
+    # ========================================
+    # PASO 2: PRE-FILTRADO POR TEXTO
+    # ========================================
+    print()
+    print("[2/5] Pre-filtrado por texto")
+    print("-" * 60)
+    
+    tiempo_paso2_inicio = datetime.now()
+    
+    filtrador = FiltradorCompras()
+    compras_marcadas = filtrador.pre_filtrar_por_texto(compras_completas)
+    compras_posibles = filtrador.filtrar_posibles_segundo_llamado(compras_marcadas)
+    
+    tiempo_paso2 = (datetime.now() - tiempo_paso2_inicio).total_seconds()
+    
+    print(f"✓ Total compras analizadas: {len(compras_marcadas)}")
+    print(f"✓ Posibles segundo llamado: {len(compras_posibles)}")
+    print(f"✓ Tiempo: {int(tiempo_paso2)}s")
+    
+    if len(compras_posibles) == 0:
+        print()
+        print("No se encontraron compras con posible segundo llamado")
+        print("Flujo completado sin compras relevantes")
+        return 0
+    
+    # Mostrar ejemplos de posibles
+    print()
+    print("Ejemplos de compras detectadas:")
+    for i, compra in enumerate(compras_posibles[:3], 1):
+        codigo = compra.get('codigo') or compra.get('id')
+        nombre = compra.get('nombre', '')[:50]
+        keywords = compra.get('metadata_filtrado', {}).get('keywords_encontradas', [])
+        print(f"  {i}. {codigo}")
+        print(f"     {nombre}...")
+        print(f"     Keywords: {', '.join(keywords)}")
+    
+    # ========================================
+    # PASO 3: SCRAPING DE DETALLES
+    # ========================================
+    print()
+    print(f"[3/5] Scraping de detalles ({len(compras_posibles)} compras)")
+    print("-" * 60)
+    
+    tiempo_paso3_inicio = datetime.now()
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=MODO_HEADLESS, slow_mo=500)
+        context = browser.new_context(
+            user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            viewport={'width': 1920, 'height': 1080},
+            locale='es-CL'
+        )
+        page = context.new_page()
+        
+        scraper_detalles = ScraperDetalles()
+        page.on('response', scraper_detalles.interceptar_respuesta)
+        
+        compras_con_detalles = scraper_detalles.scrapear_multiples_detalles(
+            page,
+            compras_posibles,
+            max_compras=None
+        )
+        
+        browser.close()
+    
+    tiempo_paso3 = (datetime.now() - tiempo_paso3_inicio).total_seconds()
+    velocidad_paso3 = len(compras_con_detalles) / tiempo_paso3 if tiempo_paso3 > 0 else 0
+    
+    print(f"✓ Detalles obtenidos: {len(compras_con_detalles)}")
+    print(f"✓ Tiempo: {int(tiempo_paso3)}s ({velocidad_paso3:.2f} compras/s)")
+    
+    # ========================================
+    # PASO 4: VALIDACIÓN CON HISTORIAL
+    # ========================================
+    print()
+    print("[4/5] Validación con historial")
+    print("-" * 60)
+    
+    tiempo_paso4_inicio = datetime.now()
+    
+    compras_filtradas, archivo_filtrado = filtrador.filtrar_y_guardar(
+        compras_con_detalles,
+        guardar=True
+    )
+    
+    tiempo_paso4 = (datetime.now() - tiempo_paso4_inicio).total_seconds()
+    
+    print(f"✓ Segundo llamado confirmado: {len(compras_filtradas)}")
+    print(f"✓ Tiempo: {int(tiempo_paso4)}s")
+    
+    if archivo_filtrado:
+        print(f"✓ Archivo: {Path(archivo_filtrado).name}")
+    
+    # ========================================
+    # PASO 5: ANÁLISIS DE RESULTADOS
+    # ========================================
+    print()
+    print("[5/5] Análisis de resultados")
+    print("-" * 60)
+    
+    if len(compras_filtradas) > 0:
+        print(f"Compras confirmadas como segundo llamado:")
+        print()
+        
+        for i, compra in enumerate(compras_filtradas, 1):
+            codigo = compra.get('codigo') or compra.get('id')
+            nombre = compra.get('nombre', '')[:50]
+            organismo = compra.get('organismo', '')[:30]
+            num_pub = compra.get('metadata_filtrado', {}).get('cantidad_publicaciones', 0)
+            
+            print(f"  {i}. {codigo}")
+            print(f"     Nombre: {nombre}...")
+            print(f"     Organismo: {organismo}...")
+            print(f"     Publicaciones: {num_pub}")
+            print()
+    else:
+        print("No se confirmaron compras con segundo llamado")
+    
+    # ========================================
+    # RESUMEN FINAL
+    # ========================================
+    tiempo_total = (datetime.now() - tiempo_inicio).total_seconds()
+    minutos = int(tiempo_total // 60)
+    segundos = int(tiempo_total % 60)
+    tiempo_formateado = f"{minutos}m {segundos}s" if minutos > 0 else f"{segundos}s"
+    
+    print()
+    print("=" * 60)
+    print("RESUMEN DEL TEST")
+    print("=" * 60)
+    print(f"Páginas scrapeadas: 3")
+    print(f"Total compras extraídas: {len(compras_completas)}")
+    print(f"Compras pre-filtradas: {len(compras_posibles)}")
+    print(f"Compras con detalles: {len(compras_con_detalles)}")
+    print(f"Compras confirmadas: {len(compras_filtradas)}")
+    print(f"Tasa de relevancia: {(len(compras_filtradas)/len(compras_completas)*100):.1f}%")
+    print(f"Tiempo total: {tiempo_formateado}")
+    print()
+    print("ARCHIVOS GENERADOS:")
+    print(f"  1. {Path(archivo_completo).name}")
+    if archivo_filtrado:
+        print(f"  2. {Path(archivo_filtrado).name}")
+    print(f"  Ubicación: data/raw/")
+    print()
+    print("LOGS GENERADOS:")
+    print(f"  logs/scraper/scraper_listado_{datetime.now().strftime('%Y%m%d')}.log")
+    print(f"  logs/scraper/scraper_detalles_{datetime.now().strftime('%Y%m%d')}.log")
+    print(f"  logs/scraper/filtrador_{datetime.now().strftime('%Y%m%d')}.log")
+    print("=" * 60)
+    
+    return 0
+
+
+def main():
+    """Ejecuta test de flujo completo"""
+    print()
+    print("ADVERTENCIA: Este test hace requests reales a Mercado Público")
+    print("Duración estimada: 2-5 minutos")
+    print()
+    
+    respuesta = input("¿Continuar con el test? (s/N): ").lower().strip()
+    
+    if respuesta != 's':
+        print("Test cancelado")
+        return 1
+    
+    print()
+    
+    try:
+        codigo_salida = test_flujo_completo()
+        
+        if codigo_salida == 0:
+            print()
+            print("TEST EXITOSO: Flujo completo ejecutado correctamente")
+        
+        return codigo_salida
+        
+    except KeyboardInterrupt:
+        print("\n\nTest interrumpido por usuario")
+        return 1
+        
+    except Exception as e:
+        print(f"\n\nERROR CRÍTICO: {e}")
+        print("Revisa logs/scraper/ para más detalles")
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
