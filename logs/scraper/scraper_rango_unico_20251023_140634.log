@@ -1,0 +1,1892 @@
+2025-10-23 14:06:34 - scraper_rango_unico - INFO - ============================================================
+2025-10-23 14:06:34 - scraper_rango_unico - INFO - INICIANDO EXTRACCIÓN ÚNICA POR RANGO DE FECHAS
+2025-10-23 14:06:34 - scraper_rango_unico - INFO - Rango de fechas: 2025-10-20 a 2025-10-23
+2025-10-23 14:06:34 - scraper_rango_unico - INFO - ============================================================
+2025-10-23 14:06:35 - scraper_rango_unico - INFO - Iniciando navegador...
+2025-10-23 14:06:37 - scraper_rango_unico - INFO - Obteniendo información de paginación...
+2025-10-23 14:06:37 - scraper_rango_unico - INFO - Navegando a página 1
+2025-10-23 14:06:41 - scraper_rango_unico - INFO - Página 1 procesada: 15 compras
+2025-10-23 14:06:41 - scraper_rango_unico - INFO - Total de resultados: 9338
+2025-10-23 14:06:41 - scraper_rango_unico - INFO - Total de páginas: 623
+2025-10-23 14:06:41 - scraper_rango_unico - INFO - ------------------------------------------------------------
+2025-10-23 14:06:43 - scraper_rango_unico - INFO - Navegando a página 2
+2025-10-23 14:06:47 - scraper_rango_unico - INFO - Página 2 procesada: 15 compras
+2025-10-23 14:06:47 - scraper_rango_unico - INFO - Progreso: 2/623 | Total compras: 30
+2025-10-23 14:06:49 - scraper_rango_unico - INFO - Navegando a página 3
+2025-10-23 14:06:52 - scraper_rango_unico - INFO - Página 3 procesada: 15 compras
+2025-10-23 14:06:52 - scraper_rango_unico - INFO - Progreso: 3/623 | Total compras: 45
+2025-10-23 14:06:54 - scraper_rango_unico - INFO - Navegando a página 4
+2025-10-23 14:06:57 - scraper_rango_unico - INFO - Página 4 procesada: 15 compras
+2025-10-23 14:06:57 - scraper_rango_unico - INFO - Progreso: 4/623 | Total compras: 60
+2025-10-23 14:06:59 - scraper_rango_unico - INFO - Navegando a página 5
+2025-10-23 14:07:02 - scraper_rango_unico - INFO - Página 5 procesada: 15 compras
+2025-10-23 14:07:02 - scraper_rango_unico - INFO - Progreso: 5/623 | Total compras: 75
+2025-10-23 14:07:04 - scraper_rango_unico - INFO - Navegando a página 6
+2025-10-23 14:07:06 - scraper_rango_unico - INFO - Página 6 procesada: 15 compras
+2025-10-23 14:07:06 - scraper_rango_unico - INFO - Progreso: 6/623 | Total compras: 90
+2025-10-23 14:07:08 - scraper_rango_unico - INFO - Navegando a página 7
+2025-10-23 14:07:11 - scraper_rango_unico - INFO - Página 7 procesada: 15 compras
+2025-10-23 14:07:11 - scraper_rango_unico - INFO - Progreso: 7/623 | Total compras: 105
+2025-10-23 14:07:13 - scraper_rango_unico - INFO - Navegando a página 8
+2025-10-23 14:07:16 - scraper_rango_unico - INFO - Página 8 procesada: 15 compras
+2025-10-23 14:07:16 - scraper_rango_unico - INFO - Progreso: 8/623 | Total compras: 120
+2025-10-23 14:07:18 - scraper_rango_unico - INFO - Navegando a página 9
+2025-10-23 14:07:21 - scraper_rango_unico - INFO - Página 9 procesada: 15 compras
+2025-10-23 14:07:21 - scraper_rango_unico - INFO - Progreso: 9/623 | Total compras: 135
+2025-10-23 14:07:23 - scraper_rango_unico - INFO - Navegando a página 10
+2025-10-23 14:07:25 - scraper_rango_unico - INFO - Página 10 procesada: 15 compras
+2025-10-23 14:07:25 - scraper_rango_unico - INFO - Progreso: 10/623 | Total compras: 150
+2025-10-23 14:07:27 - scraper_rango_unico - INFO - Navegando a página 11
+2025-10-23 14:07:30 - scraper_rango_unico - INFO - Página 11 procesada: 15 compras
+2025-10-23 14:07:30 - scraper_rango_unico - INFO - Progreso: 11/623 | Total compras: 165
+2025-10-23 14:07:32 - scraper_rango_unico - INFO - Navegando a página 12
+2025-10-23 14:07:35 - scraper_rango_unico - INFO - Página 12 procesada: 15 compras
+2025-10-23 14:07:35 - scraper_rango_unico - INFO - Progreso: 12/623 | Total compras: 180
+2025-10-23 14:07:37 - scraper_rango_unico - INFO - Navegando a página 13
+2025-10-23 14:07:40 - scraper_rango_unico - INFO - Página 13 procesada: 15 compras
+2025-10-23 14:07:40 - scraper_rango_unico - INFO - Progreso: 13/623 | Total compras: 195
+2025-10-23 14:07:42 - scraper_rango_unico - INFO - Navegando a página 14
+2025-10-23 14:07:45 - scraper_rango_unico - INFO - Página 14 procesada: 15 compras
+2025-10-23 14:07:45 - scraper_rango_unico - INFO - Progreso: 14/623 | Total compras: 210
+2025-10-23 14:07:47 - scraper_rango_unico - INFO - Navegando a página 15
+2025-10-23 14:07:49 - scraper_rango_unico - INFO - Página 15 procesada: 15 compras
+2025-10-23 14:07:49 - scraper_rango_unico - INFO - Progreso: 15/623 | Total compras: 225
+2025-10-23 14:07:51 - scraper_rango_unico - INFO - Navegando a página 16
+2025-10-23 14:07:53 - scraper_rango_unico - INFO - Página 16 procesada: 15 compras
+2025-10-23 14:07:53 - scraper_rango_unico - INFO - Progreso: 16/623 | Total compras: 240
+2025-10-23 14:07:55 - scraper_rango_unico - INFO - Navegando a página 17
+2025-10-23 14:07:57 - scraper_rango_unico - INFO - Página 17 procesada: 15 compras
+2025-10-23 14:07:57 - scraper_rango_unico - INFO - Progreso: 17/623 | Total compras: 255
+2025-10-23 14:07:59 - scraper_rango_unico - INFO - Navegando a página 18
+2025-10-23 14:08:02 - scraper_rango_unico - INFO - Página 18 procesada: 15 compras
+2025-10-23 14:08:02 - scraper_rango_unico - INFO - Progreso: 18/623 | Total compras: 270
+2025-10-23 14:08:04 - scraper_rango_unico - INFO - Navegando a página 19
+2025-10-23 14:08:06 - scraper_rango_unico - INFO - Página 19 procesada: 15 compras
+2025-10-23 14:08:06 - scraper_rango_unico - INFO - Progreso: 19/623 | Total compras: 285
+2025-10-23 14:08:08 - scraper_rango_unico - INFO - Navegando a página 20
+2025-10-23 14:08:11 - scraper_rango_unico - INFO - Página 20 procesada: 15 compras
+2025-10-23 14:08:11 - scraper_rango_unico - INFO - Progreso: 20/623 | Total compras: 300
+2025-10-23 14:08:13 - scraper_rango_unico - INFO - Navegando a página 21
+2025-10-23 14:08:15 - scraper_rango_unico - INFO - Página 21 procesada: 15 compras
+2025-10-23 14:08:15 - scraper_rango_unico - INFO - Progreso: 21/623 | Total compras: 315
+2025-10-23 14:08:17 - scraper_rango_unico - INFO - Navegando a página 22
+2025-10-23 14:08:20 - scraper_rango_unico - INFO - Página 22 procesada: 15 compras
+2025-10-23 14:08:20 - scraper_rango_unico - INFO - Progreso: 22/623 | Total compras: 330
+2025-10-23 14:08:22 - scraper_rango_unico - INFO - Navegando a página 23
+2025-10-23 14:08:24 - scraper_rango_unico - INFO - Página 23 procesada: 15 compras
+2025-10-23 14:08:24 - scraper_rango_unico - INFO - Progreso: 23/623 | Total compras: 345
+2025-10-23 14:08:26 - scraper_rango_unico - INFO - Navegando a página 24
+2025-10-23 14:08:28 - scraper_rango_unico - INFO - Página 24 procesada: 15 compras
+2025-10-23 14:08:28 - scraper_rango_unico - INFO - Progreso: 24/623 | Total compras: 360
+2025-10-23 14:08:30 - scraper_rango_unico - INFO - Navegando a página 25
+2025-10-23 14:08:33 - scraper_rango_unico - INFO - Página 25 procesada: 15 compras
+2025-10-23 14:08:33 - scraper_rango_unico - INFO - Progreso: 25/623 | Total compras: 375
+2025-10-23 14:08:35 - scraper_rango_unico - INFO - Navegando a página 26
+2025-10-23 14:08:37 - scraper_rango_unico - INFO - Página 26 procesada: 15 compras
+2025-10-23 14:08:37 - scraper_rango_unico - INFO - Progreso: 26/623 | Total compras: 390
+2025-10-23 14:08:39 - scraper_rango_unico - INFO - Navegando a página 27
+2025-10-23 14:08:42 - scraper_rango_unico - INFO - Página 27 procesada: 15 compras
+2025-10-23 14:08:42 - scraper_rango_unico - INFO - Progreso: 27/623 | Total compras: 405
+2025-10-23 14:08:44 - scraper_rango_unico - INFO - Navegando a página 28
+2025-10-23 14:08:47 - scraper_rango_unico - INFO - Página 28 procesada: 15 compras
+2025-10-23 14:08:47 - scraper_rango_unico - INFO - Progreso: 28/623 | Total compras: 420
+2025-10-23 14:08:49 - scraper_rango_unico - INFO - Navegando a página 29
+2025-10-23 14:08:52 - scraper_rango_unico - INFO - Página 29 procesada: 15 compras
+2025-10-23 14:08:52 - scraper_rango_unico - INFO - Progreso: 29/623 | Total compras: 435
+2025-10-23 14:08:54 - scraper_rango_unico - INFO - Navegando a página 30
+2025-10-23 14:08:56 - scraper_rango_unico - INFO - Página 30 procesada: 15 compras
+2025-10-23 14:08:56 - scraper_rango_unico - INFO - Progreso: 30/623 | Total compras: 450
+2025-10-23 14:08:58 - scraper_rango_unico - INFO - Navegando a página 31
+2025-10-23 14:09:00 - scraper_rango_unico - INFO - Página 31 procesada: 15 compras
+2025-10-23 14:09:00 - scraper_rango_unico - INFO - Progreso: 31/623 | Total compras: 465
+2025-10-23 14:09:02 - scraper_rango_unico - INFO - Navegando a página 32
+2025-10-23 14:09:05 - scraper_rango_unico - INFO - Página 32 procesada: 15 compras
+2025-10-23 14:09:05 - scraper_rango_unico - INFO - Progreso: 32/623 | Total compras: 480
+2025-10-23 14:09:07 - scraper_rango_unico - INFO - Navegando a página 33
+2025-10-23 14:09:09 - scraper_rango_unico - INFO - Página 33 procesada: 15 compras
+2025-10-23 14:09:09 - scraper_rango_unico - INFO - Progreso: 33/623 | Total compras: 495
+2025-10-23 14:09:11 - scraper_rango_unico - INFO - Navegando a página 34
+2025-10-23 14:09:14 - scraper_rango_unico - INFO - Página 34 procesada: 15 compras
+2025-10-23 14:09:14 - scraper_rango_unico - INFO - Progreso: 34/623 | Total compras: 510
+2025-10-23 14:09:16 - scraper_rango_unico - INFO - Navegando a página 35
+2025-10-23 14:09:18 - scraper_rango_unico - INFO - Página 35 procesada: 15 compras
+2025-10-23 14:09:18 - scraper_rango_unico - INFO - Progreso: 35/623 | Total compras: 525
+2025-10-23 14:09:20 - scraper_rango_unico - INFO - Navegando a página 36
+2025-10-23 14:09:23 - scraper_rango_unico - INFO - Página 36 procesada: 15 compras
+2025-10-23 14:09:23 - scraper_rango_unico - INFO - Progreso: 36/623 | Total compras: 540
+2025-10-23 14:09:25 - scraper_rango_unico - INFO - Navegando a página 37
+2025-10-23 14:09:26 - scraper_rango_unico - INFO - Página 37 procesada: 15 compras
+2025-10-23 14:09:26 - scraper_rango_unico - INFO - Progreso: 37/623 | Total compras: 555
+2025-10-23 14:09:28 - scraper_rango_unico - INFO - Navegando a página 38
+2025-10-23 14:09:31 - scraper_rango_unico - INFO - Página 38 procesada: 15 compras
+2025-10-23 14:09:31 - scraper_rango_unico - INFO - Progreso: 38/623 | Total compras: 570
+2025-10-23 14:09:33 - scraper_rango_unico - INFO - Navegando a página 39
+2025-10-23 14:09:35 - scraper_rango_unico - INFO - Página 39 procesada: 15 compras
+2025-10-23 14:09:35 - scraper_rango_unico - INFO - Progreso: 39/623 | Total compras: 585
+2025-10-23 14:09:37 - scraper_rango_unico - INFO - Navegando a página 40
+2025-10-23 14:09:39 - scraper_rango_unico - INFO - Página 40 procesada: 15 compras
+2025-10-23 14:09:39 - scraper_rango_unico - INFO - Progreso: 40/623 | Total compras: 600
+2025-10-23 14:09:41 - scraper_rango_unico - INFO - Navegando a página 41
+2025-10-23 14:09:44 - scraper_rango_unico - INFO - Página 41 procesada: 15 compras
+2025-10-23 14:09:44 - scraper_rango_unico - INFO - Progreso: 41/623 | Total compras: 615
+2025-10-23 14:09:46 - scraper_rango_unico - INFO - Navegando a página 42
+2025-10-23 14:09:48 - scraper_rango_unico - INFO - Página 42 procesada: 15 compras
+2025-10-23 14:09:48 - scraper_rango_unico - INFO - Progreso: 42/623 | Total compras: 630
+2025-10-23 14:09:50 - scraper_rango_unico - INFO - Navegando a página 43
+2025-10-23 14:09:53 - scraper_rango_unico - INFO - Página 43 procesada: 15 compras
+2025-10-23 14:09:53 - scraper_rango_unico - INFO - Progreso: 43/623 | Total compras: 645
+2025-10-23 14:09:55 - scraper_rango_unico - INFO - Navegando a página 44
+2025-10-23 14:09:57 - scraper_rango_unico - INFO - Página 44 procesada: 15 compras
+2025-10-23 14:09:57 - scraper_rango_unico - INFO - Progreso: 44/623 | Total compras: 660
+2025-10-23 14:09:59 - scraper_rango_unico - INFO - Navegando a página 45
+2025-10-23 14:10:01 - scraper_rango_unico - INFO - Página 45 procesada: 15 compras
+2025-10-23 14:10:01 - scraper_rango_unico - INFO - Progreso: 45/623 | Total compras: 675
+2025-10-23 14:10:03 - scraper_rango_unico - INFO - Navegando a página 46
+2025-10-23 14:10:06 - scraper_rango_unico - INFO - Página 46 procesada: 15 compras
+2025-10-23 14:10:06 - scraper_rango_unico - INFO - Progreso: 46/623 | Total compras: 690
+2025-10-23 14:10:08 - scraper_rango_unico - INFO - Navegando a página 47
+2025-10-23 14:10:11 - scraper_rango_unico - INFO - Página 47 procesada: 15 compras
+2025-10-23 14:10:11 - scraper_rango_unico - INFO - Progreso: 47/623 | Total compras: 705
+2025-10-23 14:10:13 - scraper_rango_unico - INFO - Navegando a página 48
+2025-10-23 14:10:16 - scraper_rango_unico - INFO - Página 48 procesada: 15 compras
+2025-10-23 14:10:16 - scraper_rango_unico - INFO - Progreso: 48/623 | Total compras: 720
+2025-10-23 14:10:18 - scraper_rango_unico - INFO - Navegando a página 49
+2025-10-23 14:10:20 - scraper_rango_unico - INFO - Página 49 procesada: 15 compras
+2025-10-23 14:10:20 - scraper_rango_unico - INFO - Progreso: 49/623 | Total compras: 735
+2025-10-23 14:10:22 - scraper_rango_unico - INFO - Navegando a página 50
+2025-10-23 14:10:25 - scraper_rango_unico - INFO - Página 50 procesada: 15 compras
+2025-10-23 14:10:25 - scraper_rango_unico - INFO - Progreso: 50/623 | Total compras: 750
+2025-10-23 14:10:27 - scraper_rango_unico - INFO - Navegando a página 51
+2025-10-23 14:10:30 - scraper_rango_unico - INFO - Página 51 procesada: 15 compras
+2025-10-23 14:10:30 - scraper_rango_unico - INFO - Progreso: 51/623 | Total compras: 765
+2025-10-23 14:10:32 - scraper_rango_unico - INFO - Navegando a página 52
+2025-10-23 14:10:34 - scraper_rango_unico - INFO - Página 52 procesada: 15 compras
+2025-10-23 14:10:34 - scraper_rango_unico - INFO - Progreso: 52/623 | Total compras: 780
+2025-10-23 14:10:36 - scraper_rango_unico - INFO - Navegando a página 53
+2025-10-23 14:10:38 - scraper_rango_unico - INFO - Página 53 procesada: 15 compras
+2025-10-23 14:10:38 - scraper_rango_unico - INFO - Progreso: 53/623 | Total compras: 795
+2025-10-23 14:10:40 - scraper_rango_unico - INFO - Navegando a página 54
+2025-10-23 14:10:43 - scraper_rango_unico - INFO - Página 54 procesada: 15 compras
+2025-10-23 14:10:43 - scraper_rango_unico - INFO - Progreso: 54/623 | Total compras: 810
+2025-10-23 14:10:45 - scraper_rango_unico - INFO - Navegando a página 55
+2025-10-23 14:10:47 - scraper_rango_unico - INFO - Página 55 procesada: 15 compras
+2025-10-23 14:10:47 - scraper_rango_unico - INFO - Progreso: 55/623 | Total compras: 825
+2025-10-23 14:10:49 - scraper_rango_unico - INFO - Navegando a página 56
+2025-10-23 14:10:52 - scraper_rango_unico - INFO - Página 56 procesada: 15 compras
+2025-10-23 14:10:52 - scraper_rango_unico - INFO - Progreso: 56/623 | Total compras: 840
+2025-10-23 14:10:54 - scraper_rango_unico - INFO - Navegando a página 57
+2025-10-23 14:10:56 - scraper_rango_unico - INFO - Página 57 procesada: 15 compras
+2025-10-23 14:10:56 - scraper_rango_unico - INFO - Progreso: 57/623 | Total compras: 855
+2025-10-23 14:10:58 - scraper_rango_unico - INFO - Navegando a página 58
+2025-10-23 14:11:00 - scraper_rango_unico - INFO - Página 58 procesada: 15 compras
+2025-10-23 14:11:00 - scraper_rango_unico - INFO - Progreso: 58/623 | Total compras: 870
+2025-10-23 14:11:02 - scraper_rango_unico - INFO - Navegando a página 59
+2025-10-23 14:11:05 - scraper_rango_unico - INFO - Página 59 procesada: 15 compras
+2025-10-23 14:11:05 - scraper_rango_unico - INFO - Progreso: 59/623 | Total compras: 885
+2025-10-23 14:11:07 - scraper_rango_unico - INFO - Navegando a página 60
+2025-10-23 14:11:10 - scraper_rango_unico - INFO - Página 60 procesada: 15 compras
+2025-10-23 14:11:10 - scraper_rango_unico - INFO - Progreso: 60/623 | Total compras: 900
+2025-10-23 14:11:12 - scraper_rango_unico - INFO - Navegando a página 61
+2025-10-23 14:11:15 - scraper_rango_unico - INFO - Página 61 procesada: 15 compras
+2025-10-23 14:11:15 - scraper_rango_unico - INFO - Progreso: 61/623 | Total compras: 915
+2025-10-23 14:11:17 - scraper_rango_unico - INFO - Navegando a página 62
+2025-10-23 14:11:20 - scraper_rango_unico - INFO - Página 62 procesada: 15 compras
+2025-10-23 14:11:20 - scraper_rango_unico - INFO - Progreso: 62/623 | Total compras: 930
+2025-10-23 14:11:22 - scraper_rango_unico - INFO - Navegando a página 63
+2025-10-23 14:11:24 - scraper_rango_unico - INFO - Página 63 procesada: 15 compras
+2025-10-23 14:11:24 - scraper_rango_unico - INFO - Progreso: 63/623 | Total compras: 945
+2025-10-23 14:11:26 - scraper_rango_unico - INFO - Navegando a página 64
+2025-10-23 14:11:28 - scraper_rango_unico - INFO - Página 64 procesada: 15 compras
+2025-10-23 14:11:28 - scraper_rango_unico - INFO - Progreso: 64/623 | Total compras: 960
+2025-10-23 14:11:30 - scraper_rango_unico - INFO - Navegando a página 65
+2025-10-23 14:11:33 - scraper_rango_unico - INFO - Página 65 procesada: 15 compras
+2025-10-23 14:11:33 - scraper_rango_unico - INFO - Progreso: 65/623 | Total compras: 975
+2025-10-23 14:11:35 - scraper_rango_unico - INFO - Navegando a página 66
+2025-10-23 14:11:37 - scraper_rango_unico - INFO - Página 66 procesada: 15 compras
+2025-10-23 14:11:37 - scraper_rango_unico - INFO - Progreso: 66/623 | Total compras: 990
+2025-10-23 14:11:39 - scraper_rango_unico - INFO - Navegando a página 67
+2025-10-23 14:11:42 - scraper_rango_unico - INFO - Página 67 procesada: 15 compras
+2025-10-23 14:11:42 - scraper_rango_unico - INFO - Progreso: 67/623 | Total compras: 1005
+2025-10-23 14:11:44 - scraper_rango_unico - INFO - Navegando a página 68
+2025-10-23 14:11:47 - scraper_rango_unico - INFO - Página 68 procesada: 15 compras
+2025-10-23 14:11:47 - scraper_rango_unico - INFO - Progreso: 68/623 | Total compras: 1020
+2025-10-23 14:11:49 - scraper_rango_unico - INFO - Navegando a página 69
+2025-10-23 14:11:51 - scraper_rango_unico - INFO - Página 69 procesada: 15 compras
+2025-10-23 14:11:51 - scraper_rango_unico - INFO - Progreso: 69/623 | Total compras: 1035
+2025-10-23 14:11:53 - scraper_rango_unico - INFO - Navegando a página 70
+2025-10-23 14:11:55 - scraper_rango_unico - INFO - Página 70 procesada: 15 compras
+2025-10-23 14:11:55 - scraper_rango_unico - INFO - Progreso: 70/623 | Total compras: 1050
+2025-10-23 14:11:57 - scraper_rango_unico - INFO - Navegando a página 71
+2025-10-23 14:12:00 - scraper_rango_unico - INFO - Página 71 procesada: 15 compras
+2025-10-23 14:12:00 - scraper_rango_unico - INFO - Progreso: 71/623 | Total compras: 1065
+2025-10-23 14:12:02 - scraper_rango_unico - INFO - Navegando a página 72
+2025-10-23 14:12:05 - scraper_rango_unico - INFO - Página 72 procesada: 15 compras
+2025-10-23 14:12:05 - scraper_rango_unico - INFO - Progreso: 72/623 | Total compras: 1080
+2025-10-23 14:12:07 - scraper_rango_unico - INFO - Navegando a página 73
+2025-10-23 14:12:09 - scraper_rango_unico - INFO - Página 73 procesada: 15 compras
+2025-10-23 14:12:09 - scraper_rango_unico - INFO - Progreso: 73/623 | Total compras: 1095
+2025-10-23 14:12:11 - scraper_rango_unico - INFO - Navegando a página 74
+2025-10-23 14:12:14 - scraper_rango_unico - INFO - Página 74 procesada: 15 compras
+2025-10-23 14:12:14 - scraper_rango_unico - INFO - Progreso: 74/623 | Total compras: 1110
+2025-10-23 14:12:16 - scraper_rango_unico - INFO - Navegando a página 75
+2025-10-23 14:12:18 - scraper_rango_unico - INFO - Página 75 procesada: 15 compras
+2025-10-23 14:12:18 - scraper_rango_unico - INFO - Progreso: 75/623 | Total compras: 1125
+2025-10-23 14:12:20 - scraper_rango_unico - INFO - Navegando a página 76
+2025-10-23 14:12:23 - scraper_rango_unico - INFO - Página 76 procesada: 15 compras
+2025-10-23 14:12:23 - scraper_rango_unico - INFO - Progreso: 76/623 | Total compras: 1140
+2025-10-23 14:12:25 - scraper_rango_unico - INFO - Navegando a página 77
+2025-10-23 14:12:27 - scraper_rango_unico - INFO - Página 77 procesada: 15 compras
+2025-10-23 14:12:27 - scraper_rango_unico - INFO - Progreso: 77/623 | Total compras: 1155
+2025-10-23 14:12:29 - scraper_rango_unico - INFO - Navegando a página 78
+2025-10-23 14:12:32 - scraper_rango_unico - INFO - Página 78 procesada: 15 compras
+2025-10-23 14:12:32 - scraper_rango_unico - INFO - Progreso: 78/623 | Total compras: 1170
+2025-10-23 14:12:34 - scraper_rango_unico - INFO - Navegando a página 79
+2025-10-23 14:12:36 - scraper_rango_unico - INFO - Página 79 procesada: 15 compras
+2025-10-23 14:12:36 - scraper_rango_unico - INFO - Progreso: 79/623 | Total compras: 1185
+2025-10-23 14:12:38 - scraper_rango_unico - INFO - Navegando a página 80
+2025-10-23 14:12:41 - scraper_rango_unico - INFO - Página 80 procesada: 15 compras
+2025-10-23 14:12:41 - scraper_rango_unico - INFO - Progreso: 80/623 | Total compras: 1200
+2025-10-23 14:12:43 - scraper_rango_unico - INFO - Navegando a página 81
+2025-10-23 14:12:45 - scraper_rango_unico - INFO - Página 81 procesada: 15 compras
+2025-10-23 14:12:45 - scraper_rango_unico - INFO - Progreso: 81/623 | Total compras: 1215
+2025-10-23 14:12:47 - scraper_rango_unico - INFO - Navegando a página 82
+2025-10-23 14:12:49 - scraper_rango_unico - INFO - Página 82 procesada: 15 compras
+2025-10-23 14:12:49 - scraper_rango_unico - INFO - Progreso: 82/623 | Total compras: 1230
+2025-10-23 14:12:51 - scraper_rango_unico - INFO - Navegando a página 83
+2025-10-23 14:12:53 - scraper_rango_unico - INFO - Página 83 procesada: 15 compras
+2025-10-23 14:12:53 - scraper_rango_unico - INFO - Progreso: 83/623 | Total compras: 1245
+2025-10-23 14:12:55 - scraper_rango_unico - INFO - Navegando a página 84
+2025-10-23 14:12:57 - scraper_rango_unico - INFO - Página 84 procesada: 15 compras
+2025-10-23 14:12:57 - scraper_rango_unico - INFO - Progreso: 84/623 | Total compras: 1260
+2025-10-23 14:12:59 - scraper_rango_unico - INFO - Navegando a página 85
+2025-10-23 14:13:02 - scraper_rango_unico - INFO - Página 85 procesada: 15 compras
+2025-10-23 14:13:02 - scraper_rango_unico - INFO - Progreso: 85/623 | Total compras: 1275
+2025-10-23 14:13:04 - scraper_rango_unico - INFO - Navegando a página 86
+2025-10-23 14:13:06 - scraper_rango_unico - INFO - Página 86 procesada: 15 compras
+2025-10-23 14:13:06 - scraper_rango_unico - INFO - Progreso: 86/623 | Total compras: 1290
+2025-10-23 14:13:08 - scraper_rango_unico - INFO - Navegando a página 87
+2025-10-23 14:13:10 - scraper_rango_unico - INFO - Página 87 procesada: 15 compras
+2025-10-23 14:13:10 - scraper_rango_unico - INFO - Progreso: 87/623 | Total compras: 1305
+2025-10-23 14:13:12 - scraper_rango_unico - INFO - Navegando a página 88
+2025-10-23 14:13:15 - scraper_rango_unico - INFO - Página 88 procesada: 15 compras
+2025-10-23 14:13:15 - scraper_rango_unico - INFO - Progreso: 88/623 | Total compras: 1320
+2025-10-23 14:13:17 - scraper_rango_unico - INFO - Navegando a página 89
+2025-10-23 14:13:19 - scraper_rango_unico - INFO - Página 89 procesada: 15 compras
+2025-10-23 14:13:19 - scraper_rango_unico - INFO - Progreso: 89/623 | Total compras: 1335
+2025-10-23 14:13:21 - scraper_rango_unico - INFO - Navegando a página 90
+2025-10-23 14:13:24 - scraper_rango_unico - INFO - Página 90 procesada: 15 compras
+2025-10-23 14:13:24 - scraper_rango_unico - INFO - Progreso: 90/623 | Total compras: 1350
+2025-10-23 14:13:26 - scraper_rango_unico - INFO - Navegando a página 91
+2025-10-23 14:13:28 - scraper_rango_unico - INFO - Página 91 procesada: 15 compras
+2025-10-23 14:13:28 - scraper_rango_unico - INFO - Progreso: 91/623 | Total compras: 1365
+2025-10-23 14:13:30 - scraper_rango_unico - INFO - Navegando a página 92
+2025-10-23 14:13:32 - scraper_rango_unico - INFO - Página 92 procesada: 15 compras
+2025-10-23 14:13:32 - scraper_rango_unico - INFO - Progreso: 92/623 | Total compras: 1380
+2025-10-23 14:13:34 - scraper_rango_unico - INFO - Navegando a página 93
+2025-10-23 14:13:36 - scraper_rango_unico - INFO - Página 93 procesada: 15 compras
+2025-10-23 14:13:36 - scraper_rango_unico - INFO - Progreso: 93/623 | Total compras: 1395
+2025-10-23 14:13:38 - scraper_rango_unico - INFO - Navegando a página 94
+2025-10-23 14:13:41 - scraper_rango_unico - INFO - Página 94 procesada: 15 compras
+2025-10-23 14:13:41 - scraper_rango_unico - INFO - Progreso: 94/623 | Total compras: 1410
+2025-10-23 14:13:43 - scraper_rango_unico - INFO - Navegando a página 95
+2025-10-23 14:13:46 - scraper_rango_unico - INFO - Página 95 procesada: 15 compras
+2025-10-23 14:13:46 - scraper_rango_unico - INFO - Progreso: 95/623 | Total compras: 1425
+2025-10-23 14:13:48 - scraper_rango_unico - INFO - Navegando a página 96
+2025-10-23 14:13:50 - scraper_rango_unico - INFO - Página 96 procesada: 15 compras
+2025-10-23 14:13:50 - scraper_rango_unico - INFO - Progreso: 96/623 | Total compras: 1440
+2025-10-23 14:13:52 - scraper_rango_unico - INFO - Navegando a página 97
+2025-10-23 14:13:55 - scraper_rango_unico - INFO - Página 97 procesada: 15 compras
+2025-10-23 14:13:55 - scraper_rango_unico - INFO - Progreso: 97/623 | Total compras: 1455
+2025-10-23 14:13:57 - scraper_rango_unico - INFO - Navegando a página 98
+2025-10-23 14:13:59 - scraper_rango_unico - INFO - Página 98 procesada: 15 compras
+2025-10-23 14:13:59 - scraper_rango_unico - INFO - Progreso: 98/623 | Total compras: 1470
+2025-10-23 14:14:01 - scraper_rango_unico - INFO - Navegando a página 99
+2025-10-23 14:14:04 - scraper_rango_unico - INFO - Página 99 procesada: 15 compras
+2025-10-23 14:14:04 - scraper_rango_unico - INFO - Progreso: 99/623 | Total compras: 1485
+2025-10-23 14:14:06 - scraper_rango_unico - INFO - Navegando a página 100
+2025-10-23 14:14:08 - scraper_rango_unico - INFO - Página 100 procesada: 15 compras
+2025-10-23 14:14:08 - scraper_rango_unico - INFO - Progreso: 100/623 | Total compras: 1500
+2025-10-23 14:14:10 - scraper_rango_unico - INFO - Navegando a página 101
+2025-10-23 14:14:12 - scraper_rango_unico - INFO - Página 101 procesada: 15 compras
+2025-10-23 14:14:12 - scraper_rango_unico - INFO - Progreso: 101/623 | Total compras: 1515
+2025-10-23 14:14:14 - scraper_rango_unico - INFO - Navegando a página 102
+2025-10-23 14:14:17 - scraper_rango_unico - INFO - Página 102 procesada: 15 compras
+2025-10-23 14:14:17 - scraper_rango_unico - INFO - Progreso: 102/623 | Total compras: 1530
+2025-10-23 14:14:19 - scraper_rango_unico - INFO - Navegando a página 103
+2025-10-23 14:14:22 - scraper_rango_unico - INFO - Página 103 procesada: 15 compras
+2025-10-23 14:14:22 - scraper_rango_unico - INFO - Progreso: 103/623 | Total compras: 1545
+2025-10-23 14:14:24 - scraper_rango_unico - INFO - Navegando a página 104
+2025-10-23 14:14:26 - scraper_rango_unico - INFO - Página 104 procesada: 15 compras
+2025-10-23 14:14:26 - scraper_rango_unico - INFO - Progreso: 104/623 | Total compras: 1560
+2025-10-23 14:14:28 - scraper_rango_unico - INFO - Navegando a página 105
+2025-10-23 14:14:29 - scraper_rango_unico - INFO - Página 105 procesada: 15 compras
+2025-10-23 14:14:29 - scraper_rango_unico - INFO - Progreso: 105/623 | Total compras: 1575
+2025-10-23 14:14:31 - scraper_rango_unico - INFO - Navegando a página 106
+2025-10-23 14:14:34 - scraper_rango_unico - INFO - Página 106 procesada: 15 compras
+2025-10-23 14:14:34 - scraper_rango_unico - INFO - Progreso: 106/623 | Total compras: 1590
+2025-10-23 14:14:36 - scraper_rango_unico - INFO - Navegando a página 107
+2025-10-23 14:14:38 - scraper_rango_unico - INFO - Página 107 procesada: 15 compras
+2025-10-23 14:14:38 - scraper_rango_unico - INFO - Progreso: 107/623 | Total compras: 1605
+2025-10-23 14:14:40 - scraper_rango_unico - INFO - Navegando a página 108
+2025-10-23 14:14:42 - scraper_rango_unico - INFO - Página 108 procesada: 15 compras
+2025-10-23 14:14:42 - scraper_rango_unico - INFO - Progreso: 108/623 | Total compras: 1620
+2025-10-23 14:14:44 - scraper_rango_unico - INFO - Navegando a página 109
+2025-10-23 14:14:47 - scraper_rango_unico - INFO - Página 109 procesada: 15 compras
+2025-10-23 14:14:47 - scraper_rango_unico - INFO - Progreso: 109/623 | Total compras: 1635
+2025-10-23 14:14:49 - scraper_rango_unico - INFO - Navegando a página 110
+2025-10-23 14:14:51 - scraper_rango_unico - INFO - Página 110 procesada: 15 compras
+2025-10-23 14:14:51 - scraper_rango_unico - INFO - Progreso: 110/623 | Total compras: 1650
+2025-10-23 14:14:53 - scraper_rango_unico - INFO - Navegando a página 111
+2025-10-23 14:14:56 - scraper_rango_unico - INFO - Página 111 procesada: 15 compras
+2025-10-23 14:14:56 - scraper_rango_unico - INFO - Progreso: 111/623 | Total compras: 1665
+2025-10-23 14:14:58 - scraper_rango_unico - INFO - Navegando a página 112
+2025-10-23 14:15:00 - scraper_rango_unico - INFO - Página 112 procesada: 15 compras
+2025-10-23 14:15:00 - scraper_rango_unico - INFO - Progreso: 112/623 | Total compras: 1680
+2025-10-23 14:15:02 - scraper_rango_unico - INFO - Navegando a página 113
+2025-10-23 14:15:06 - scraper_rango_unico - INFO - Página 113 procesada: 15 compras
+2025-10-23 14:15:06 - scraper_rango_unico - INFO - Progreso: 113/623 | Total compras: 1695
+2025-10-23 14:15:08 - scraper_rango_unico - INFO - Navegando a página 114
+2025-10-23 14:15:11 - scraper_rango_unico - INFO - Página 114 procesada: 15 compras
+2025-10-23 14:15:11 - scraper_rango_unico - INFO - Progreso: 114/623 | Total compras: 1710
+2025-10-23 14:15:13 - scraper_rango_unico - INFO - Navegando a página 115
+2025-10-23 14:15:16 - scraper_rango_unico - INFO - Página 115 procesada: 15 compras
+2025-10-23 14:15:16 - scraper_rango_unico - INFO - Progreso: 115/623 | Total compras: 1725
+2025-10-23 14:15:18 - scraper_rango_unico - INFO - Navegando a página 116
+2025-10-23 14:15:21 - scraper_rango_unico - INFO - Página 116 procesada: 15 compras
+2025-10-23 14:15:21 - scraper_rango_unico - INFO - Progreso: 116/623 | Total compras: 1740
+2025-10-23 14:15:23 - scraper_rango_unico - INFO - Navegando a página 117
+2025-10-23 14:15:25 - scraper_rango_unico - INFO - Página 117 procesada: 15 compras
+2025-10-23 14:15:25 - scraper_rango_unico - INFO - Progreso: 117/623 | Total compras: 1755
+2025-10-23 14:15:27 - scraper_rango_unico - INFO - Navegando a página 118
+2025-10-23 14:15:30 - scraper_rango_unico - INFO - Página 118 procesada: 15 compras
+2025-10-23 14:15:30 - scraper_rango_unico - INFO - Progreso: 118/623 | Total compras: 1770
+2025-10-23 14:15:32 - scraper_rango_unico - INFO - Navegando a página 119
+2025-10-23 14:15:34 - scraper_rango_unico - INFO - Página 119 procesada: 15 compras
+2025-10-23 14:15:34 - scraper_rango_unico - INFO - Progreso: 119/623 | Total compras: 1785
+2025-10-23 14:15:36 - scraper_rango_unico - INFO - Navegando a página 120
+2025-10-23 14:15:38 - scraper_rango_unico - INFO - Página 120 procesada: 15 compras
+2025-10-23 14:15:38 - scraper_rango_unico - INFO - Progreso: 120/623 | Total compras: 1800
+2025-10-23 14:15:40 - scraper_rango_unico - INFO - Navegando a página 121
+2025-10-23 14:15:43 - scraper_rango_unico - INFO - Página 121 procesada: 15 compras
+2025-10-23 14:15:43 - scraper_rango_unico - INFO - Progreso: 121/623 | Total compras: 1815
+2025-10-23 14:15:45 - scraper_rango_unico - INFO - Navegando a página 122
+2025-10-23 14:15:48 - scraper_rango_unico - INFO - Página 122 procesada: 15 compras
+2025-10-23 14:15:48 - scraper_rango_unico - INFO - Progreso: 122/623 | Total compras: 1830
+2025-10-23 14:15:50 - scraper_rango_unico - INFO - Navegando a página 123
+2025-10-23 14:15:52 - scraper_rango_unico - INFO - Página 123 procesada: 15 compras
+2025-10-23 14:15:52 - scraper_rango_unico - INFO - Progreso: 123/623 | Total compras: 1845
+2025-10-23 14:15:54 - scraper_rango_unico - INFO - Navegando a página 124
+2025-10-23 14:15:56 - scraper_rango_unico - INFO - Página 124 procesada: 15 compras
+2025-10-23 14:15:56 - scraper_rango_unico - INFO - Progreso: 124/623 | Total compras: 1860
+2025-10-23 14:15:58 - scraper_rango_unico - INFO - Navegando a página 125
+2025-10-23 14:16:00 - scraper_rango_unico - INFO - Página 125 procesada: 15 compras
+2025-10-23 14:16:00 - scraper_rango_unico - INFO - Progreso: 125/623 | Total compras: 1875
+2025-10-23 14:16:02 - scraper_rango_unico - INFO - Navegando a página 126
+2025-10-23 14:16:04 - scraper_rango_unico - INFO - Página 126 procesada: 15 compras
+2025-10-23 14:16:04 - scraper_rango_unico - INFO - Progreso: 126/623 | Total compras: 1890
+2025-10-23 14:16:06 - scraper_rango_unico - INFO - Navegando a página 127
+2025-10-23 14:16:08 - scraper_rango_unico - INFO - Página 127 procesada: 15 compras
+2025-10-23 14:16:08 - scraper_rango_unico - INFO - Progreso: 127/623 | Total compras: 1905
+2025-10-23 14:16:10 - scraper_rango_unico - INFO - Navegando a página 128
+2025-10-23 14:16:13 - scraper_rango_unico - INFO - Página 128 procesada: 15 compras
+2025-10-23 14:16:13 - scraper_rango_unico - INFO - Progreso: 128/623 | Total compras: 1920
+2025-10-23 14:16:15 - scraper_rango_unico - INFO - Navegando a página 129
+2025-10-23 14:16:17 - scraper_rango_unico - INFO - Página 129 procesada: 15 compras
+2025-10-23 14:16:17 - scraper_rango_unico - INFO - Progreso: 129/623 | Total compras: 1935
+2025-10-23 14:16:19 - scraper_rango_unico - INFO - Navegando a página 130
+2025-10-23 14:16:21 - scraper_rango_unico - INFO - Página 130 procesada: 15 compras
+2025-10-23 14:16:21 - scraper_rango_unico - INFO - Progreso: 130/623 | Total compras: 1950
+2025-10-23 14:16:23 - scraper_rango_unico - INFO - Navegando a página 131
+2025-10-23 14:16:25 - scraper_rango_unico - INFO - Página 131 procesada: 15 compras
+2025-10-23 14:16:25 - scraper_rango_unico - INFO - Progreso: 131/623 | Total compras: 1965
+2025-10-23 14:16:27 - scraper_rango_unico - INFO - Navegando a página 132
+2025-10-23 14:16:30 - scraper_rango_unico - INFO - Página 132 procesada: 15 compras
+2025-10-23 14:16:30 - scraper_rango_unico - INFO - Progreso: 132/623 | Total compras: 1980
+2025-10-23 14:16:32 - scraper_rango_unico - INFO - Navegando a página 133
+2025-10-23 14:16:34 - scraper_rango_unico - INFO - Página 133 procesada: 15 compras
+2025-10-23 14:16:34 - scraper_rango_unico - INFO - Progreso: 133/623 | Total compras: 1995
+2025-10-23 14:16:36 - scraper_rango_unico - INFO - Navegando a página 134
+2025-10-23 14:16:39 - scraper_rango_unico - INFO - Página 134 procesada: 15 compras
+2025-10-23 14:16:39 - scraper_rango_unico - INFO - Progreso: 134/623 | Total compras: 2010
+2025-10-23 14:16:41 - scraper_rango_unico - INFO - Navegando a página 135
+2025-10-23 14:16:43 - scraper_rango_unico - INFO - Página 135 procesada: 15 compras
+2025-10-23 14:16:43 - scraper_rango_unico - INFO - Progreso: 135/623 | Total compras: 2025
+2025-10-23 14:16:45 - scraper_rango_unico - INFO - Navegando a página 136
+2025-10-23 14:16:48 - scraper_rango_unico - INFO - Página 136 procesada: 15 compras
+2025-10-23 14:16:48 - scraper_rango_unico - INFO - Progreso: 136/623 | Total compras: 2040
+2025-10-23 14:16:50 - scraper_rango_unico - INFO - Navegando a página 137
+2025-10-23 14:16:52 - scraper_rango_unico - INFO - Página 137 procesada: 15 compras
+2025-10-23 14:16:52 - scraper_rango_unico - INFO - Progreso: 137/623 | Total compras: 2055
+2025-10-23 14:16:54 - scraper_rango_unico - INFO - Navegando a página 138
+2025-10-23 14:16:57 - scraper_rango_unico - INFO - Página 138 procesada: 15 compras
+2025-10-23 14:16:57 - scraper_rango_unico - INFO - Progreso: 138/623 | Total compras: 2070
+2025-10-23 14:16:59 - scraper_rango_unico - INFO - Navegando a página 139
+2025-10-23 14:17:01 - scraper_rango_unico - INFO - Página 139 procesada: 15 compras
+2025-10-23 14:17:01 - scraper_rango_unico - INFO - Progreso: 139/623 | Total compras: 2085
+2025-10-23 14:17:03 - scraper_rango_unico - INFO - Navegando a página 140
+2025-10-23 14:17:06 - scraper_rango_unico - INFO - Página 140 procesada: 15 compras
+2025-10-23 14:17:06 - scraper_rango_unico - INFO - Progreso: 140/623 | Total compras: 2100
+2025-10-23 14:17:08 - scraper_rango_unico - INFO - Navegando a página 141
+2025-10-23 14:17:11 - scraper_rango_unico - INFO - Página 141 procesada: 15 compras
+2025-10-23 14:17:11 - scraper_rango_unico - INFO - Progreso: 141/623 | Total compras: 2115
+2025-10-23 14:17:13 - scraper_rango_unico - INFO - Navegando a página 142
+2025-10-23 14:17:15 - scraper_rango_unico - INFO - Página 142 procesada: 15 compras
+2025-10-23 14:17:15 - scraper_rango_unico - INFO - Progreso: 142/623 | Total compras: 2130
+2025-10-23 14:17:17 - scraper_rango_unico - INFO - Navegando a página 143
+2025-10-23 14:17:20 - scraper_rango_unico - INFO - Página 143 procesada: 15 compras
+2025-10-23 14:17:20 - scraper_rango_unico - INFO - Progreso: 143/623 | Total compras: 2145
+2025-10-23 14:17:22 - scraper_rango_unico - INFO - Navegando a página 144
+2025-10-23 14:17:24 - scraper_rango_unico - INFO - Página 144 procesada: 15 compras
+2025-10-23 14:17:24 - scraper_rango_unico - INFO - Progreso: 144/623 | Total compras: 2160
+2025-10-23 14:17:26 - scraper_rango_unico - INFO - Navegando a página 145
+2025-10-23 14:17:29 - scraper_rango_unico - INFO - Página 145 procesada: 15 compras
+2025-10-23 14:17:29 - scraper_rango_unico - INFO - Progreso: 145/623 | Total compras: 2175
+2025-10-23 14:17:31 - scraper_rango_unico - INFO - Navegando a página 146
+2025-10-23 14:17:33 - scraper_rango_unico - INFO - Página 146 procesada: 15 compras
+2025-10-23 14:17:33 - scraper_rango_unico - INFO - Progreso: 146/623 | Total compras: 2190
+2025-10-23 14:17:35 - scraper_rango_unico - INFO - Navegando a página 147
+2025-10-23 14:17:38 - scraper_rango_unico - INFO - Página 147 procesada: 15 compras
+2025-10-23 14:17:38 - scraper_rango_unico - INFO - Progreso: 147/623 | Total compras: 2205
+2025-10-23 14:17:40 - scraper_rango_unico - INFO - Navegando a página 148
+2025-10-23 14:17:43 - scraper_rango_unico - INFO - Página 148 procesada: 15 compras
+2025-10-23 14:17:43 - scraper_rango_unico - INFO - Progreso: 148/623 | Total compras: 2220
+2025-10-23 14:17:45 - scraper_rango_unico - INFO - Navegando a página 149
+2025-10-23 14:17:47 - scraper_rango_unico - INFO - Página 149 procesada: 15 compras
+2025-10-23 14:17:47 - scraper_rango_unico - INFO - Progreso: 149/623 | Total compras: 2235
+2025-10-23 14:17:49 - scraper_rango_unico - INFO - Navegando a página 150
+2025-10-23 14:17:51 - scraper_rango_unico - INFO - Página 150 procesada: 15 compras
+2025-10-23 14:17:51 - scraper_rango_unico - INFO - Progreso: 150/623 | Total compras: 2250
+2025-10-23 14:17:53 - scraper_rango_unico - INFO - Navegando a página 151
+2025-10-23 14:17:56 - scraper_rango_unico - INFO - Página 151 procesada: 15 compras
+2025-10-23 14:17:56 - scraper_rango_unico - INFO - Progreso: 151/623 | Total compras: 2265
+2025-10-23 14:17:58 - scraper_rango_unico - INFO - Navegando a página 152
+2025-10-23 14:18:00 - scraper_rango_unico - INFO - Página 152 procesada: 15 compras
+2025-10-23 14:18:00 - scraper_rango_unico - INFO - Progreso: 152/623 | Total compras: 2280
+2025-10-23 14:18:02 - scraper_rango_unico - INFO - Navegando a página 153
+2025-10-23 14:18:05 - scraper_rango_unico - INFO - Página 153 procesada: 15 compras
+2025-10-23 14:18:05 - scraper_rango_unico - INFO - Progreso: 153/623 | Total compras: 2295
+2025-10-23 14:18:07 - scraper_rango_unico - INFO - Navegando a página 154
+2025-10-23 14:18:10 - scraper_rango_unico - INFO - Página 154 procesada: 15 compras
+2025-10-23 14:18:10 - scraper_rango_unico - INFO - Progreso: 154/623 | Total compras: 2310
+2025-10-23 14:18:12 - scraper_rango_unico - INFO - Navegando a página 155
+2025-10-23 14:18:14 - scraper_rango_unico - INFO - Página 155 procesada: 15 compras
+2025-10-23 14:18:14 - scraper_rango_unico - INFO - Progreso: 155/623 | Total compras: 2325
+2025-10-23 14:18:16 - scraper_rango_unico - INFO - Navegando a página 156
+2025-10-23 14:18:19 - scraper_rango_unico - INFO - Página 156 procesada: 15 compras
+2025-10-23 14:18:19 - scraper_rango_unico - INFO - Progreso: 156/623 | Total compras: 2340
+2025-10-23 14:18:21 - scraper_rango_unico - INFO - Navegando a página 157
+2025-10-23 14:18:23 - scraper_rango_unico - INFO - Página 157 procesada: 15 compras
+2025-10-23 14:18:23 - scraper_rango_unico - INFO - Progreso: 157/623 | Total compras: 2355
+2025-10-23 14:18:25 - scraper_rango_unico - INFO - Navegando a página 158
+2025-10-23 14:18:28 - scraper_rango_unico - INFO - Página 158 procesada: 15 compras
+2025-10-23 14:18:28 - scraper_rango_unico - INFO - Progreso: 158/623 | Total compras: 2370
+2025-10-23 14:18:30 - scraper_rango_unico - INFO - Navegando a página 159
+2025-10-23 14:18:33 - scraper_rango_unico - INFO - Página 159 procesada: 15 compras
+2025-10-23 14:18:33 - scraper_rango_unico - INFO - Progreso: 159/623 | Total compras: 2385
+2025-10-23 14:18:35 - scraper_rango_unico - INFO - Navegando a página 160
+2025-10-23 14:18:36 - scraper_rango_unico - INFO - Página 160 procesada: 15 compras
+2025-10-23 14:18:36 - scraper_rango_unico - INFO - Progreso: 160/623 | Total compras: 2400
+2025-10-23 14:18:38 - scraper_rango_unico - INFO - Navegando a página 161
+2025-10-23 14:18:41 - scraper_rango_unico - INFO - Página 161 procesada: 15 compras
+2025-10-23 14:18:41 - scraper_rango_unico - INFO - Progreso: 161/623 | Total compras: 2415
+2025-10-23 14:18:43 - scraper_rango_unico - INFO - Navegando a página 162
+2025-10-23 14:18:45 - scraper_rango_unico - INFO - Página 162 procesada: 15 compras
+2025-10-23 14:18:45 - scraper_rango_unico - INFO - Progreso: 162/623 | Total compras: 2430
+2025-10-23 14:18:47 - scraper_rango_unico - INFO - Navegando a página 163
+2025-10-23 14:18:50 - scraper_rango_unico - INFO - Página 163 procesada: 15 compras
+2025-10-23 14:18:50 - scraper_rango_unico - INFO - Progreso: 163/623 | Total compras: 2445
+2025-10-23 14:18:52 - scraper_rango_unico - INFO - Navegando a página 164
+2025-10-23 14:18:54 - scraper_rango_unico - INFO - Página 164 procesada: 15 compras
+2025-10-23 14:18:54 - scraper_rango_unico - INFO - Progreso: 164/623 | Total compras: 2460
+2025-10-23 14:18:56 - scraper_rango_unico - INFO - Navegando a página 165
+2025-10-23 14:18:59 - scraper_rango_unico - INFO - Página 165 procesada: 15 compras
+2025-10-23 14:18:59 - scraper_rango_unico - INFO - Progreso: 165/623 | Total compras: 2475
+2025-10-23 14:19:01 - scraper_rango_unico - INFO - Navegando a página 166
+2025-10-23 14:19:04 - scraper_rango_unico - INFO - Página 166 procesada: 15 compras
+2025-10-23 14:19:04 - scraper_rango_unico - INFO - Progreso: 166/623 | Total compras: 2490
+2025-10-23 14:19:06 - scraper_rango_unico - INFO - Navegando a página 167
+2025-10-23 14:19:08 - scraper_rango_unico - INFO - Página 167 procesada: 15 compras
+2025-10-23 14:19:08 - scraper_rango_unico - INFO - Progreso: 167/623 | Total compras: 2505
+2025-10-23 14:19:10 - scraper_rango_unico - INFO - Navegando a página 168
+2025-10-23 14:19:12 - scraper_rango_unico - INFO - Página 168 procesada: 15 compras
+2025-10-23 14:19:12 - scraper_rango_unico - INFO - Progreso: 168/623 | Total compras: 2520
+2025-10-23 14:19:14 - scraper_rango_unico - INFO - Navegando a página 169
+2025-10-23 14:19:16 - scraper_rango_unico - INFO - Página 169 procesada: 15 compras
+2025-10-23 14:19:16 - scraper_rango_unico - INFO - Progreso: 169/623 | Total compras: 2535
+2025-10-23 14:19:18 - scraper_rango_unico - INFO - Navegando a página 170
+2025-10-23 14:19:21 - scraper_rango_unico - INFO - Página 170 procesada: 15 compras
+2025-10-23 14:19:21 - scraper_rango_unico - INFO - Progreso: 170/623 | Total compras: 2550
+2025-10-23 14:19:23 - scraper_rango_unico - INFO - Navegando a página 171
+2025-10-23 14:19:25 - scraper_rango_unico - INFO - Página 171 procesada: 15 compras
+2025-10-23 14:19:25 - scraper_rango_unico - INFO - Progreso: 171/623 | Total compras: 2565
+2025-10-23 14:19:27 - scraper_rango_unico - INFO - Navegando a página 172
+2025-10-23 14:19:29 - scraper_rango_unico - INFO - Página 172 procesada: 15 compras
+2025-10-23 14:19:29 - scraper_rango_unico - INFO - Progreso: 172/623 | Total compras: 2580
+2025-10-23 14:19:31 - scraper_rango_unico - INFO - Navegando a página 173
+2025-10-23 14:19:33 - scraper_rango_unico - INFO - Página 173 procesada: 15 compras
+2025-10-23 14:19:33 - scraper_rango_unico - INFO - Progreso: 173/623 | Total compras: 2595
+2025-10-23 14:19:35 - scraper_rango_unico - INFO - Navegando a página 174
+2025-10-23 14:19:38 - scraper_rango_unico - INFO - Página 174 procesada: 15 compras
+2025-10-23 14:19:38 - scraper_rango_unico - INFO - Progreso: 174/623 | Total compras: 2610
+2025-10-23 14:19:40 - scraper_rango_unico - INFO - Navegando a página 175
+2025-10-23 14:19:42 - scraper_rango_unico - INFO - Página 175 procesada: 15 compras
+2025-10-23 14:19:42 - scraper_rango_unico - INFO - Progreso: 175/623 | Total compras: 2625
+2025-10-23 14:19:44 - scraper_rango_unico - INFO - Navegando a página 176
+2025-10-23 14:19:47 - scraper_rango_unico - INFO - Página 176 procesada: 15 compras
+2025-10-23 14:19:47 - scraper_rango_unico - INFO - Progreso: 176/623 | Total compras: 2640
+2025-10-23 14:19:49 - scraper_rango_unico - INFO - Navegando a página 177
+2025-10-23 14:19:51 - scraper_rango_unico - INFO - Página 177 procesada: 15 compras
+2025-10-23 14:19:51 - scraper_rango_unico - INFO - Progreso: 177/623 | Total compras: 2655
+2025-10-23 14:19:53 - scraper_rango_unico - INFO - Navegando a página 178
+2025-10-23 14:19:56 - scraper_rango_unico - INFO - Página 178 procesada: 15 compras
+2025-10-23 14:19:56 - scraper_rango_unico - INFO - Progreso: 178/623 | Total compras: 2670
+2025-10-23 14:19:58 - scraper_rango_unico - INFO - Navegando a página 179
+2025-10-23 14:20:00 - scraper_rango_unico - INFO - Página 179 procesada: 15 compras
+2025-10-23 14:20:00 - scraper_rango_unico - INFO - Progreso: 179/623 | Total compras: 2685
+2025-10-23 14:20:02 - scraper_rango_unico - INFO - Navegando a página 180
+2025-10-23 14:20:04 - scraper_rango_unico - INFO - Página 180 procesada: 15 compras
+2025-10-23 14:20:04 - scraper_rango_unico - INFO - Progreso: 180/623 | Total compras: 2700
+2025-10-23 14:20:06 - scraper_rango_unico - INFO - Navegando a página 181
+2025-10-23 14:20:10 - scraper_rango_unico - INFO - Página 181 procesada: 15 compras
+2025-10-23 14:20:10 - scraper_rango_unico - INFO - Progreso: 181/623 | Total compras: 2715
+2025-10-23 14:20:12 - scraper_rango_unico - INFO - Navegando a página 182
+2025-10-23 14:20:14 - scraper_rango_unico - INFO - Página 182 procesada: 15 compras
+2025-10-23 14:20:14 - scraper_rango_unico - INFO - Progreso: 182/623 | Total compras: 2730
+2025-10-23 14:20:16 - scraper_rango_unico - INFO - Navegando a página 183
+2025-10-23 14:20:18 - scraper_rango_unico - INFO - Página 183 procesada: 15 compras
+2025-10-23 14:20:18 - scraper_rango_unico - INFO - Progreso: 183/623 | Total compras: 2745
+2025-10-23 14:20:20 - scraper_rango_unico - INFO - Navegando a página 184
+2025-10-23 14:20:23 - scraper_rango_unico - INFO - Página 184 procesada: 15 compras
+2025-10-23 14:20:23 - scraper_rango_unico - INFO - Progreso: 184/623 | Total compras: 2760
+2025-10-23 14:20:25 - scraper_rango_unico - INFO - Navegando a página 185
+2025-10-23 14:20:27 - scraper_rango_unico - INFO - Página 185 procesada: 15 compras
+2025-10-23 14:20:27 - scraper_rango_unico - INFO - Progreso: 185/623 | Total compras: 2775
+2025-10-23 14:20:29 - scraper_rango_unico - INFO - Navegando a página 186
+2025-10-23 14:20:32 - scraper_rango_unico - INFO - Página 186 procesada: 15 compras
+2025-10-23 14:20:32 - scraper_rango_unico - INFO - Progreso: 186/623 | Total compras: 2790
+2025-10-23 14:20:34 - scraper_rango_unico - INFO - Navegando a página 187
+2025-10-23 14:20:36 - scraper_rango_unico - INFO - Página 187 procesada: 15 compras
+2025-10-23 14:20:36 - scraper_rango_unico - INFO - Progreso: 187/623 | Total compras: 2805
+2025-10-23 14:20:38 - scraper_rango_unico - INFO - Navegando a página 188
+2025-10-23 14:20:40 - scraper_rango_unico - INFO - Página 188 procesada: 15 compras
+2025-10-23 14:20:40 - scraper_rango_unico - INFO - Progreso: 188/623 | Total compras: 2820
+2025-10-23 14:20:42 - scraper_rango_unico - INFO - Navegando a página 189
+2025-10-23 14:20:45 - scraper_rango_unico - INFO - Página 189 procesada: 15 compras
+2025-10-23 14:20:45 - scraper_rango_unico - INFO - Progreso: 189/623 | Total compras: 2835
+2025-10-23 14:20:47 - scraper_rango_unico - INFO - Navegando a página 190
+2025-10-23 14:20:49 - scraper_rango_unico - INFO - Página 190 procesada: 15 compras
+2025-10-23 14:20:49 - scraper_rango_unico - INFO - Progreso: 190/623 | Total compras: 2850
+2025-10-23 14:20:51 - scraper_rango_unico - INFO - Navegando a página 191
+2025-10-23 14:20:54 - scraper_rango_unico - INFO - Página 191 procesada: 15 compras
+2025-10-23 14:20:54 - scraper_rango_unico - INFO - Progreso: 191/623 | Total compras: 2865
+2025-10-23 14:20:56 - scraper_rango_unico - INFO - Navegando a página 192
+2025-10-23 14:20:58 - scraper_rango_unico - INFO - Página 192 procesada: 15 compras
+2025-10-23 14:20:58 - scraper_rango_unico - INFO - Progreso: 192/623 | Total compras: 2880
+2025-10-23 14:21:00 - scraper_rango_unico - INFO - Navegando a página 193
+2025-10-23 14:21:03 - scraper_rango_unico - INFO - Página 193 procesada: 15 compras
+2025-10-23 14:21:03 - scraper_rango_unico - INFO - Progreso: 193/623 | Total compras: 2895
+2025-10-23 14:21:05 - scraper_rango_unico - INFO - Navegando a página 194
+2025-10-23 14:21:07 - scraper_rango_unico - INFO - Página 194 procesada: 15 compras
+2025-10-23 14:21:07 - scraper_rango_unico - INFO - Progreso: 194/623 | Total compras: 2910
+2025-10-23 14:21:09 - scraper_rango_unico - INFO - Navegando a página 195
+2025-10-23 14:21:12 - scraper_rango_unico - INFO - Página 195 procesada: 15 compras
+2025-10-23 14:21:12 - scraper_rango_unico - INFO - Progreso: 195/623 | Total compras: 2925
+2025-10-23 14:21:14 - scraper_rango_unico - INFO - Navegando a página 196
+2025-10-23 14:21:17 - scraper_rango_unico - INFO - Página 196 procesada: 15 compras
+2025-10-23 14:21:17 - scraper_rango_unico - INFO - Progreso: 196/623 | Total compras: 2940
+2025-10-23 14:21:19 - scraper_rango_unico - INFO - Navegando a página 197
+2025-10-23 14:21:21 - scraper_rango_unico - INFO - Página 197 procesada: 15 compras
+2025-10-23 14:21:21 - scraper_rango_unico - INFO - Progreso: 197/623 | Total compras: 2955
+2025-10-23 14:21:23 - scraper_rango_unico - INFO - Navegando a página 198
+2025-10-23 14:21:25 - scraper_rango_unico - INFO - Página 198 procesada: 15 compras
+2025-10-23 14:21:25 - scraper_rango_unico - INFO - Progreso: 198/623 | Total compras: 2970
+2025-10-23 14:21:27 - scraper_rango_unico - INFO - Navegando a página 199
+2025-10-23 14:21:29 - scraper_rango_unico - INFO - Página 199 procesada: 15 compras
+2025-10-23 14:21:29 - scraper_rango_unico - INFO - Progreso: 199/623 | Total compras: 2985
+2025-10-23 14:21:31 - scraper_rango_unico - INFO - Navegando a página 200
+2025-10-23 14:21:33 - scraper_rango_unico - INFO - Página 200 procesada: 15 compras
+2025-10-23 14:21:33 - scraper_rango_unico - INFO - Progreso: 200/623 | Total compras: 3000
+2025-10-23 14:21:35 - scraper_rango_unico - INFO - Navegando a página 201
+2025-10-23 14:21:38 - scraper_rango_unico - INFO - Página 201 procesada: 15 compras
+2025-10-23 14:21:38 - scraper_rango_unico - INFO - Progreso: 201/623 | Total compras: 3015
+2025-10-23 14:21:40 - scraper_rango_unico - INFO - Navegando a página 202
+2025-10-23 14:21:42 - scraper_rango_unico - INFO - Página 202 procesada: 15 compras
+2025-10-23 14:21:42 - scraper_rango_unico - INFO - Progreso: 202/623 | Total compras: 3030
+2025-10-23 14:21:44 - scraper_rango_unico - INFO - Navegando a página 203
+2025-10-23 14:21:46 - scraper_rango_unico - INFO - Página 203 procesada: 15 compras
+2025-10-23 14:21:46 - scraper_rango_unico - INFO - Progreso: 203/623 | Total compras: 3045
+2025-10-23 14:21:48 - scraper_rango_unico - INFO - Navegando a página 204
+2025-10-23 14:21:51 - scraper_rango_unico - INFO - Página 204 procesada: 15 compras
+2025-10-23 14:21:51 - scraper_rango_unico - INFO - Progreso: 204/623 | Total compras: 3060
+2025-10-23 14:21:53 - scraper_rango_unico - INFO - Navegando a página 205
+2025-10-23 14:21:55 - scraper_rango_unico - INFO - Página 205 procesada: 15 compras
+2025-10-23 14:21:55 - scraper_rango_unico - INFO - Progreso: 205/623 | Total compras: 3075
+2025-10-23 14:21:57 - scraper_rango_unico - INFO - Navegando a página 206
+2025-10-23 14:21:59 - scraper_rango_unico - INFO - Página 206 procesada: 15 compras
+2025-10-23 14:21:59 - scraper_rango_unico - INFO - Progreso: 206/623 | Total compras: 3090
+2025-10-23 14:22:01 - scraper_rango_unico - INFO - Navegando a página 207
+2025-10-23 14:22:04 - scraper_rango_unico - INFO - Página 207 procesada: 15 compras
+2025-10-23 14:22:04 - scraper_rango_unico - INFO - Progreso: 207/623 | Total compras: 3105
+2025-10-23 14:22:06 - scraper_rango_unico - INFO - Navegando a página 208
+2025-10-23 14:22:08 - scraper_rango_unico - INFO - Página 208 procesada: 15 compras
+2025-10-23 14:22:08 - scraper_rango_unico - INFO - Progreso: 208/623 | Total compras: 3120
+2025-10-23 14:22:10 - scraper_rango_unico - INFO - Navegando a página 209
+2025-10-23 14:22:13 - scraper_rango_unico - INFO - Página 209 procesada: 15 compras
+2025-10-23 14:22:13 - scraper_rango_unico - INFO - Progreso: 209/623 | Total compras: 3135
+2025-10-23 14:22:15 - scraper_rango_unico - INFO - Navegando a página 210
+2025-10-23 14:22:17 - scraper_rango_unico - INFO - Página 210 procesada: 15 compras
+2025-10-23 14:22:17 - scraper_rango_unico - INFO - Progreso: 210/623 | Total compras: 3150
+2025-10-23 14:22:19 - scraper_rango_unico - INFO - Navegando a página 211
+2025-10-23 14:22:21 - scraper_rango_unico - INFO - Página 211 procesada: 15 compras
+2025-10-23 14:22:21 - scraper_rango_unico - INFO - Progreso: 211/623 | Total compras: 3165
+2025-10-23 14:22:23 - scraper_rango_unico - INFO - Navegando a página 212
+2025-10-23 14:22:26 - scraper_rango_unico - INFO - Página 212 procesada: 15 compras
+2025-10-23 14:22:26 - scraper_rango_unico - INFO - Progreso: 212/623 | Total compras: 3180
+2025-10-23 14:22:28 - scraper_rango_unico - INFO - Navegando a página 213
+2025-10-23 14:22:30 - scraper_rango_unico - INFO - Página 213 procesada: 15 compras
+2025-10-23 14:22:30 - scraper_rango_unico - INFO - Progreso: 213/623 | Total compras: 3195
+2025-10-23 14:22:32 - scraper_rango_unico - INFO - Navegando a página 214
+2025-10-23 14:22:34 - scraper_rango_unico - INFO - Página 214 procesada: 15 compras
+2025-10-23 14:22:34 - scraper_rango_unico - INFO - Progreso: 214/623 | Total compras: 3210
+2025-10-23 14:22:36 - scraper_rango_unico - INFO - Navegando a página 215
+2025-10-23 14:22:38 - scraper_rango_unico - INFO - Página 215 procesada: 15 compras
+2025-10-23 14:22:38 - scraper_rango_unico - INFO - Progreso: 215/623 | Total compras: 3225
+2025-10-23 14:22:40 - scraper_rango_unico - INFO - Navegando a página 216
+2025-10-23 14:22:43 - scraper_rango_unico - INFO - Página 216 procesada: 15 compras
+2025-10-23 14:22:43 - scraper_rango_unico - INFO - Progreso: 216/623 | Total compras: 3240
+2025-10-23 14:22:45 - scraper_rango_unico - INFO - Navegando a página 217
+2025-10-23 14:22:48 - scraper_rango_unico - INFO - Página 217 procesada: 15 compras
+2025-10-23 14:22:48 - scraper_rango_unico - INFO - Progreso: 217/623 | Total compras: 3255
+2025-10-23 14:22:50 - scraper_rango_unico - INFO - Navegando a página 218
+2025-10-23 14:22:53 - scraper_rango_unico - INFO - Página 218 procesada: 15 compras
+2025-10-23 14:22:53 - scraper_rango_unico - INFO - Progreso: 218/623 | Total compras: 3270
+2025-10-23 14:22:55 - scraper_rango_unico - INFO - Navegando a página 219
+2025-10-23 14:22:58 - scraper_rango_unico - INFO - Página 219 procesada: 15 compras
+2025-10-23 14:22:58 - scraper_rango_unico - INFO - Progreso: 219/623 | Total compras: 3285
+2025-10-23 14:23:00 - scraper_rango_unico - INFO - Navegando a página 220
+2025-10-23 14:23:03 - scraper_rango_unico - INFO - Página 220 procesada: 15 compras
+2025-10-23 14:23:03 - scraper_rango_unico - INFO - Progreso: 220/623 | Total compras: 3300
+2025-10-23 14:23:05 - scraper_rango_unico - INFO - Navegando a página 221
+2025-10-23 14:23:07 - scraper_rango_unico - INFO - Página 221 procesada: 15 compras
+2025-10-23 14:23:07 - scraper_rango_unico - INFO - Progreso: 221/623 | Total compras: 3315
+2025-10-23 14:23:09 - scraper_rango_unico - INFO - Navegando a página 222
+2025-10-23 14:23:11 - scraper_rango_unico - INFO - Página 222 procesada: 15 compras
+2025-10-23 14:23:11 - scraper_rango_unico - INFO - Progreso: 222/623 | Total compras: 3330
+2025-10-23 14:23:13 - scraper_rango_unico - INFO - Navegando a página 223
+2025-10-23 14:23:15 - scraper_rango_unico - INFO - Página 223 procesada: 15 compras
+2025-10-23 14:23:15 - scraper_rango_unico - INFO - Progreso: 223/623 | Total compras: 3345
+2025-10-23 14:23:17 - scraper_rango_unico - INFO - Navegando a página 224
+2025-10-23 14:23:19 - scraper_rango_unico - INFO - Página 224 procesada: 15 compras
+2025-10-23 14:23:19 - scraper_rango_unico - INFO - Progreso: 224/623 | Total compras: 3360
+2025-10-23 14:23:21 - scraper_rango_unico - INFO - Navegando a página 225
+2025-10-23 14:23:24 - scraper_rango_unico - INFO - Página 225 procesada: 15 compras
+2025-10-23 14:23:24 - scraper_rango_unico - INFO - Progreso: 225/623 | Total compras: 3375
+2025-10-23 14:23:26 - scraper_rango_unico - INFO - Navegando a página 226
+2025-10-23 14:23:28 - scraper_rango_unico - INFO - Página 226 procesada: 15 compras
+2025-10-23 14:23:28 - scraper_rango_unico - INFO - Progreso: 226/623 | Total compras: 3390
+2025-10-23 14:23:30 - scraper_rango_unico - INFO - Navegando a página 227
+2025-10-23 14:23:33 - scraper_rango_unico - INFO - Página 227 procesada: 15 compras
+2025-10-23 14:23:33 - scraper_rango_unico - INFO - Progreso: 227/623 | Total compras: 3405
+2025-10-23 14:23:35 - scraper_rango_unico - INFO - Navegando a página 228
+2025-10-23 14:23:37 - scraper_rango_unico - INFO - Página 228 procesada: 15 compras
+2025-10-23 14:23:37 - scraper_rango_unico - INFO - Progreso: 228/623 | Total compras: 3420
+2025-10-23 14:23:39 - scraper_rango_unico - INFO - Navegando a página 229
+2025-10-23 14:23:41 - scraper_rango_unico - INFO - Página 229 procesada: 15 compras
+2025-10-23 14:23:41 - scraper_rango_unico - INFO - Progreso: 229/623 | Total compras: 3435
+2025-10-23 14:23:43 - scraper_rango_unico - INFO - Navegando a página 230
+2025-10-23 14:23:45 - scraper_rango_unico - INFO - Página 230 procesada: 15 compras
+2025-10-23 14:23:45 - scraper_rango_unico - INFO - Progreso: 230/623 | Total compras: 3450
+2025-10-23 14:23:47 - scraper_rango_unico - INFO - Navegando a página 231
+2025-10-23 14:23:49 - scraper_rango_unico - INFO - Página 231 procesada: 15 compras
+2025-10-23 14:23:49 - scraper_rango_unico - INFO - Progreso: 231/623 | Total compras: 3465
+2025-10-23 14:23:51 - scraper_rango_unico - INFO - Navegando a página 232
+2025-10-23 14:23:54 - scraper_rango_unico - INFO - Página 232 procesada: 15 compras
+2025-10-23 14:23:54 - scraper_rango_unico - INFO - Progreso: 232/623 | Total compras: 3480
+2025-10-23 14:23:56 - scraper_rango_unico - INFO - Navegando a página 233
+2025-10-23 14:23:59 - scraper_rango_unico - INFO - Página 233 procesada: 15 compras
+2025-10-23 14:23:59 - scraper_rango_unico - INFO - Progreso: 233/623 | Total compras: 3495
+2025-10-23 14:24:01 - scraper_rango_unico - INFO - Navegando a página 234
+2025-10-23 14:24:03 - scraper_rango_unico - INFO - Página 234 procesada: 15 compras
+2025-10-23 14:24:03 - scraper_rango_unico - INFO - Progreso: 234/623 | Total compras: 3510
+2025-10-23 14:24:05 - scraper_rango_unico - INFO - Navegando a página 235
+2025-10-23 14:24:08 - scraper_rango_unico - INFO - Página 235 procesada: 15 compras
+2025-10-23 14:24:08 - scraper_rango_unico - INFO - Progreso: 235/623 | Total compras: 3525
+2025-10-23 14:24:10 - scraper_rango_unico - INFO - Navegando a página 236
+2025-10-23 14:24:12 - scraper_rango_unico - INFO - Página 236 procesada: 15 compras
+2025-10-23 14:24:12 - scraper_rango_unico - INFO - Progreso: 236/623 | Total compras: 3540
+2025-10-23 14:24:14 - scraper_rango_unico - INFO - Navegando a página 237
+2025-10-23 14:24:17 - scraper_rango_unico - INFO - Página 237 procesada: 15 compras
+2025-10-23 14:24:17 - scraper_rango_unico - INFO - Progreso: 237/623 | Total compras: 3555
+2025-10-23 14:24:19 - scraper_rango_unico - INFO - Navegando a página 238
+2025-10-23 14:24:22 - scraper_rango_unico - INFO - Página 238 procesada: 15 compras
+2025-10-23 14:24:22 - scraper_rango_unico - INFO - Progreso: 238/623 | Total compras: 3570
+2025-10-23 14:24:24 - scraper_rango_unico - INFO - Navegando a página 239
+2025-10-23 14:24:26 - scraper_rango_unico - INFO - Página 239 procesada: 15 compras
+2025-10-23 14:24:26 - scraper_rango_unico - INFO - Progreso: 239/623 | Total compras: 3585
+2025-10-23 14:24:28 - scraper_rango_unico - INFO - Navegando a página 240
+2025-10-23 14:24:31 - scraper_rango_unico - INFO - Página 240 procesada: 15 compras
+2025-10-23 14:24:31 - scraper_rango_unico - INFO - Progreso: 240/623 | Total compras: 3600
+2025-10-23 14:24:33 - scraper_rango_unico - INFO - Navegando a página 241
+2025-10-23 14:24:35 - scraper_rango_unico - INFO - Página 241 procesada: 15 compras
+2025-10-23 14:24:35 - scraper_rango_unico - INFO - Progreso: 241/623 | Total compras: 3615
+2025-10-23 14:24:37 - scraper_rango_unico - INFO - Navegando a página 242
+2025-10-23 14:24:39 - scraper_rango_unico - INFO - Página 242 procesada: 15 compras
+2025-10-23 14:24:39 - scraper_rango_unico - INFO - Progreso: 242/623 | Total compras: 3630
+2025-10-23 14:24:41 - scraper_rango_unico - INFO - Navegando a página 243
+2025-10-23 14:24:44 - scraper_rango_unico - INFO - Página 243 procesada: 15 compras
+2025-10-23 14:24:44 - scraper_rango_unico - INFO - Progreso: 243/623 | Total compras: 3645
+2025-10-23 14:24:46 - scraper_rango_unico - INFO - Navegando a página 244
+2025-10-23 14:24:49 - scraper_rango_unico - INFO - Página 244 procesada: 15 compras
+2025-10-23 14:24:49 - scraper_rango_unico - INFO - Progreso: 244/623 | Total compras: 3660
+2025-10-23 14:24:51 - scraper_rango_unico - INFO - Navegando a página 245
+2025-10-23 14:24:53 - scraper_rango_unico - INFO - Página 245 procesada: 15 compras
+2025-10-23 14:24:53 - scraper_rango_unico - INFO - Progreso: 245/623 | Total compras: 3675
+2025-10-23 14:24:55 - scraper_rango_unico - INFO - Navegando a página 246
+2025-10-23 14:24:58 - scraper_rango_unico - INFO - Página 246 procesada: 15 compras
+2025-10-23 14:24:58 - scraper_rango_unico - INFO - Progreso: 246/623 | Total compras: 3690
+2025-10-23 14:25:00 - scraper_rango_unico - INFO - Navegando a página 247
+2025-10-23 14:25:03 - scraper_rango_unico - INFO - Página 247 procesada: 15 compras
+2025-10-23 14:25:03 - scraper_rango_unico - INFO - Progreso: 247/623 | Total compras: 3705
+2025-10-23 14:25:05 - scraper_rango_unico - INFO - Navegando a página 248
+2025-10-23 14:25:09 - scraper_rango_unico - INFO - Página 248 procesada: 15 compras
+2025-10-23 14:25:09 - scraper_rango_unico - INFO - Progreso: 248/623 | Total compras: 3720
+2025-10-23 14:25:11 - scraper_rango_unico - INFO - Navegando a página 249
+2025-10-23 14:25:15 - scraper_rango_unico - INFO - Página 249 procesada: 15 compras
+2025-10-23 14:25:15 - scraper_rango_unico - INFO - Progreso: 249/623 | Total compras: 3735
+2025-10-23 14:25:17 - scraper_rango_unico - INFO - Navegando a página 250
+2025-10-23 14:25:19 - scraper_rango_unico - INFO - Página 250 procesada: 15 compras
+2025-10-23 14:25:19 - scraper_rango_unico - INFO - Progreso: 250/623 | Total compras: 3750
+2025-10-23 14:25:21 - scraper_rango_unico - INFO - Navegando a página 251
+2025-10-23 14:25:24 - scraper_rango_unico - INFO - Página 251 procesada: 15 compras
+2025-10-23 14:25:24 - scraper_rango_unico - INFO - Progreso: 251/623 | Total compras: 3765
+2025-10-23 14:25:26 - scraper_rango_unico - INFO - Navegando a página 252
+2025-10-23 14:25:29 - scraper_rango_unico - INFO - Página 252 procesada: 15 compras
+2025-10-23 14:25:29 - scraper_rango_unico - INFO - Progreso: 252/623 | Total compras: 3780
+2025-10-23 14:25:31 - scraper_rango_unico - INFO - Navegando a página 253
+2025-10-23 14:25:33 - scraper_rango_unico - INFO - Página 253 procesada: 15 compras
+2025-10-23 14:25:33 - scraper_rango_unico - INFO - Progreso: 253/623 | Total compras: 3795
+2025-10-23 14:25:35 - scraper_rango_unico - INFO - Navegando a página 254
+2025-10-23 14:25:38 - scraper_rango_unico - INFO - Página 254 procesada: 15 compras
+2025-10-23 14:25:38 - scraper_rango_unico - INFO - Progreso: 254/623 | Total compras: 3810
+2025-10-23 14:25:40 - scraper_rango_unico - INFO - Navegando a página 255
+2025-10-23 14:25:43 - scraper_rango_unico - INFO - Página 255 procesada: 15 compras
+2025-10-23 14:25:43 - scraper_rango_unico - INFO - Progreso: 255/623 | Total compras: 3825
+2025-10-23 14:25:45 - scraper_rango_unico - INFO - Navegando a página 256
+2025-10-23 14:25:48 - scraper_rango_unico - INFO - Página 256 procesada: 15 compras
+2025-10-23 14:25:48 - scraper_rango_unico - INFO - Progreso: 256/623 | Total compras: 3840
+2025-10-23 14:25:50 - scraper_rango_unico - INFO - Navegando a página 257
+2025-10-23 14:25:52 - scraper_rango_unico - INFO - Página 257 procesada: 15 compras
+2025-10-23 14:25:52 - scraper_rango_unico - INFO - Progreso: 257/623 | Total compras: 3855
+2025-10-23 14:25:54 - scraper_rango_unico - INFO - Navegando a página 258
+2025-10-23 14:25:57 - scraper_rango_unico - INFO - Página 258 procesada: 15 compras
+2025-10-23 14:25:57 - scraper_rango_unico - INFO - Progreso: 258/623 | Total compras: 3870
+2025-10-23 14:25:59 - scraper_rango_unico - INFO - Navegando a página 259
+2025-10-23 14:26:01 - scraper_rango_unico - INFO - Página 259 procesada: 15 compras
+2025-10-23 14:26:01 - scraper_rango_unico - INFO - Progreso: 259/623 | Total compras: 3885
+2025-10-23 14:26:03 - scraper_rango_unico - INFO - Navegando a página 260
+2025-10-23 14:26:06 - scraper_rango_unico - INFO - Página 260 procesada: 15 compras
+2025-10-23 14:26:06 - scraper_rango_unico - INFO - Progreso: 260/623 | Total compras: 3900
+2025-10-23 14:26:08 - scraper_rango_unico - INFO - Navegando a página 261
+2025-10-23 14:26:10 - scraper_rango_unico - INFO - Página 261 procesada: 15 compras
+2025-10-23 14:26:10 - scraper_rango_unico - INFO - Progreso: 261/623 | Total compras: 3915
+2025-10-23 14:26:12 - scraper_rango_unico - INFO - Navegando a página 262
+2025-10-23 14:26:14 - scraper_rango_unico - INFO - Página 262 procesada: 15 compras
+2025-10-23 14:26:14 - scraper_rango_unico - INFO - Progreso: 262/623 | Total compras: 3930
+2025-10-23 14:26:16 - scraper_rango_unico - INFO - Navegando a página 263
+2025-10-23 14:26:19 - scraper_rango_unico - INFO - Página 263 procesada: 15 compras
+2025-10-23 14:26:19 - scraper_rango_unico - INFO - Progreso: 263/623 | Total compras: 3945
+2025-10-23 14:26:21 - scraper_rango_unico - INFO - Navegando a página 264
+2025-10-23 14:26:23 - scraper_rango_unico - INFO - Página 264 procesada: 15 compras
+2025-10-23 14:26:23 - scraper_rango_unico - INFO - Progreso: 264/623 | Total compras: 3960
+2025-10-23 14:26:25 - scraper_rango_unico - INFO - Navegando a página 265
+2025-10-23 14:26:28 - scraper_rango_unico - INFO - Página 265 procesada: 15 compras
+2025-10-23 14:26:28 - scraper_rango_unico - INFO - Progreso: 265/623 | Total compras: 3975
+2025-10-23 14:26:30 - scraper_rango_unico - INFO - Navegando a página 266
+2025-10-23 14:26:32 - scraper_rango_unico - INFO - Página 266 procesada: 15 compras
+2025-10-23 14:26:32 - scraper_rango_unico - INFO - Progreso: 266/623 | Total compras: 3990
+2025-10-23 14:26:34 - scraper_rango_unico - INFO - Navegando a página 267
+2025-10-23 14:26:37 - scraper_rango_unico - INFO - Página 267 procesada: 15 compras
+2025-10-23 14:26:37 - scraper_rango_unico - INFO - Progreso: 267/623 | Total compras: 4005
+2025-10-23 14:26:39 - scraper_rango_unico - INFO - Navegando a página 268
+2025-10-23 14:26:41 - scraper_rango_unico - INFO - Página 268 procesada: 15 compras
+2025-10-23 14:26:41 - scraper_rango_unico - INFO - Progreso: 268/623 | Total compras: 4020
+2025-10-23 14:26:43 - scraper_rango_unico - INFO - Navegando a página 269
+2025-10-23 14:26:46 - scraper_rango_unico - INFO - Página 269 procesada: 15 compras
+2025-10-23 14:26:46 - scraper_rango_unico - INFO - Progreso: 269/623 | Total compras: 4035
+2025-10-23 14:26:48 - scraper_rango_unico - INFO - Navegando a página 270
+2025-10-23 14:26:50 - scraper_rango_unico - INFO - Página 270 procesada: 15 compras
+2025-10-23 14:26:50 - scraper_rango_unico - INFO - Progreso: 270/623 | Total compras: 4050
+2025-10-23 14:26:52 - scraper_rango_unico - INFO - Navegando a página 271
+2025-10-23 14:26:55 - scraper_rango_unico - INFO - Página 271 procesada: 15 compras
+2025-10-23 14:26:55 - scraper_rango_unico - INFO - Progreso: 271/623 | Total compras: 4065
+2025-10-23 14:26:57 - scraper_rango_unico - INFO - Navegando a página 272
+2025-10-23 14:26:59 - scraper_rango_unico - INFO - Página 272 procesada: 15 compras
+2025-10-23 14:26:59 - scraper_rango_unico - INFO - Progreso: 272/623 | Total compras: 4080
+2025-10-23 14:27:01 - scraper_rango_unico - INFO - Navegando a página 273
+2025-10-23 14:27:05 - scraper_rango_unico - INFO - Página 273 procesada: 15 compras
+2025-10-23 14:27:05 - scraper_rango_unico - INFO - Progreso: 273/623 | Total compras: 4095
+2025-10-23 14:27:07 - scraper_rango_unico - INFO - Navegando a página 274
+2025-10-23 14:27:09 - scraper_rango_unico - INFO - Página 274 procesada: 15 compras
+2025-10-23 14:27:09 - scraper_rango_unico - INFO - Progreso: 274/623 | Total compras: 4110
+2025-10-23 14:27:11 - scraper_rango_unico - INFO - Navegando a página 275
+2025-10-23 14:27:14 - scraper_rango_unico - INFO - Página 275 procesada: 15 compras
+2025-10-23 14:27:14 - scraper_rango_unico - INFO - Progreso: 275/623 | Total compras: 4125
+2025-10-23 14:27:16 - scraper_rango_unico - INFO - Navegando a página 276
+2025-10-23 14:27:18 - scraper_rango_unico - INFO - Página 276 procesada: 15 compras
+2025-10-23 14:27:18 - scraper_rango_unico - INFO - Progreso: 276/623 | Total compras: 4140
+2025-10-23 14:27:20 - scraper_rango_unico - INFO - Navegando a página 277
+2025-10-23 14:27:23 - scraper_rango_unico - INFO - Página 277 procesada: 15 compras
+2025-10-23 14:27:23 - scraper_rango_unico - INFO - Progreso: 277/623 | Total compras: 4155
+2025-10-23 14:27:25 - scraper_rango_unico - INFO - Navegando a página 278
+2025-10-23 14:27:27 - scraper_rango_unico - INFO - Página 278 procesada: 15 compras
+2025-10-23 14:27:27 - scraper_rango_unico - INFO - Progreso: 278/623 | Total compras: 4170
+2025-10-23 14:27:29 - scraper_rango_unico - INFO - Navegando a página 279
+2025-10-23 14:27:32 - scraper_rango_unico - INFO - Página 279 procesada: 15 compras
+2025-10-23 14:27:32 - scraper_rango_unico - INFO - Progreso: 279/623 | Total compras: 4185
+2025-10-23 14:27:34 - scraper_rango_unico - INFO - Navegando a página 280
+2025-10-23 14:27:36 - scraper_rango_unico - INFO - Página 280 procesada: 15 compras
+2025-10-23 14:27:36 - scraper_rango_unico - INFO - Progreso: 280/623 | Total compras: 4200
+2025-10-23 14:27:38 - scraper_rango_unico - INFO - Navegando a página 281
+2025-10-23 14:27:40 - scraper_rango_unico - INFO - Página 281 procesada: 15 compras
+2025-10-23 14:27:40 - scraper_rango_unico - INFO - Progreso: 281/623 | Total compras: 4215
+2025-10-23 14:27:42 - scraper_rango_unico - INFO - Navegando a página 282
+2025-10-23 14:27:45 - scraper_rango_unico - INFO - Página 282 procesada: 15 compras
+2025-10-23 14:27:45 - scraper_rango_unico - INFO - Progreso: 282/623 | Total compras: 4230
+2025-10-23 14:27:47 - scraper_rango_unico - INFO - Navegando a página 283
+2025-10-23 14:27:50 - scraper_rango_unico - INFO - Página 283 procesada: 15 compras
+2025-10-23 14:27:50 - scraper_rango_unico - INFO - Progreso: 283/623 | Total compras: 4245
+2025-10-23 14:27:52 - scraper_rango_unico - INFO - Navegando a página 284
+2025-10-23 14:27:54 - scraper_rango_unico - INFO - Página 284 procesada: 15 compras
+2025-10-23 14:27:54 - scraper_rango_unico - INFO - Progreso: 284/623 | Total compras: 4260
+2025-10-23 14:27:56 - scraper_rango_unico - INFO - Navegando a página 285
+2025-10-23 14:27:58 - scraper_rango_unico - INFO - Página 285 procesada: 15 compras
+2025-10-23 14:27:58 - scraper_rango_unico - INFO - Progreso: 285/623 | Total compras: 4275
+2025-10-23 14:28:00 - scraper_rango_unico - INFO - Navegando a página 286
+2025-10-23 14:28:02 - scraper_rango_unico - INFO - Página 286 procesada: 15 compras
+2025-10-23 14:28:02 - scraper_rango_unico - INFO - Progreso: 286/623 | Total compras: 4290
+2025-10-23 14:28:04 - scraper_rango_unico - INFO - Navegando a página 287
+2025-10-23 14:28:07 - scraper_rango_unico - INFO - Página 287 procesada: 15 compras
+2025-10-23 14:28:07 - scraper_rango_unico - INFO - Progreso: 287/623 | Total compras: 4305
+2025-10-23 14:28:09 - scraper_rango_unico - INFO - Navegando a página 288
+2025-10-23 14:28:11 - scraper_rango_unico - INFO - Página 288 procesada: 15 compras
+2025-10-23 14:28:11 - scraper_rango_unico - INFO - Progreso: 288/623 | Total compras: 4320
+2025-10-23 14:28:13 - scraper_rango_unico - INFO - Navegando a página 289
+2025-10-23 14:28:16 - scraper_rango_unico - INFO - Página 289 procesada: 15 compras
+2025-10-23 14:28:16 - scraper_rango_unico - INFO - Progreso: 289/623 | Total compras: 4335
+2025-10-23 14:28:18 - scraper_rango_unico - INFO - Navegando a página 290
+2025-10-23 14:28:20 - scraper_rango_unico - INFO - Página 290 procesada: 15 compras
+2025-10-23 14:28:20 - scraper_rango_unico - INFO - Progreso: 290/623 | Total compras: 4350
+2025-10-23 14:28:22 - scraper_rango_unico - INFO - Navegando a página 291
+2025-10-23 14:28:24 - scraper_rango_unico - INFO - Página 291 procesada: 15 compras
+2025-10-23 14:28:24 - scraper_rango_unico - INFO - Progreso: 291/623 | Total compras: 4365
+2025-10-23 14:28:26 - scraper_rango_unico - INFO - Navegando a página 292
+2025-10-23 14:28:29 - scraper_rango_unico - INFO - Página 292 procesada: 15 compras
+2025-10-23 14:28:29 - scraper_rango_unico - INFO - Progreso: 292/623 | Total compras: 4380
+2025-10-23 14:28:31 - scraper_rango_unico - INFO - Navegando a página 293
+2025-10-23 14:28:33 - scraper_rango_unico - INFO - Página 293 procesada: 15 compras
+2025-10-23 14:28:33 - scraper_rango_unico - INFO - Progreso: 293/623 | Total compras: 4395
+2025-10-23 14:28:35 - scraper_rango_unico - INFO - Navegando a página 294
+2025-10-23 14:28:37 - scraper_rango_unico - INFO - Página 294 procesada: 15 compras
+2025-10-23 14:28:37 - scraper_rango_unico - INFO - Progreso: 294/623 | Total compras: 4410
+2025-10-23 14:28:39 - scraper_rango_unico - INFO - Navegando a página 295
+2025-10-23 14:28:42 - scraper_rango_unico - INFO - Página 295 procesada: 15 compras
+2025-10-23 14:28:42 - scraper_rango_unico - INFO - Progreso: 295/623 | Total compras: 4425
+2025-10-23 14:28:44 - scraper_rango_unico - INFO - Navegando a página 296
+2025-10-23 14:28:46 - scraper_rango_unico - INFO - Página 296 procesada: 15 compras
+2025-10-23 14:28:46 - scraper_rango_unico - INFO - Progreso: 296/623 | Total compras: 4440
+2025-10-23 14:28:48 - scraper_rango_unico - INFO - Navegando a página 297
+2025-10-23 14:28:51 - scraper_rango_unico - INFO - Página 297 procesada: 15 compras
+2025-10-23 14:28:51 - scraper_rango_unico - INFO - Progreso: 297/623 | Total compras: 4455
+2025-10-23 14:28:53 - scraper_rango_unico - INFO - Navegando a página 298
+2025-10-23 14:28:56 - scraper_rango_unico - INFO - Página 298 procesada: 15 compras
+2025-10-23 14:28:56 - scraper_rango_unico - INFO - Progreso: 298/623 | Total compras: 4470
+2025-10-23 14:28:58 - scraper_rango_unico - INFO - Navegando a página 299
+2025-10-23 14:29:00 - scraper_rango_unico - INFO - Página 299 procesada: 15 compras
+2025-10-23 14:29:00 - scraper_rango_unico - INFO - Progreso: 299/623 | Total compras: 4485
+2025-10-23 14:29:02 - scraper_rango_unico - INFO - Navegando a página 300
+2025-10-23 14:29:05 - scraper_rango_unico - INFO - Página 300 procesada: 15 compras
+2025-10-23 14:29:05 - scraper_rango_unico - INFO - Progreso: 300/623 | Total compras: 4500
+2025-10-23 14:29:07 - scraper_rango_unico - INFO - Navegando a página 301
+2025-10-23 14:29:09 - scraper_rango_unico - INFO - Página 301 procesada: 15 compras
+2025-10-23 14:29:09 - scraper_rango_unico - INFO - Progreso: 301/623 | Total compras: 4515
+2025-10-23 14:29:11 - scraper_rango_unico - INFO - Navegando a página 302
+2025-10-23 14:29:13 - scraper_rango_unico - INFO - Página 302 procesada: 15 compras
+2025-10-23 14:29:13 - scraper_rango_unico - INFO - Progreso: 302/623 | Total compras: 4530
+2025-10-23 14:29:15 - scraper_rango_unico - INFO - Navegando a página 303
+2025-10-23 14:29:17 - scraper_rango_unico - INFO - Página 303 procesada: 15 compras
+2025-10-23 14:29:17 - scraper_rango_unico - INFO - Progreso: 303/623 | Total compras: 4545
+2025-10-23 14:29:19 - scraper_rango_unico - INFO - Navegando a página 304
+2025-10-23 14:29:22 - scraper_rango_unico - INFO - Página 304 procesada: 15 compras
+2025-10-23 14:29:22 - scraper_rango_unico - INFO - Progreso: 304/623 | Total compras: 4560
+2025-10-23 14:29:24 - scraper_rango_unico - INFO - Navegando a página 305
+2025-10-23 14:29:26 - scraper_rango_unico - INFO - Página 305 procesada: 15 compras
+2025-10-23 14:29:26 - scraper_rango_unico - INFO - Progreso: 305/623 | Total compras: 4575
+2025-10-23 14:29:28 - scraper_rango_unico - INFO - Navegando a página 306
+2025-10-23 14:29:30 - scraper_rango_unico - INFO - Página 306 procesada: 15 compras
+2025-10-23 14:29:30 - scraper_rango_unico - INFO - Progreso: 306/623 | Total compras: 4590
+2025-10-23 14:29:32 - scraper_rango_unico - INFO - Navegando a página 307
+2025-10-23 14:29:34 - scraper_rango_unico - INFO - Página 307 procesada: 15 compras
+2025-10-23 14:29:34 - scraper_rango_unico - INFO - Progreso: 307/623 | Total compras: 4605
+2025-10-23 14:29:36 - scraper_rango_unico - INFO - Navegando a página 308
+2025-10-23 14:29:39 - scraper_rango_unico - INFO - Página 308 procesada: 15 compras
+2025-10-23 14:29:39 - scraper_rango_unico - INFO - Progreso: 308/623 | Total compras: 4620
+2025-10-23 14:29:41 - scraper_rango_unico - INFO - Navegando a página 309
+2025-10-23 14:29:43 - scraper_rango_unico - INFO - Página 309 procesada: 15 compras
+2025-10-23 14:29:43 - scraper_rango_unico - INFO - Progreso: 309/623 | Total compras: 4635
+2025-10-23 14:29:45 - scraper_rango_unico - INFO - Navegando a página 310
+2025-10-23 14:29:47 - scraper_rango_unico - INFO - Página 310 procesada: 15 compras
+2025-10-23 14:29:47 - scraper_rango_unico - INFO - Progreso: 310/623 | Total compras: 4650
+2025-10-23 14:29:49 - scraper_rango_unico - INFO - Navegando a página 311
+2025-10-23 14:29:51 - scraper_rango_unico - INFO - Página 311 procesada: 15 compras
+2025-10-23 14:29:51 - scraper_rango_unico - INFO - Progreso: 311/623 | Total compras: 4665
+2025-10-23 14:29:53 - scraper_rango_unico - INFO - Navegando a página 312
+2025-10-23 14:29:56 - scraper_rango_unico - INFO - Página 312 procesada: 15 compras
+2025-10-23 14:29:56 - scraper_rango_unico - INFO - Progreso: 312/623 | Total compras: 4680
+2025-10-23 14:29:58 - scraper_rango_unico - INFO - Navegando a página 313
+2025-10-23 14:30:00 - scraper_rango_unico - INFO - Página 313 procesada: 15 compras
+2025-10-23 14:30:00 - scraper_rango_unico - INFO - Progreso: 313/623 | Total compras: 4695
+2025-10-23 14:30:02 - scraper_rango_unico - INFO - Navegando a página 314
+2025-10-23 14:30:05 - scraper_rango_unico - INFO - Página 314 procesada: 15 compras
+2025-10-23 14:30:05 - scraper_rango_unico - INFO - Progreso: 314/623 | Total compras: 4710
+2025-10-23 14:30:07 - scraper_rango_unico - INFO - Navegando a página 315
+2025-10-23 14:30:11 - scraper_rango_unico - INFO - Página 315 procesada: 15 compras
+2025-10-23 14:30:11 - scraper_rango_unico - INFO - Progreso: 315/623 | Total compras: 4725
+2025-10-23 14:30:13 - scraper_rango_unico - INFO - Navegando a página 316
+2025-10-23 14:30:17 - scraper_rango_unico - INFO - Página 316 procesada: 15 compras
+2025-10-23 14:30:17 - scraper_rango_unico - INFO - Progreso: 316/623 | Total compras: 4740
+2025-10-23 14:30:19 - scraper_rango_unico - INFO - Navegando a página 317
+2025-10-23 14:30:22 - scraper_rango_unico - INFO - Página 317 procesada: 15 compras
+2025-10-23 14:30:22 - scraper_rango_unico - INFO - Progreso: 317/623 | Total compras: 4755
+2025-10-23 14:30:24 - scraper_rango_unico - INFO - Navegando a página 318
+2025-10-23 14:30:27 - scraper_rango_unico - INFO - Página 318 procesada: 15 compras
+2025-10-23 14:30:27 - scraper_rango_unico - INFO - Progreso: 318/623 | Total compras: 4770
+2025-10-23 14:30:29 - scraper_rango_unico - INFO - Navegando a página 319
+2025-10-23 14:30:31 - scraper_rango_unico - INFO - Página 319 procesada: 15 compras
+2025-10-23 14:30:31 - scraper_rango_unico - INFO - Progreso: 319/623 | Total compras: 4785
+2025-10-23 14:30:33 - scraper_rango_unico - INFO - Navegando a página 320
+2025-10-23 14:30:36 - scraper_rango_unico - INFO - Página 320 procesada: 15 compras
+2025-10-23 14:30:36 - scraper_rango_unico - INFO - Progreso: 320/623 | Total compras: 4800
+2025-10-23 14:30:38 - scraper_rango_unico - INFO - Navegando a página 321
+2025-10-23 14:30:40 - scraper_rango_unico - INFO - Página 321 procesada: 15 compras
+2025-10-23 14:30:40 - scraper_rango_unico - INFO - Progreso: 321/623 | Total compras: 4815
+2025-10-23 14:30:42 - scraper_rango_unico - INFO - Navegando a página 322
+2025-10-23 14:30:44 - scraper_rango_unico - INFO - Página 322 procesada: 15 compras
+2025-10-23 14:30:44 - scraper_rango_unico - INFO - Progreso: 322/623 | Total compras: 4830
+2025-10-23 14:30:46 - scraper_rango_unico - INFO - Navegando a página 323
+2025-10-23 14:30:49 - scraper_rango_unico - INFO - Página 323 procesada: 15 compras
+2025-10-23 14:30:49 - scraper_rango_unico - INFO - Progreso: 323/623 | Total compras: 4845
+2025-10-23 14:30:51 - scraper_rango_unico - INFO - Navegando a página 324
+2025-10-23 14:30:53 - scraper_rango_unico - INFO - Página 324 procesada: 15 compras
+2025-10-23 14:30:53 - scraper_rango_unico - INFO - Progreso: 324/623 | Total compras: 4860
+2025-10-23 14:30:55 - scraper_rango_unico - INFO - Navegando a página 325
+2025-10-23 14:30:58 - scraper_rango_unico - INFO - Página 325 procesada: 15 compras
+2025-10-23 14:30:58 - scraper_rango_unico - INFO - Progreso: 325/623 | Total compras: 4875
+2025-10-23 14:31:00 - scraper_rango_unico - INFO - Navegando a página 326
+2025-10-23 14:31:02 - scraper_rango_unico - INFO - Página 326 procesada: 15 compras
+2025-10-23 14:31:02 - scraper_rango_unico - INFO - Progreso: 326/623 | Total compras: 4890
+2025-10-23 14:31:04 - scraper_rango_unico - INFO - Navegando a página 327
+2025-10-23 14:31:06 - scraper_rango_unico - INFO - Página 327 procesada: 15 compras
+2025-10-23 14:31:06 - scraper_rango_unico - INFO - Progreso: 327/623 | Total compras: 4905
+2025-10-23 14:31:08 - scraper_rango_unico - INFO - Navegando a página 328
+2025-10-23 14:31:11 - scraper_rango_unico - INFO - Página 328 procesada: 15 compras
+2025-10-23 14:31:11 - scraper_rango_unico - INFO - Progreso: 328/623 | Total compras: 4920
+2025-10-23 14:31:13 - scraper_rango_unico - INFO - Navegando a página 329
+2025-10-23 14:31:15 - scraper_rango_unico - INFO - Página 329 procesada: 15 compras
+2025-10-23 14:31:15 - scraper_rango_unico - INFO - Progreso: 329/623 | Total compras: 4935
+2025-10-23 14:31:17 - scraper_rango_unico - INFO - Navegando a página 330
+2025-10-23 14:31:20 - scraper_rango_unico - INFO - Página 330 procesada: 15 compras
+2025-10-23 14:31:20 - scraper_rango_unico - INFO - Progreso: 330/623 | Total compras: 4950
+2025-10-23 14:31:22 - scraper_rango_unico - INFO - Navegando a página 331
+2025-10-23 14:31:24 - scraper_rango_unico - INFO - Página 331 procesada: 15 compras
+2025-10-23 14:31:24 - scraper_rango_unico - INFO - Progreso: 331/623 | Total compras: 4965
+2025-10-23 14:31:26 - scraper_rango_unico - INFO - Navegando a página 332
+2025-10-23 14:31:29 - scraper_rango_unico - INFO - Página 332 procesada: 15 compras
+2025-10-23 14:31:29 - scraper_rango_unico - INFO - Progreso: 332/623 | Total compras: 4980
+2025-10-23 14:31:31 - scraper_rango_unico - INFO - Navegando a página 333
+2025-10-23 14:31:33 - scraper_rango_unico - INFO - Página 333 procesada: 15 compras
+2025-10-23 14:31:33 - scraper_rango_unico - INFO - Progreso: 333/623 | Total compras: 4995
+2025-10-23 14:31:35 - scraper_rango_unico - INFO - Navegando a página 334
+2025-10-23 14:31:37 - scraper_rango_unico - INFO - Página 334 procesada: 15 compras
+2025-10-23 14:31:37 - scraper_rango_unico - INFO - Progreso: 334/623 | Total compras: 5010
+2025-10-23 14:31:39 - scraper_rango_unico - INFO - Navegando a página 335
+2025-10-23 14:31:42 - scraper_rango_unico - INFO - Página 335 procesada: 15 compras
+2025-10-23 14:31:42 - scraper_rango_unico - INFO - Progreso: 335/623 | Total compras: 5025
+2025-10-23 14:31:44 - scraper_rango_unico - INFO - Navegando a página 336
+2025-10-23 14:31:46 - scraper_rango_unico - INFO - Página 336 procesada: 15 compras
+2025-10-23 14:31:46 - scraper_rango_unico - INFO - Progreso: 336/623 | Total compras: 5040
+2025-10-23 14:31:48 - scraper_rango_unico - INFO - Navegando a página 337
+2025-10-23 14:31:51 - scraper_rango_unico - INFO - Página 337 procesada: 15 compras
+2025-10-23 14:31:51 - scraper_rango_unico - INFO - Progreso: 337/623 | Total compras: 5055
+2025-10-23 14:31:53 - scraper_rango_unico - INFO - Navegando a página 338
+2025-10-23 14:31:55 - scraper_rango_unico - INFO - Página 338 procesada: 15 compras
+2025-10-23 14:31:55 - scraper_rango_unico - INFO - Progreso: 338/623 | Total compras: 5070
+2025-10-23 14:31:57 - scraper_rango_unico - INFO - Navegando a página 339
+2025-10-23 14:32:00 - scraper_rango_unico - INFO - Página 339 procesada: 15 compras
+2025-10-23 14:32:00 - scraper_rango_unico - INFO - Progreso: 339/623 | Total compras: 5085
+2025-10-23 14:32:02 - scraper_rango_unico - INFO - Navegando a página 340
+2025-10-23 14:32:04 - scraper_rango_unico - INFO - Página 340 procesada: 15 compras
+2025-10-23 14:32:04 - scraper_rango_unico - INFO - Progreso: 340/623 | Total compras: 5100
+2025-10-23 14:32:06 - scraper_rango_unico - INFO - Navegando a página 341
+2025-10-23 14:32:09 - scraper_rango_unico - INFO - Página 341 procesada: 15 compras
+2025-10-23 14:32:09 - scraper_rango_unico - INFO - Progreso: 341/623 | Total compras: 5115
+2025-10-23 14:32:11 - scraper_rango_unico - INFO - Navegando a página 342
+2025-10-23 14:32:13 - scraper_rango_unico - INFO - Página 342 procesada: 15 compras
+2025-10-23 14:32:13 - scraper_rango_unico - INFO - Progreso: 342/623 | Total compras: 5130
+2025-10-23 14:32:15 - scraper_rango_unico - INFO - Navegando a página 343
+2025-10-23 14:32:17 - scraper_rango_unico - INFO - Página 343 procesada: 15 compras
+2025-10-23 14:32:17 - scraper_rango_unico - INFO - Progreso: 343/623 | Total compras: 5145
+2025-10-23 14:32:19 - scraper_rango_unico - INFO - Navegando a página 344
+2025-10-23 14:32:21 - scraper_rango_unico - INFO - Página 344 procesada: 15 compras
+2025-10-23 14:32:21 - scraper_rango_unico - INFO - Progreso: 344/623 | Total compras: 5160
+2025-10-23 14:32:23 - scraper_rango_unico - INFO - Navegando a página 345
+2025-10-23 14:32:26 - scraper_rango_unico - INFO - Página 345 procesada: 15 compras
+2025-10-23 14:32:26 - scraper_rango_unico - INFO - Progreso: 345/623 | Total compras: 5175
+2025-10-23 14:32:28 - scraper_rango_unico - INFO - Navegando a página 346
+2025-10-23 14:32:30 - scraper_rango_unico - INFO - Página 346 procesada: 15 compras
+2025-10-23 14:32:30 - scraper_rango_unico - INFO - Progreso: 346/623 | Total compras: 5190
+2025-10-23 14:32:32 - scraper_rango_unico - INFO - Navegando a página 347
+2025-10-23 14:32:35 - scraper_rango_unico - INFO - Página 347 procesada: 15 compras
+2025-10-23 14:32:35 - scraper_rango_unico - INFO - Progreso: 347/623 | Total compras: 5205
+2025-10-23 14:32:37 - scraper_rango_unico - INFO - Navegando a página 348
+2025-10-23 14:32:39 - scraper_rango_unico - INFO - Página 348 procesada: 15 compras
+2025-10-23 14:32:39 - scraper_rango_unico - INFO - Progreso: 348/623 | Total compras: 5220
+2025-10-23 14:32:41 - scraper_rango_unico - INFO - Navegando a página 349
+2025-10-23 14:32:43 - scraper_rango_unico - INFO - Página 349 procesada: 15 compras
+2025-10-23 14:32:43 - scraper_rango_unico - INFO - Progreso: 349/623 | Total compras: 5235
+2025-10-23 14:32:45 - scraper_rango_unico - INFO - Navegando a página 350
+2025-10-23 14:32:48 - scraper_rango_unico - INFO - Página 350 procesada: 15 compras
+2025-10-23 14:32:48 - scraper_rango_unico - INFO - Progreso: 350/623 | Total compras: 5250
+2025-10-23 14:32:50 - scraper_rango_unico - INFO - Navegando a página 351
+2025-10-23 14:32:52 - scraper_rango_unico - INFO - Página 351 procesada: 15 compras
+2025-10-23 14:32:52 - scraper_rango_unico - INFO - Progreso: 351/623 | Total compras: 5265
+2025-10-23 14:32:54 - scraper_rango_unico - INFO - Navegando a página 352
+2025-10-23 14:32:56 - scraper_rango_unico - INFO - Página 352 procesada: 15 compras
+2025-10-23 14:32:56 - scraper_rango_unico - INFO - Progreso: 352/623 | Total compras: 5280
+2025-10-23 14:32:58 - scraper_rango_unico - INFO - Navegando a página 353
+2025-10-23 14:33:01 - scraper_rango_unico - INFO - Página 353 procesada: 15 compras
+2025-10-23 14:33:01 - scraper_rango_unico - INFO - Progreso: 353/623 | Total compras: 5295
+2025-10-23 14:33:03 - scraper_rango_unico - INFO - Navegando a página 354
+2025-10-23 14:33:06 - scraper_rango_unico - INFO - Página 354 procesada: 15 compras
+2025-10-23 14:33:06 - scraper_rango_unico - INFO - Progreso: 354/623 | Total compras: 5310
+2025-10-23 14:33:08 - scraper_rango_unico - INFO - Navegando a página 355
+2025-10-23 14:33:10 - scraper_rango_unico - INFO - Página 355 procesada: 15 compras
+2025-10-23 14:33:10 - scraper_rango_unico - INFO - Progreso: 355/623 | Total compras: 5325
+2025-10-23 14:33:12 - scraper_rango_unico - INFO - Navegando a página 356
+2025-10-23 14:33:15 - scraper_rango_unico - INFO - Página 356 procesada: 15 compras
+2025-10-23 14:33:15 - scraper_rango_unico - INFO - Progreso: 356/623 | Total compras: 5340
+2025-10-23 14:33:17 - scraper_rango_unico - INFO - Navegando a página 357
+2025-10-23 14:33:19 - scraper_rango_unico - INFO - Página 357 procesada: 15 compras
+2025-10-23 14:33:19 - scraper_rango_unico - INFO - Progreso: 357/623 | Total compras: 5355
+2025-10-23 14:33:21 - scraper_rango_unico - INFO - Navegando a página 358
+2025-10-23 14:33:23 - scraper_rango_unico - INFO - Página 358 procesada: 15 compras
+2025-10-23 14:33:23 - scraper_rango_unico - INFO - Progreso: 358/623 | Total compras: 5370
+2025-10-23 14:33:25 - scraper_rango_unico - INFO - Navegando a página 359
+2025-10-23 14:33:27 - scraper_rango_unico - INFO - Página 359 procesada: 15 compras
+2025-10-23 14:33:27 - scraper_rango_unico - INFO - Progreso: 359/623 | Total compras: 5385
+2025-10-23 14:33:29 - scraper_rango_unico - INFO - Navegando a página 360
+2025-10-23 14:33:31 - scraper_rango_unico - INFO - Página 360 procesada: 15 compras
+2025-10-23 14:33:31 - scraper_rango_unico - INFO - Progreso: 360/623 | Total compras: 5400
+2025-10-23 14:33:33 - scraper_rango_unico - INFO - Navegando a página 361
+2025-10-23 14:33:35 - scraper_rango_unico - INFO - Página 361 procesada: 15 compras
+2025-10-23 14:33:35 - scraper_rango_unico - INFO - Progreso: 361/623 | Total compras: 5415
+2025-10-23 14:33:37 - scraper_rango_unico - INFO - Navegando a página 362
+2025-10-23 14:33:40 - scraper_rango_unico - INFO - Página 362 procesada: 15 compras
+2025-10-23 14:33:40 - scraper_rango_unico - INFO - Progreso: 362/623 | Total compras: 5430
+2025-10-23 14:33:42 - scraper_rango_unico - INFO - Navegando a página 363
+2025-10-23 14:33:44 - scraper_rango_unico - INFO - Página 363 procesada: 15 compras
+2025-10-23 14:33:44 - scraper_rango_unico - INFO - Progreso: 363/623 | Total compras: 5445
+2025-10-23 14:33:46 - scraper_rango_unico - INFO - Navegando a página 364
+2025-10-23 14:33:49 - scraper_rango_unico - INFO - Página 364 procesada: 15 compras
+2025-10-23 14:33:49 - scraper_rango_unico - INFO - Progreso: 364/623 | Total compras: 5460
+2025-10-23 14:33:51 - scraper_rango_unico - INFO - Navegando a página 365
+2025-10-23 14:33:54 - scraper_rango_unico - INFO - Página 365 procesada: 15 compras
+2025-10-23 14:33:54 - scraper_rango_unico - INFO - Progreso: 365/623 | Total compras: 5475
+2025-10-23 14:33:56 - scraper_rango_unico - INFO - Navegando a página 366
+2025-10-23 14:33:58 - scraper_rango_unico - INFO - Página 366 procesada: 15 compras
+2025-10-23 14:33:58 - scraper_rango_unico - INFO - Progreso: 366/623 | Total compras: 5490
+2025-10-23 14:34:00 - scraper_rango_unico - INFO - Navegando a página 367
+2025-10-23 14:34:02 - scraper_rango_unico - INFO - Página 367 procesada: 15 compras
+2025-10-23 14:34:02 - scraper_rango_unico - INFO - Progreso: 367/623 | Total compras: 5505
+2025-10-23 14:34:04 - scraper_rango_unico - INFO - Navegando a página 368
+2025-10-23 14:34:07 - scraper_rango_unico - INFO - Página 368 procesada: 15 compras
+2025-10-23 14:34:07 - scraper_rango_unico - INFO - Progreso: 368/623 | Total compras: 5520
+2025-10-23 14:34:09 - scraper_rango_unico - INFO - Navegando a página 369
+2025-10-23 14:34:11 - scraper_rango_unico - INFO - Página 369 procesada: 15 compras
+2025-10-23 14:34:11 - scraper_rango_unico - INFO - Progreso: 369/623 | Total compras: 5535
+2025-10-23 14:34:13 - scraper_rango_unico - INFO - Navegando a página 370
+2025-10-23 14:34:16 - scraper_rango_unico - INFO - Página 370 procesada: 15 compras
+2025-10-23 14:34:16 - scraper_rango_unico - INFO - Progreso: 370/623 | Total compras: 5550
+2025-10-23 14:34:18 - scraper_rango_unico - INFO - Navegando a página 371
+2025-10-23 14:34:20 - scraper_rango_unico - INFO - Página 371 procesada: 15 compras
+2025-10-23 14:34:20 - scraper_rango_unico - INFO - Progreso: 371/623 | Total compras: 5565
+2025-10-23 14:34:22 - scraper_rango_unico - INFO - Navegando a página 372
+2025-10-23 14:34:24 - scraper_rango_unico - INFO - Página 372 procesada: 15 compras
+2025-10-23 14:34:24 - scraper_rango_unico - INFO - Progreso: 372/623 | Total compras: 5580
+2025-10-23 14:34:26 - scraper_rango_unico - INFO - Navegando a página 373
+2025-10-23 14:34:29 - scraper_rango_unico - INFO - Página 373 procesada: 15 compras
+2025-10-23 14:34:29 - scraper_rango_unico - INFO - Progreso: 373/623 | Total compras: 5595
+2025-10-23 14:34:31 - scraper_rango_unico - INFO - Navegando a página 374
+2025-10-23 14:34:33 - scraper_rango_unico - INFO - Página 374 procesada: 15 compras
+2025-10-23 14:34:33 - scraper_rango_unico - INFO - Progreso: 374/623 | Total compras: 5610
+2025-10-23 14:34:35 - scraper_rango_unico - INFO - Navegando a página 375
+2025-10-23 14:34:38 - scraper_rango_unico - INFO - Página 375 procesada: 15 compras
+2025-10-23 14:34:38 - scraper_rango_unico - INFO - Progreso: 375/623 | Total compras: 5625
+2025-10-23 14:34:40 - scraper_rango_unico - INFO - Navegando a página 376
+2025-10-23 14:34:42 - scraper_rango_unico - INFO - Página 376 procesada: 15 compras
+2025-10-23 14:34:42 - scraper_rango_unico - INFO - Progreso: 376/623 | Total compras: 5640
+2025-10-23 14:34:44 - scraper_rango_unico - INFO - Navegando a página 377
+2025-10-23 14:34:46 - scraper_rango_unico - INFO - Página 377 procesada: 15 compras
+2025-10-23 14:34:46 - scraper_rango_unico - INFO - Progreso: 377/623 | Total compras: 5655
+2025-10-23 14:34:48 - scraper_rango_unico - INFO - Navegando a página 378
+2025-10-23 14:34:50 - scraper_rango_unico - INFO - Página 378 procesada: 15 compras
+2025-10-23 14:34:50 - scraper_rango_unico - INFO - Progreso: 378/623 | Total compras: 5670
+2025-10-23 14:34:52 - scraper_rango_unico - INFO - Navegando a página 379
+2025-10-23 14:34:55 - scraper_rango_unico - INFO - Página 379 procesada: 15 compras
+2025-10-23 14:34:55 - scraper_rango_unico - INFO - Progreso: 379/623 | Total compras: 5685
+2025-10-23 14:34:57 - scraper_rango_unico - INFO - Navegando a página 380
+2025-10-23 14:34:59 - scraper_rango_unico - INFO - Página 380 procesada: 15 compras
+2025-10-23 14:34:59 - scraper_rango_unico - INFO - Progreso: 380/623 | Total compras: 5700
+2025-10-23 14:35:01 - scraper_rango_unico - INFO - Navegando a página 381
+2025-10-23 14:35:04 - scraper_rango_unico - INFO - Página 381 procesada: 15 compras
+2025-10-23 14:35:04 - scraper_rango_unico - INFO - Progreso: 381/623 | Total compras: 5715
+2025-10-23 14:35:06 - scraper_rango_unico - INFO - Navegando a página 382
+2025-10-23 14:35:10 - scraper_rango_unico - INFO - Página 382 procesada: 15 compras
+2025-10-23 14:35:10 - scraper_rango_unico - INFO - Progreso: 382/623 | Total compras: 5730
+2025-10-23 14:35:12 - scraper_rango_unico - INFO - Navegando a página 383
+2025-10-23 14:35:14 - scraper_rango_unico - INFO - Página 383 procesada: 15 compras
+2025-10-23 14:35:14 - scraper_rango_unico - INFO - Progreso: 383/623 | Total compras: 5745
+2025-10-23 14:35:16 - scraper_rango_unico - INFO - Navegando a página 384
+2025-10-23 14:35:19 - scraper_rango_unico - INFO - Página 384 procesada: 15 compras
+2025-10-23 14:35:19 - scraper_rango_unico - INFO - Progreso: 384/623 | Total compras: 5760
+2025-10-23 14:35:21 - scraper_rango_unico - INFO - Navegando a página 385
+2025-10-23 14:35:23 - scraper_rango_unico - INFO - Página 385 procesada: 15 compras
+2025-10-23 14:35:23 - scraper_rango_unico - INFO - Progreso: 385/623 | Total compras: 5775
+2025-10-23 14:35:25 - scraper_rango_unico - INFO - Navegando a página 386
+2025-10-23 14:35:27 - scraper_rango_unico - INFO - Página 386 procesada: 15 compras
+2025-10-23 14:35:27 - scraper_rango_unico - INFO - Progreso: 386/623 | Total compras: 5790
+2025-10-23 14:35:29 - scraper_rango_unico - INFO - Navegando a página 387
+2025-10-23 14:35:32 - scraper_rango_unico - INFO - Página 387 procesada: 15 compras
+2025-10-23 14:35:32 - scraper_rango_unico - INFO - Progreso: 387/623 | Total compras: 5805
+2025-10-23 14:35:34 - scraper_rango_unico - INFO - Navegando a página 388
+2025-10-23 14:35:37 - scraper_rango_unico - INFO - Página 388 procesada: 15 compras
+2025-10-23 14:35:37 - scraper_rango_unico - INFO - Progreso: 388/623 | Total compras: 5820
+2025-10-23 14:35:39 - scraper_rango_unico - INFO - Navegando a página 389
+2025-10-23 14:35:41 - scraper_rango_unico - INFO - Página 389 procesada: 15 compras
+2025-10-23 14:35:41 - scraper_rango_unico - INFO - Progreso: 389/623 | Total compras: 5835
+2025-10-23 14:35:43 - scraper_rango_unico - INFO - Navegando a página 390
+2025-10-23 14:35:46 - scraper_rango_unico - INFO - Página 390 procesada: 15 compras
+2025-10-23 14:35:46 - scraper_rango_unico - INFO - Progreso: 390/623 | Total compras: 5850
+2025-10-23 14:35:48 - scraper_rango_unico - INFO - Navegando a página 391
+2025-10-23 14:35:50 - scraper_rango_unico - INFO - Página 391 procesada: 15 compras
+2025-10-23 14:35:50 - scraper_rango_unico - INFO - Progreso: 391/623 | Total compras: 5865
+2025-10-23 14:35:52 - scraper_rango_unico - INFO - Navegando a página 392
+2025-10-23 14:35:54 - scraper_rango_unico - INFO - Página 392 procesada: 15 compras
+2025-10-23 14:35:54 - scraper_rango_unico - INFO - Progreso: 392/623 | Total compras: 5880
+2025-10-23 14:35:56 - scraper_rango_unico - INFO - Navegando a página 393
+2025-10-23 14:35:59 - scraper_rango_unico - INFO - Página 393 procesada: 15 compras
+2025-10-23 14:35:59 - scraper_rango_unico - INFO - Progreso: 393/623 | Total compras: 5895
+2025-10-23 14:36:01 - scraper_rango_unico - INFO - Navegando a página 394
+2025-10-23 14:36:03 - scraper_rango_unico - INFO - Página 394 procesada: 15 compras
+2025-10-23 14:36:03 - scraper_rango_unico - INFO - Progreso: 394/623 | Total compras: 5910
+2025-10-23 14:36:05 - scraper_rango_unico - INFO - Navegando a página 395
+2025-10-23 14:36:07 - scraper_rango_unico - INFO - Página 395 procesada: 15 compras
+2025-10-23 14:36:07 - scraper_rango_unico - INFO - Progreso: 395/623 | Total compras: 5925
+2025-10-23 14:36:09 - scraper_rango_unico - INFO - Navegando a página 396
+2025-10-23 14:36:11 - scraper_rango_unico - INFO - Página 396 procesada: 15 compras
+2025-10-23 14:36:11 - scraper_rango_unico - INFO - Progreso: 396/623 | Total compras: 5940
+2025-10-23 14:36:13 - scraper_rango_unico - INFO - Navegando a página 397
+2025-10-23 14:36:16 - scraper_rango_unico - INFO - Página 397 procesada: 15 compras
+2025-10-23 14:36:16 - scraper_rango_unico - INFO - Progreso: 397/623 | Total compras: 5955
+2025-10-23 14:36:18 - scraper_rango_unico - INFO - Navegando a página 398
+2025-10-23 14:36:20 - scraper_rango_unico - INFO - Página 398 procesada: 15 compras
+2025-10-23 14:36:20 - scraper_rango_unico - INFO - Progreso: 398/623 | Total compras: 5970
+2025-10-23 14:36:22 - scraper_rango_unico - INFO - Navegando a página 399
+2025-10-23 14:36:25 - scraper_rango_unico - INFO - Página 399 procesada: 15 compras
+2025-10-23 14:36:25 - scraper_rango_unico - INFO - Progreso: 399/623 | Total compras: 5985
+2025-10-23 14:36:27 - scraper_rango_unico - INFO - Navegando a página 400
+2025-10-23 14:36:29 - scraper_rango_unico - INFO - Página 400 procesada: 15 compras
+2025-10-23 14:36:29 - scraper_rango_unico - INFO - Progreso: 400/623 | Total compras: 6000
+2025-10-23 14:36:31 - scraper_rango_unico - INFO - Navegando a página 401
+2025-10-23 14:36:34 - scraper_rango_unico - INFO - Página 401 procesada: 15 compras
+2025-10-23 14:36:34 - scraper_rango_unico - INFO - Progreso: 401/623 | Total compras: 6015
+2025-10-23 14:36:36 - scraper_rango_unico - INFO - Navegando a página 402
+2025-10-23 14:36:38 - scraper_rango_unico - INFO - Página 402 procesada: 15 compras
+2025-10-23 14:36:38 - scraper_rango_unico - INFO - Progreso: 402/623 | Total compras: 6030
+2025-10-23 14:36:40 - scraper_rango_unico - INFO - Navegando a página 403
+2025-10-23 14:36:43 - scraper_rango_unico - INFO - Página 403 procesada: 15 compras
+2025-10-23 14:36:43 - scraper_rango_unico - INFO - Progreso: 403/623 | Total compras: 6045
+2025-10-23 14:36:45 - scraper_rango_unico - INFO - Navegando a página 404
+2025-10-23 14:36:47 - scraper_rango_unico - INFO - Página 404 procesada: 15 compras
+2025-10-23 14:36:47 - scraper_rango_unico - INFO - Progreso: 404/623 | Total compras: 6060
+2025-10-23 14:36:49 - scraper_rango_unico - INFO - Navegando a página 405
+2025-10-23 14:36:51 - scraper_rango_unico - INFO - Página 405 procesada: 15 compras
+2025-10-23 14:36:51 - scraper_rango_unico - INFO - Progreso: 405/623 | Total compras: 6075
+2025-10-23 14:36:53 - scraper_rango_unico - INFO - Navegando a página 406
+2025-10-23 14:36:56 - scraper_rango_unico - INFO - Página 406 procesada: 15 compras
+2025-10-23 14:36:56 - scraper_rango_unico - INFO - Progreso: 406/623 | Total compras: 6090
+2025-10-23 14:36:58 - scraper_rango_unico - INFO - Navegando a página 407
+2025-10-23 14:37:01 - scraper_rango_unico - INFO - Página 407 procesada: 15 compras
+2025-10-23 14:37:01 - scraper_rango_unico - INFO - Progreso: 407/623 | Total compras: 6105
+2025-10-23 14:37:03 - scraper_rango_unico - INFO - Navegando a página 408
+2025-10-23 14:37:04 - scraper_rango_unico - INFO - Página 408 procesada: 15 compras
+2025-10-23 14:37:04 - scraper_rango_unico - INFO - Progreso: 408/623 | Total compras: 6120
+2025-10-23 14:37:06 - scraper_rango_unico - INFO - Navegando a página 409
+2025-10-23 14:37:09 - scraper_rango_unico - INFO - Página 409 procesada: 15 compras
+2025-10-23 14:37:09 - scraper_rango_unico - INFO - Progreso: 409/623 | Total compras: 6135
+2025-10-23 14:37:11 - scraper_rango_unico - INFO - Navegando a página 410
+2025-10-23 14:37:13 - scraper_rango_unico - INFO - Página 410 procesada: 15 compras
+2025-10-23 14:37:13 - scraper_rango_unico - INFO - Progreso: 410/623 | Total compras: 6150
+2025-10-23 14:37:15 - scraper_rango_unico - INFO - Navegando a página 411
+2025-10-23 14:37:18 - scraper_rango_unico - INFO - Página 411 procesada: 15 compras
+2025-10-23 14:37:18 - scraper_rango_unico - INFO - Progreso: 411/623 | Total compras: 6165
+2025-10-23 14:37:20 - scraper_rango_unico - INFO - Navegando a página 412
+2025-10-23 14:37:22 - scraper_rango_unico - INFO - Página 412 procesada: 15 compras
+2025-10-23 14:37:22 - scraper_rango_unico - INFO - Progreso: 412/623 | Total compras: 6180
+2025-10-23 14:37:24 - scraper_rango_unico - INFO - Navegando a página 413
+2025-10-23 14:37:26 - scraper_rango_unico - INFO - Página 413 procesada: 15 compras
+2025-10-23 14:37:26 - scraper_rango_unico - INFO - Progreso: 413/623 | Total compras: 6195
+2025-10-23 14:37:28 - scraper_rango_unico - INFO - Navegando a página 414
+2025-10-23 14:37:31 - scraper_rango_unico - INFO - Página 414 procesada: 15 compras
+2025-10-23 14:37:31 - scraper_rango_unico - INFO - Progreso: 414/623 | Total compras: 6210
+2025-10-23 14:37:33 - scraper_rango_unico - INFO - Navegando a página 415
+2025-10-23 14:37:35 - scraper_rango_unico - INFO - Página 415 procesada: 15 compras
+2025-10-23 14:37:35 - scraper_rango_unico - INFO - Progreso: 415/623 | Total compras: 6225
+2025-10-23 14:37:37 - scraper_rango_unico - INFO - Navegando a página 416
+2025-10-23 14:37:40 - scraper_rango_unico - INFO - Página 416 procesada: 15 compras
+2025-10-23 14:37:40 - scraper_rango_unico - INFO - Progreso: 416/623 | Total compras: 6240
+2025-10-23 14:37:42 - scraper_rango_unico - INFO - Navegando a página 417
+2025-10-23 14:37:44 - scraper_rango_unico - INFO - Página 417 procesada: 15 compras
+2025-10-23 14:37:44 - scraper_rango_unico - INFO - Progreso: 417/623 | Total compras: 6255
+2025-10-23 14:37:46 - scraper_rango_unico - INFO - Navegando a página 418
+2025-10-23 14:37:48 - scraper_rango_unico - INFO - Página 418 procesada: 15 compras
+2025-10-23 14:37:48 - scraper_rango_unico - INFO - Progreso: 418/623 | Total compras: 6270
+2025-10-23 14:37:50 - scraper_rango_unico - INFO - Navegando a página 419
+2025-10-23 14:37:53 - scraper_rango_unico - INFO - Página 419 procesada: 15 compras
+2025-10-23 14:37:53 - scraper_rango_unico - INFO - Progreso: 419/623 | Total compras: 6285
+2025-10-23 14:37:55 - scraper_rango_unico - INFO - Navegando a página 420
+2025-10-23 14:37:57 - scraper_rango_unico - INFO - Página 420 procesada: 15 compras
+2025-10-23 14:37:57 - scraper_rango_unico - INFO - Progreso: 420/623 | Total compras: 6300
+2025-10-23 14:37:59 - scraper_rango_unico - INFO - Navegando a página 421
+2025-10-23 14:38:01 - scraper_rango_unico - INFO - Página 421 procesada: 15 compras
+2025-10-23 14:38:01 - scraper_rango_unico - INFO - Progreso: 421/623 | Total compras: 6315
+2025-10-23 14:38:03 - scraper_rango_unico - INFO - Navegando a página 422
+2025-10-23 14:38:06 - scraper_rango_unico - INFO - Página 422 procesada: 15 compras
+2025-10-23 14:38:06 - scraper_rango_unico - INFO - Progreso: 422/623 | Total compras: 6330
+2025-10-23 14:38:08 - scraper_rango_unico - INFO - Navegando a página 423
+2025-10-23 14:38:11 - scraper_rango_unico - INFO - Página 423 procesada: 15 compras
+2025-10-23 14:38:11 - scraper_rango_unico - INFO - Progreso: 423/623 | Total compras: 6345
+2025-10-23 14:38:13 - scraper_rango_unico - INFO - Navegando a página 424
+2025-10-23 14:38:15 - scraper_rango_unico - INFO - Página 424 procesada: 15 compras
+2025-10-23 14:38:15 - scraper_rango_unico - INFO - Progreso: 424/623 | Total compras: 6360
+2025-10-23 14:38:17 - scraper_rango_unico - INFO - Navegando a página 425
+2025-10-23 14:38:19 - scraper_rango_unico - INFO - Página 425 procesada: 15 compras
+2025-10-23 14:38:19 - scraper_rango_unico - INFO - Progreso: 425/623 | Total compras: 6375
+2025-10-23 14:38:21 - scraper_rango_unico - INFO - Navegando a página 426
+2025-10-23 14:38:24 - scraper_rango_unico - INFO - Página 426 procesada: 15 compras
+2025-10-23 14:38:24 - scraper_rango_unico - INFO - Progreso: 426/623 | Total compras: 6390
+2025-10-23 14:38:26 - scraper_rango_unico - INFO - Navegando a página 427
+2025-10-23 14:38:28 - scraper_rango_unico - INFO - Página 427 procesada: 15 compras
+2025-10-23 14:38:28 - scraper_rango_unico - INFO - Progreso: 427/623 | Total compras: 6405
+2025-10-23 14:38:30 - scraper_rango_unico - INFO - Navegando a página 428
+2025-10-23 14:38:33 - scraper_rango_unico - INFO - Página 428 procesada: 15 compras
+2025-10-23 14:38:33 - scraper_rango_unico - INFO - Progreso: 428/623 | Total compras: 6420
+2025-10-23 14:38:35 - scraper_rango_unico - INFO - Navegando a página 429
+2025-10-23 14:38:38 - scraper_rango_unico - INFO - Página 429 procesada: 15 compras
+2025-10-23 14:38:38 - scraper_rango_unico - INFO - Progreso: 429/623 | Total compras: 6435
+2025-10-23 14:38:40 - scraper_rango_unico - INFO - Navegando a página 430
+2025-10-23 14:38:42 - scraper_rango_unico - INFO - Página 430 procesada: 15 compras
+2025-10-23 14:38:42 - scraper_rango_unico - INFO - Progreso: 430/623 | Total compras: 6450
+2025-10-23 14:38:44 - scraper_rango_unico - INFO - Navegando a página 431
+2025-10-23 14:38:46 - scraper_rango_unico - INFO - Página 431 procesada: 15 compras
+2025-10-23 14:38:46 - scraper_rango_unico - INFO - Progreso: 431/623 | Total compras: 6465
+2025-10-23 14:38:48 - scraper_rango_unico - INFO - Navegando a página 432
+2025-10-23 14:38:51 - scraper_rango_unico - INFO - Página 432 procesada: 15 compras
+2025-10-23 14:38:51 - scraper_rango_unico - INFO - Progreso: 432/623 | Total compras: 6480
+2025-10-23 14:38:53 - scraper_rango_unico - INFO - Navegando a página 433
+2025-10-23 14:38:55 - scraper_rango_unico - INFO - Página 433 procesada: 15 compras
+2025-10-23 14:38:55 - scraper_rango_unico - INFO - Progreso: 433/623 | Total compras: 6495
+2025-10-23 14:38:57 - scraper_rango_unico - INFO - Navegando a página 434
+2025-10-23 14:39:00 - scraper_rango_unico - INFO - Página 434 procesada: 15 compras
+2025-10-23 14:39:00 - scraper_rango_unico - INFO - Progreso: 434/623 | Total compras: 6510
+2025-10-23 14:39:02 - scraper_rango_unico - INFO - Navegando a página 435
+2025-10-23 14:39:05 - scraper_rango_unico - INFO - Página 435 procesada: 15 compras
+2025-10-23 14:39:05 - scraper_rango_unico - INFO - Progreso: 435/623 | Total compras: 6525
+2025-10-23 14:39:07 - scraper_rango_unico - INFO - Navegando a página 436
+2025-10-23 14:39:09 - scraper_rango_unico - INFO - Página 436 procesada: 15 compras
+2025-10-23 14:39:09 - scraper_rango_unico - INFO - Progreso: 436/623 | Total compras: 6540
+2025-10-23 14:39:11 - scraper_rango_unico - INFO - Navegando a página 437
+2025-10-23 14:39:14 - scraper_rango_unico - INFO - Página 437 procesada: 15 compras
+2025-10-23 14:39:14 - scraper_rango_unico - INFO - Progreso: 437/623 | Total compras: 6555
+2025-10-23 14:39:16 - scraper_rango_unico - INFO - Navegando a página 438
+2025-10-23 14:39:18 - scraper_rango_unico - INFO - Página 438 procesada: 15 compras
+2025-10-23 14:39:18 - scraper_rango_unico - INFO - Progreso: 438/623 | Total compras: 6570
+2025-10-23 14:39:20 - scraper_rango_unico - INFO - Navegando a página 439
+2025-10-23 14:39:23 - scraper_rango_unico - INFO - Página 439 procesada: 15 compras
+2025-10-23 14:39:23 - scraper_rango_unico - INFO - Progreso: 439/623 | Total compras: 6585
+2025-10-23 14:39:25 - scraper_rango_unico - INFO - Navegando a página 440
+2025-10-23 14:39:27 - scraper_rango_unico - INFO - Página 440 procesada: 15 compras
+2025-10-23 14:39:27 - scraper_rango_unico - INFO - Progreso: 440/623 | Total compras: 6600
+2025-10-23 14:39:29 - scraper_rango_unico - INFO - Navegando a página 441
+2025-10-23 14:39:32 - scraper_rango_unico - INFO - Página 441 procesada: 15 compras
+2025-10-23 14:39:32 - scraper_rango_unico - INFO - Progreso: 441/623 | Total compras: 6615
+2025-10-23 14:39:34 - scraper_rango_unico - INFO - Navegando a página 442
+2025-10-23 14:39:37 - scraper_rango_unico - INFO - Página 442 procesada: 15 compras
+2025-10-23 14:39:37 - scraper_rango_unico - INFO - Progreso: 442/623 | Total compras: 6630
+2025-10-23 14:39:39 - scraper_rango_unico - INFO - Navegando a página 443
+2025-10-23 14:39:41 - scraper_rango_unico - INFO - Página 443 procesada: 15 compras
+2025-10-23 14:39:41 - scraper_rango_unico - INFO - Progreso: 443/623 | Total compras: 6645
+2025-10-23 14:39:43 - scraper_rango_unico - INFO - Navegando a página 444
+2025-10-23 14:39:45 - scraper_rango_unico - INFO - Página 444 procesada: 15 compras
+2025-10-23 14:39:45 - scraper_rango_unico - INFO - Progreso: 444/623 | Total compras: 6660
+2025-10-23 14:39:47 - scraper_rango_unico - INFO - Navegando a página 445
+2025-10-23 14:39:49 - scraper_rango_unico - INFO - Página 445 procesada: 15 compras
+2025-10-23 14:39:49 - scraper_rango_unico - INFO - Progreso: 445/623 | Total compras: 6675
+2025-10-23 14:39:51 - scraper_rango_unico - INFO - Navegando a página 446
+2025-10-23 14:39:54 - scraper_rango_unico - INFO - Página 446 procesada: 15 compras
+2025-10-23 14:39:54 - scraper_rango_unico - INFO - Progreso: 446/623 | Total compras: 6690
+2025-10-23 14:39:56 - scraper_rango_unico - INFO - Navegando a página 447
+2025-10-23 14:39:58 - scraper_rango_unico - INFO - Página 447 procesada: 15 compras
+2025-10-23 14:39:58 - scraper_rango_unico - INFO - Progreso: 447/623 | Total compras: 6705
+2025-10-23 14:40:00 - scraper_rango_unico - INFO - Navegando a página 448
+2025-10-23 14:40:02 - scraper_rango_unico - INFO - Página 448 procesada: 15 compras
+2025-10-23 14:40:02 - scraper_rango_unico - INFO - Progreso: 448/623 | Total compras: 6720
+2025-10-23 14:40:04 - scraper_rango_unico - INFO - Navegando a página 449
+2025-10-23 14:40:08 - scraper_rango_unico - INFO - Página 449 procesada: 15 compras
+2025-10-23 14:40:08 - scraper_rango_unico - INFO - Progreso: 449/623 | Total compras: 6735
+2025-10-23 14:40:10 - scraper_rango_unico - INFO - Navegando a página 450
+2025-10-23 14:40:12 - scraper_rango_unico - INFO - Página 450 procesada: 15 compras
+2025-10-23 14:40:12 - scraper_rango_unico - INFO - Progreso: 450/623 | Total compras: 6750
+2025-10-23 14:40:14 - scraper_rango_unico - INFO - Navegando a página 451
+2025-10-23 14:40:17 - scraper_rango_unico - INFO - Página 451 procesada: 15 compras
+2025-10-23 14:40:17 - scraper_rango_unico - INFO - Progreso: 451/623 | Total compras: 6765
+2025-10-23 14:40:19 - scraper_rango_unico - INFO - Navegando a página 452
+2025-10-23 14:40:22 - scraper_rango_unico - INFO - Página 452 procesada: 15 compras
+2025-10-23 14:40:22 - scraper_rango_unico - INFO - Progreso: 452/623 | Total compras: 6780
+2025-10-23 14:40:24 - scraper_rango_unico - INFO - Navegando a página 453
+2025-10-23 14:40:26 - scraper_rango_unico - INFO - Página 453 procesada: 15 compras
+2025-10-23 14:40:26 - scraper_rango_unico - INFO - Progreso: 453/623 | Total compras: 6795
+2025-10-23 14:40:28 - scraper_rango_unico - INFO - Navegando a página 454
+2025-10-23 14:40:31 - scraper_rango_unico - INFO - Página 454 procesada: 15 compras
+2025-10-23 14:40:31 - scraper_rango_unico - INFO - Progreso: 454/623 | Total compras: 6810
+2025-10-23 14:40:33 - scraper_rango_unico - INFO - Navegando a página 455
+2025-10-23 14:40:35 - scraper_rango_unico - INFO - Página 455 procesada: 15 compras
+2025-10-23 14:40:35 - scraper_rango_unico - INFO - Progreso: 455/623 | Total compras: 6825
+2025-10-23 14:40:37 - scraper_rango_unico - INFO - Navegando a página 456
+2025-10-23 14:40:39 - scraper_rango_unico - INFO - Página 456 procesada: 15 compras
+2025-10-23 14:40:39 - scraper_rango_unico - INFO - Progreso: 456/623 | Total compras: 6840
+2025-10-23 14:40:41 - scraper_rango_unico - INFO - Navegando a página 457
+2025-10-23 14:40:43 - scraper_rango_unico - INFO - Página 457 procesada: 15 compras
+2025-10-23 14:40:43 - scraper_rango_unico - INFO - Progreso: 457/623 | Total compras: 6855
+2025-10-23 14:40:45 - scraper_rango_unico - INFO - Navegando a página 458
+2025-10-23 14:40:48 - scraper_rango_unico - INFO - Página 458 procesada: 15 compras
+2025-10-23 14:40:48 - scraper_rango_unico - INFO - Progreso: 458/623 | Total compras: 6870
+2025-10-23 14:40:50 - scraper_rango_unico - INFO - Navegando a página 459
+2025-10-23 14:40:52 - scraper_rango_unico - INFO - Página 459 procesada: 15 compras
+2025-10-23 14:40:52 - scraper_rango_unico - INFO - Progreso: 459/623 | Total compras: 6885
+2025-10-23 14:40:54 - scraper_rango_unico - INFO - Navegando a página 460
+2025-10-23 14:40:56 - scraper_rango_unico - INFO - Página 460 procesada: 15 compras
+2025-10-23 14:40:56 - scraper_rango_unico - INFO - Progreso: 460/623 | Total compras: 6900
+2025-10-23 14:40:58 - scraper_rango_unico - INFO - Navegando a página 461
+2025-10-23 14:41:00 - scraper_rango_unico - INFO - Página 461 procesada: 15 compras
+2025-10-23 14:41:00 - scraper_rango_unico - INFO - Progreso: 461/623 | Total compras: 6915
+2025-10-23 14:41:02 - scraper_rango_unico - INFO - Navegando a página 462
+2025-10-23 14:41:05 - scraper_rango_unico - INFO - Página 462 procesada: 15 compras
+2025-10-23 14:41:05 - scraper_rango_unico - INFO - Progreso: 462/623 | Total compras: 6930
+2025-10-23 14:41:07 - scraper_rango_unico - INFO - Navegando a página 463
+2025-10-23 14:41:09 - scraper_rango_unico - INFO - Página 463 procesada: 15 compras
+2025-10-23 14:41:09 - scraper_rango_unico - INFO - Progreso: 463/623 | Total compras: 6945
+2025-10-23 14:41:11 - scraper_rango_unico - INFO - Navegando a página 464
+2025-10-23 14:41:13 - scraper_rango_unico - INFO - Página 464 procesada: 15 compras
+2025-10-23 14:41:13 - scraper_rango_unico - INFO - Progreso: 464/623 | Total compras: 6960
+2025-10-23 14:41:15 - scraper_rango_unico - INFO - Navegando a página 465
+2025-10-23 14:41:17 - scraper_rango_unico - INFO - Página 465 procesada: 15 compras
+2025-10-23 14:41:17 - scraper_rango_unico - INFO - Progreso: 465/623 | Total compras: 6975
+2025-10-23 14:41:19 - scraper_rango_unico - INFO - Navegando a página 466
+2025-10-23 14:41:22 - scraper_rango_unico - INFO - Página 466 procesada: 15 compras
+2025-10-23 14:41:22 - scraper_rango_unico - INFO - Progreso: 466/623 | Total compras: 6990
+2025-10-23 14:41:24 - scraper_rango_unico - INFO - Navegando a página 467
+2025-10-23 14:41:26 - scraper_rango_unico - INFO - Página 467 procesada: 15 compras
+2025-10-23 14:41:26 - scraper_rango_unico - INFO - Progreso: 467/623 | Total compras: 7005
+2025-10-23 14:41:28 - scraper_rango_unico - INFO - Navegando a página 468
+2025-10-23 14:41:31 - scraper_rango_unico - INFO - Página 468 procesada: 15 compras
+2025-10-23 14:41:31 - scraper_rango_unico - INFO - Progreso: 468/623 | Total compras: 7020
+2025-10-23 14:41:33 - scraper_rango_unico - INFO - Navegando a página 469
+2025-10-23 14:41:35 - scraper_rango_unico - INFO - Página 469 procesada: 15 compras
+2025-10-23 14:41:35 - scraper_rango_unico - INFO - Progreso: 469/623 | Total compras: 7035
+2025-10-23 14:41:37 - scraper_rango_unico - INFO - Navegando a página 470
+2025-10-23 14:41:39 - scraper_rango_unico - INFO - Página 470 procesada: 15 compras
+2025-10-23 14:41:39 - scraper_rango_unico - INFO - Progreso: 470/623 | Total compras: 7050
+2025-10-23 14:41:41 - scraper_rango_unico - INFO - Navegando a página 471
+2025-10-23 14:41:43 - scraper_rango_unico - INFO - Página 471 procesada: 15 compras
+2025-10-23 14:41:43 - scraper_rango_unico - INFO - Progreso: 471/623 | Total compras: 7065
+2025-10-23 14:41:45 - scraper_rango_unico - INFO - Navegando a página 472
+2025-10-23 14:41:47 - scraper_rango_unico - INFO - Página 472 procesada: 15 compras
+2025-10-23 14:41:47 - scraper_rango_unico - INFO - Progreso: 472/623 | Total compras: 7080
+2025-10-23 14:41:49 - scraper_rango_unico - INFO - Navegando a página 473
+2025-10-23 14:41:52 - scraper_rango_unico - INFO - Página 473 procesada: 15 compras
+2025-10-23 14:41:52 - scraper_rango_unico - INFO - Progreso: 473/623 | Total compras: 7095
+2025-10-23 14:41:54 - scraper_rango_unico - INFO - Navegando a página 474
+2025-10-23 14:41:56 - scraper_rango_unico - INFO - Página 474 procesada: 15 compras
+2025-10-23 14:41:56 - scraper_rango_unico - INFO - Progreso: 474/623 | Total compras: 7110
+2025-10-23 14:41:58 - scraper_rango_unico - INFO - Navegando a página 475
+2025-10-23 14:42:00 - scraper_rango_unico - INFO - Página 475 procesada: 15 compras
+2025-10-23 14:42:00 - scraper_rango_unico - INFO - Progreso: 475/623 | Total compras: 7125
+2025-10-23 14:42:02 - scraper_rango_unico - INFO - Navegando a página 476
+2025-10-23 14:42:05 - scraper_rango_unico - INFO - Página 476 procesada: 15 compras
+2025-10-23 14:42:05 - scraper_rango_unico - INFO - Progreso: 476/623 | Total compras: 7140
+2025-10-23 14:42:07 - scraper_rango_unico - INFO - Navegando a página 477
+2025-10-23 14:42:09 - scraper_rango_unico - INFO - Página 477 procesada: 15 compras
+2025-10-23 14:42:09 - scraper_rango_unico - INFO - Progreso: 477/623 | Total compras: 7155
+2025-10-23 14:42:11 - scraper_rango_unico - INFO - Navegando a página 478
+2025-10-23 14:42:14 - scraper_rango_unico - INFO - Página 478 procesada: 15 compras
+2025-10-23 14:42:14 - scraper_rango_unico - INFO - Progreso: 478/623 | Total compras: 7170
+2025-10-23 14:42:16 - scraper_rango_unico - INFO - Navegando a página 479
+2025-10-23 14:42:18 - scraper_rango_unico - INFO - Página 479 procesada: 15 compras
+2025-10-23 14:42:18 - scraper_rango_unico - INFO - Progreso: 479/623 | Total compras: 7185
+2025-10-23 14:42:20 - scraper_rango_unico - INFO - Navegando a página 480
+2025-10-23 14:42:22 - scraper_rango_unico - INFO - Página 480 procesada: 15 compras
+2025-10-23 14:42:22 - scraper_rango_unico - INFO - Progreso: 480/623 | Total compras: 7200
+2025-10-23 14:42:24 - scraper_rango_unico - INFO - Navegando a página 481
+2025-10-23 14:42:26 - scraper_rango_unico - INFO - Página 481 procesada: 15 compras
+2025-10-23 14:42:26 - scraper_rango_unico - INFO - Progreso: 481/623 | Total compras: 7215
+2025-10-23 14:42:28 - scraper_rango_unico - INFO - Navegando a página 482
+2025-10-23 14:42:30 - scraper_rango_unico - INFO - Página 482 procesada: 15 compras
+2025-10-23 14:42:30 - scraper_rango_unico - INFO - Progreso: 482/623 | Total compras: 7230
+2025-10-23 14:42:32 - scraper_rango_unico - INFO - Navegando a página 483
+2025-10-23 14:42:35 - scraper_rango_unico - INFO - Página 483 procesada: 15 compras
+2025-10-23 14:42:35 - scraper_rango_unico - INFO - Progreso: 483/623 | Total compras: 7245
+2025-10-23 14:42:37 - scraper_rango_unico - INFO - Navegando a página 484
+2025-10-23 14:42:39 - scraper_rango_unico - INFO - Página 484 procesada: 15 compras
+2025-10-23 14:42:39 - scraper_rango_unico - INFO - Progreso: 484/623 | Total compras: 7260
+2025-10-23 14:42:41 - scraper_rango_unico - INFO - Navegando a página 485
+2025-10-23 14:42:43 - scraper_rango_unico - INFO - Página 485 procesada: 15 compras
+2025-10-23 14:42:43 - scraper_rango_unico - INFO - Progreso: 485/623 | Total compras: 7275
+2025-10-23 14:42:45 - scraper_rango_unico - INFO - Navegando a página 486
+2025-10-23 14:42:47 - scraper_rango_unico - INFO - Página 486 procesada: 15 compras
+2025-10-23 14:42:47 - scraper_rango_unico - INFO - Progreso: 486/623 | Total compras: 7290
+2025-10-23 14:42:49 - scraper_rango_unico - INFO - Navegando a página 487
+2025-10-23 14:42:51 - scraper_rango_unico - INFO - Página 487 procesada: 15 compras
+2025-10-23 14:42:51 - scraper_rango_unico - INFO - Progreso: 487/623 | Total compras: 7305
+2025-10-23 14:42:54 - scraper_rango_unico - INFO - Navegando a página 488
+2025-10-23 14:42:56 - scraper_rango_unico - INFO - Página 488 procesada: 15 compras
+2025-10-23 14:42:56 - scraper_rango_unico - INFO - Progreso: 488/623 | Total compras: 7320
+2025-10-23 14:42:58 - scraper_rango_unico - INFO - Navegando a página 489
+2025-10-23 14:43:00 - scraper_rango_unico - INFO - Página 489 procesada: 15 compras
+2025-10-23 14:43:00 - scraper_rango_unico - INFO - Progreso: 489/623 | Total compras: 7335
+2025-10-23 14:43:02 - scraper_rango_unico - INFO - Navegando a página 490
+2025-10-23 14:43:05 - scraper_rango_unico - INFO - Página 490 procesada: 15 compras
+2025-10-23 14:43:05 - scraper_rango_unico - INFO - Progreso: 490/623 | Total compras: 7350
+2025-10-23 14:43:07 - scraper_rango_unico - INFO - Navegando a página 491
+2025-10-23 14:43:09 - scraper_rango_unico - INFO - Página 491 procesada: 15 compras
+2025-10-23 14:43:09 - scraper_rango_unico - INFO - Progreso: 491/623 | Total compras: 7365
+2025-10-23 14:43:11 - scraper_rango_unico - INFO - Navegando a página 492
+2025-10-23 14:43:14 - scraper_rango_unico - INFO - Página 492 procesada: 15 compras
+2025-10-23 14:43:14 - scraper_rango_unico - INFO - Progreso: 492/623 | Total compras: 7380
+2025-10-23 14:43:16 - scraper_rango_unico - INFO - Navegando a página 493
+2025-10-23 14:43:18 - scraper_rango_unico - INFO - Página 493 procesada: 15 compras
+2025-10-23 14:43:18 - scraper_rango_unico - INFO - Progreso: 493/623 | Total compras: 7395
+2025-10-23 14:43:20 - scraper_rango_unico - INFO - Navegando a página 494
+2025-10-23 14:43:23 - scraper_rango_unico - INFO - Página 494 procesada: 15 compras
+2025-10-23 14:43:23 - scraper_rango_unico - INFO - Progreso: 494/623 | Total compras: 7410
+2025-10-23 14:43:25 - scraper_rango_unico - INFO - Navegando a página 495
+2025-10-23 14:43:27 - scraper_rango_unico - INFO - Página 495 procesada: 15 compras
+2025-10-23 14:43:27 - scraper_rango_unico - INFO - Progreso: 495/623 | Total compras: 7425
+2025-10-23 14:43:29 - scraper_rango_unico - INFO - Navegando a página 496
+2025-10-23 14:43:31 - scraper_rango_unico - INFO - Página 496 procesada: 15 compras
+2025-10-23 14:43:31 - scraper_rango_unico - INFO - Progreso: 496/623 | Total compras: 7440
+2025-10-23 14:43:33 - scraper_rango_unico - INFO - Navegando a página 497
+2025-10-23 14:43:35 - scraper_rango_unico - INFO - Página 497 procesada: 15 compras
+2025-10-23 14:43:35 - scraper_rango_unico - INFO - Progreso: 497/623 | Total compras: 7455
+2025-10-23 14:43:37 - scraper_rango_unico - INFO - Navegando a página 498
+2025-10-23 14:43:40 - scraper_rango_unico - INFO - Página 498 procesada: 15 compras
+2025-10-23 14:43:40 - scraper_rango_unico - INFO - Progreso: 498/623 | Total compras: 7470
+2025-10-23 14:43:42 - scraper_rango_unico - INFO - Navegando a página 499
+2025-10-23 14:43:44 - scraper_rango_unico - INFO - Página 499 procesada: 15 compras
+2025-10-23 14:43:44 - scraper_rango_unico - INFO - Progreso: 499/623 | Total compras: 7485
+2025-10-23 14:43:46 - scraper_rango_unico - INFO - Navegando a página 500
+2025-10-23 14:43:48 - scraper_rango_unico - INFO - Página 500 procesada: 15 compras
+2025-10-23 14:43:48 - scraper_rango_unico - INFO - Progreso: 500/623 | Total compras: 7500
+2025-10-23 14:43:50 - scraper_rango_unico - INFO - Navegando a página 501
+2025-10-23 14:43:53 - scraper_rango_unico - INFO - Página 501 procesada: 15 compras
+2025-10-23 14:43:53 - scraper_rango_unico - INFO - Progreso: 501/623 | Total compras: 7515
+2025-10-23 14:43:55 - scraper_rango_unico - INFO - Navegando a página 502
+2025-10-23 14:43:57 - scraper_rango_unico - INFO - Página 502 procesada: 15 compras
+2025-10-23 14:43:57 - scraper_rango_unico - INFO - Progreso: 502/623 | Total compras: 7530
+2025-10-23 14:43:59 - scraper_rango_unico - INFO - Navegando a página 503
+2025-10-23 14:44:01 - scraper_rango_unico - INFO - Página 503 procesada: 15 compras
+2025-10-23 14:44:01 - scraper_rango_unico - INFO - Progreso: 503/623 | Total compras: 7545
+2025-10-23 14:44:03 - scraper_rango_unico - INFO - Navegando a página 504
+2025-10-23 14:44:06 - scraper_rango_unico - INFO - Página 504 procesada: 15 compras
+2025-10-23 14:44:06 - scraper_rango_unico - INFO - Progreso: 504/623 | Total compras: 7560
+2025-10-23 14:44:08 - scraper_rango_unico - INFO - Navegando a página 505
+2025-10-23 14:44:11 - scraper_rango_unico - INFO - Página 505 procesada: 15 compras
+2025-10-23 14:44:11 - scraper_rango_unico - INFO - Progreso: 505/623 | Total compras: 7575
+2025-10-23 14:44:13 - scraper_rango_unico - INFO - Navegando a página 506
+2025-10-23 14:44:16 - scraper_rango_unico - INFO - Página 506 procesada: 15 compras
+2025-10-23 14:44:16 - scraper_rango_unico - INFO - Progreso: 506/623 | Total compras: 7590
+2025-10-23 14:44:18 - scraper_rango_unico - INFO - Navegando a página 507
+2025-10-23 14:44:20 - scraper_rango_unico - INFO - Página 507 procesada: 15 compras
+2025-10-23 14:44:20 - scraper_rango_unico - INFO - Progreso: 507/623 | Total compras: 7605
+2025-10-23 14:44:22 - scraper_rango_unico - INFO - Navegando a página 508
+2025-10-23 14:44:25 - scraper_rango_unico - INFO - Página 508 procesada: 15 compras
+2025-10-23 14:44:25 - scraper_rango_unico - INFO - Progreso: 508/623 | Total compras: 7620
+2025-10-23 14:44:27 - scraper_rango_unico - INFO - Navegando a página 509
+2025-10-23 14:44:29 - scraper_rango_unico - INFO - Página 509 procesada: 15 compras
+2025-10-23 14:44:29 - scraper_rango_unico - INFO - Progreso: 509/623 | Total compras: 7635
+2025-10-23 14:44:31 - scraper_rango_unico - INFO - Navegando a página 510
+2025-10-23 14:44:33 - scraper_rango_unico - INFO - Página 510 procesada: 15 compras
+2025-10-23 14:44:33 - scraper_rango_unico - INFO - Progreso: 510/623 | Total compras: 7650
+2025-10-23 14:44:35 - scraper_rango_unico - INFO - Navegando a página 511
+2025-10-23 14:44:38 - scraper_rango_unico - INFO - Página 511 procesada: 15 compras
+2025-10-23 14:44:38 - scraper_rango_unico - INFO - Progreso: 511/623 | Total compras: 7665
+2025-10-23 14:44:40 - scraper_rango_unico - INFO - Navegando a página 512
+2025-10-23 14:44:42 - scraper_rango_unico - INFO - Página 512 procesada: 15 compras
+2025-10-23 14:44:42 - scraper_rango_unico - INFO - Progreso: 512/623 | Total compras: 7680
+2025-10-23 14:44:44 - scraper_rango_unico - INFO - Navegando a página 513
+2025-10-23 14:44:46 - scraper_rango_unico - INFO - Página 513 procesada: 15 compras
+2025-10-23 14:44:46 - scraper_rango_unico - INFO - Progreso: 513/623 | Total compras: 7695
+2025-10-23 14:44:48 - scraper_rango_unico - INFO - Navegando a página 514
+2025-10-23 14:44:51 - scraper_rango_unico - INFO - Página 514 procesada: 15 compras
+2025-10-23 14:44:51 - scraper_rango_unico - INFO - Progreso: 514/623 | Total compras: 7710
+2025-10-23 14:44:53 - scraper_rango_unico - INFO - Navegando a página 515
+2025-10-23 14:44:56 - scraper_rango_unico - INFO - Página 515 procesada: 15 compras
+2025-10-23 14:44:56 - scraper_rango_unico - INFO - Progreso: 515/623 | Total compras: 7725
+2025-10-23 14:44:58 - scraper_rango_unico - INFO - Navegando a página 516
+2025-10-23 14:45:00 - scraper_rango_unico - INFO - Página 516 procesada: 15 compras
+2025-10-23 14:45:00 - scraper_rango_unico - INFO - Progreso: 516/623 | Total compras: 7740
+2025-10-23 14:45:02 - scraper_rango_unico - INFO - Navegando a página 517
+2025-10-23 14:45:04 - scraper_rango_unico - INFO - Página 517 procesada: 15 compras
+2025-10-23 14:45:04 - scraper_rango_unico - INFO - Progreso: 517/623 | Total compras: 7755
+2025-10-23 14:45:06 - scraper_rango_unico - INFO - Navegando a página 518
+2025-10-23 14:45:10 - scraper_rango_unico - INFO - Página 518 procesada: 15 compras
+2025-10-23 14:45:10 - scraper_rango_unico - INFO - Progreso: 518/623 | Total compras: 7770
+2025-10-23 14:45:12 - scraper_rango_unico - INFO - Navegando a página 519
+2025-10-23 14:45:15 - scraper_rango_unico - INFO - Página 519 procesada: 15 compras
+2025-10-23 14:45:15 - scraper_rango_unico - INFO - Progreso: 519/623 | Total compras: 7785
+2025-10-23 14:45:17 - scraper_rango_unico - INFO - Navegando a página 520
+2025-10-23 14:45:19 - scraper_rango_unico - INFO - Página 520 procesada: 15 compras
+2025-10-23 14:45:19 - scraper_rango_unico - INFO - Progreso: 520/623 | Total compras: 7800
+2025-10-23 14:45:21 - scraper_rango_unico - INFO - Navegando a página 521
+2025-10-23 14:45:24 - scraper_rango_unico - INFO - Página 521 procesada: 15 compras
+2025-10-23 14:45:24 - scraper_rango_unico - INFO - Progreso: 521/623 | Total compras: 7815
+2025-10-23 14:45:26 - scraper_rango_unico - INFO - Navegando a página 522
+2025-10-23 14:45:28 - scraper_rango_unico - INFO - Página 522 procesada: 15 compras
+2025-10-23 14:45:28 - scraper_rango_unico - INFO - Progreso: 522/623 | Total compras: 7830
+2025-10-23 14:45:30 - scraper_rango_unico - INFO - Navegando a página 523
+2025-10-23 14:45:32 - scraper_rango_unico - INFO - Página 523 procesada: 15 compras
+2025-10-23 14:45:32 - scraper_rango_unico - INFO - Progreso: 523/623 | Total compras: 7845
+2025-10-23 14:45:34 - scraper_rango_unico - INFO - Navegando a página 524
+2025-10-23 14:45:36 - scraper_rango_unico - INFO - Página 524 procesada: 15 compras
+2025-10-23 14:45:36 - scraper_rango_unico - INFO - Progreso: 524/623 | Total compras: 7860
+2025-10-23 14:45:38 - scraper_rango_unico - INFO - Navegando a página 525
+2025-10-23 14:45:41 - scraper_rango_unico - INFO - Página 525 procesada: 15 compras
+2025-10-23 14:45:41 - scraper_rango_unico - INFO - Progreso: 525/623 | Total compras: 7875
+2025-10-23 14:45:43 - scraper_rango_unico - INFO - Navegando a página 526
+2025-10-23 14:45:45 - scraper_rango_unico - INFO - Página 526 procesada: 15 compras
+2025-10-23 14:45:45 - scraper_rango_unico - INFO - Progreso: 526/623 | Total compras: 7890
+2025-10-23 14:45:47 - scraper_rango_unico - INFO - Navegando a página 527
+2025-10-23 14:45:49 - scraper_rango_unico - INFO - Página 527 procesada: 15 compras
+2025-10-23 14:45:49 - scraper_rango_unico - INFO - Progreso: 527/623 | Total compras: 7905
+2025-10-23 14:45:51 - scraper_rango_unico - INFO - Navegando a página 528
+2025-10-23 14:45:53 - scraper_rango_unico - INFO - Página 528 procesada: 15 compras
+2025-10-23 14:45:53 - scraper_rango_unico - INFO - Progreso: 528/623 | Total compras: 7920
+2025-10-23 14:45:55 - scraper_rango_unico - INFO - Navegando a página 529
+2025-10-23 14:45:57 - scraper_rango_unico - INFO - Página 529 procesada: 15 compras
+2025-10-23 14:45:57 - scraper_rango_unico - INFO - Progreso: 529/623 | Total compras: 7935
+2025-10-23 14:45:59 - scraper_rango_unico - INFO - Navegando a página 530
+2025-10-23 14:46:02 - scraper_rango_unico - INFO - Página 530 procesada: 15 compras
+2025-10-23 14:46:02 - scraper_rango_unico - INFO - Progreso: 530/623 | Total compras: 7950
+2025-10-23 14:46:04 - scraper_rango_unico - INFO - Navegando a página 531
+2025-10-23 14:46:06 - scraper_rango_unico - INFO - Página 531 procesada: 15 compras
+2025-10-23 14:46:06 - scraper_rango_unico - INFO - Progreso: 531/623 | Total compras: 7965
+2025-10-23 14:46:08 - scraper_rango_unico - INFO - Navegando a página 532
+2025-10-23 14:46:10 - scraper_rango_unico - INFO - Página 532 procesada: 15 compras
+2025-10-23 14:46:10 - scraper_rango_unico - INFO - Progreso: 532/623 | Total compras: 7980
+2025-10-23 14:46:12 - scraper_rango_unico - INFO - Navegando a página 533
+2025-10-23 14:46:14 - scraper_rango_unico - INFO - Página 533 procesada: 15 compras
+2025-10-23 14:46:14 - scraper_rango_unico - INFO - Progreso: 533/623 | Total compras: 7995
+2025-10-23 14:46:16 - scraper_rango_unico - INFO - Navegando a página 534
+2025-10-23 14:46:19 - scraper_rango_unico - INFO - Página 534 procesada: 15 compras
+2025-10-23 14:46:19 - scraper_rango_unico - INFO - Progreso: 534/623 | Total compras: 8010
+2025-10-23 14:46:21 - scraper_rango_unico - INFO - Navegando a página 535
+2025-10-23 14:46:24 - scraper_rango_unico - INFO - Página 535 procesada: 15 compras
+2025-10-23 14:46:24 - scraper_rango_unico - INFO - Progreso: 535/623 | Total compras: 8025
+2025-10-23 14:46:26 - scraper_rango_unico - INFO - Navegando a página 536
+2025-10-23 14:46:28 - scraper_rango_unico - INFO - Página 536 procesada: 15 compras
+2025-10-23 14:46:28 - scraper_rango_unico - INFO - Progreso: 536/623 | Total compras: 8040
+2025-10-23 14:46:30 - scraper_rango_unico - INFO - Navegando a página 537
+2025-10-23 14:46:33 - scraper_rango_unico - INFO - Página 537 procesada: 15 compras
+2025-10-23 14:46:33 - scraper_rango_unico - INFO - Progreso: 537/623 | Total compras: 8055
+2025-10-23 14:46:35 - scraper_rango_unico - INFO - Navegando a página 538
+2025-10-23 14:46:38 - scraper_rango_unico - INFO - Página 538 procesada: 15 compras
+2025-10-23 14:46:38 - scraper_rango_unico - INFO - Progreso: 538/623 | Total compras: 8070
+2025-10-23 14:46:40 - scraper_rango_unico - INFO - Navegando a página 539
+2025-10-23 14:46:42 - scraper_rango_unico - INFO - Página 539 procesada: 15 compras
+2025-10-23 14:46:42 - scraper_rango_unico - INFO - Progreso: 539/623 | Total compras: 8085
+2025-10-23 14:46:44 - scraper_rango_unico - INFO - Navegando a página 540
+2025-10-23 14:46:47 - scraper_rango_unico - INFO - Página 540 procesada: 15 compras
+2025-10-23 14:46:47 - scraper_rango_unico - INFO - Progreso: 540/623 | Total compras: 8100
+2025-10-23 14:46:49 - scraper_rango_unico - INFO - Navegando a página 541
+2025-10-23 14:46:52 - scraper_rango_unico - INFO - Página 541 procesada: 15 compras
+2025-10-23 14:46:52 - scraper_rango_unico - INFO - Progreso: 541/623 | Total compras: 8115
+2025-10-23 14:46:54 - scraper_rango_unico - INFO - Navegando a página 542
+2025-10-23 14:46:56 - scraper_rango_unico - INFO - Página 542 procesada: 15 compras
+2025-10-23 14:46:56 - scraper_rango_unico - INFO - Progreso: 542/623 | Total compras: 8130
+2025-10-23 14:46:58 - scraper_rango_unico - INFO - Navegando a página 543
+2025-10-23 14:47:02 - scraper_rango_unico - INFO - Página 543 procesada: 15 compras
+2025-10-23 14:47:02 - scraper_rango_unico - INFO - Progreso: 543/623 | Total compras: 8145
+2025-10-23 14:47:04 - scraper_rango_unico - INFO - Navegando a página 544
+2025-10-23 14:47:06 - scraper_rango_unico - INFO - Página 544 procesada: 15 compras
+2025-10-23 14:47:06 - scraper_rango_unico - INFO - Progreso: 544/623 | Total compras: 8160
+2025-10-23 14:47:08 - scraper_rango_unico - INFO - Navegando a página 545
+2025-10-23 14:47:11 - scraper_rango_unico - INFO - Página 545 procesada: 15 compras
+2025-10-23 14:47:11 - scraper_rango_unico - INFO - Progreso: 545/623 | Total compras: 8175
+2025-10-23 14:47:13 - scraper_rango_unico - INFO - Navegando a página 546
+2025-10-23 14:47:15 - scraper_rango_unico - INFO - Página 546 procesada: 15 compras
+2025-10-23 14:47:15 - scraper_rango_unico - INFO - Progreso: 546/623 | Total compras: 8190
+2025-10-23 14:47:17 - scraper_rango_unico - INFO - Navegando a página 547
+2025-10-23 14:47:20 - scraper_rango_unico - INFO - Página 547 procesada: 15 compras
+2025-10-23 14:47:20 - scraper_rango_unico - INFO - Progreso: 547/623 | Total compras: 8205
+2025-10-23 14:47:22 - scraper_rango_unico - INFO - Navegando a página 548
+2025-10-23 14:47:25 - scraper_rango_unico - INFO - Página 548 procesada: 15 compras
+2025-10-23 14:47:25 - scraper_rango_unico - INFO - Progreso: 548/623 | Total compras: 8220
+2025-10-23 14:47:27 - scraper_rango_unico - INFO - Navegando a página 549
+2025-10-23 14:47:30 - scraper_rango_unico - INFO - Página 549 procesada: 15 compras
+2025-10-23 14:47:30 - scraper_rango_unico - INFO - Progreso: 549/623 | Total compras: 8235
+2025-10-23 14:47:32 - scraper_rango_unico - INFO - Navegando a página 550
+2025-10-23 14:47:34 - scraper_rango_unico - INFO - Página 550 procesada: 15 compras
+2025-10-23 14:47:34 - scraper_rango_unico - INFO - Progreso: 550/623 | Total compras: 8250
+2025-10-23 14:47:36 - scraper_rango_unico - INFO - Navegando a página 551
+2025-10-23 14:47:38 - scraper_rango_unico - INFO - Página 551 procesada: 15 compras
+2025-10-23 14:47:38 - scraper_rango_unico - INFO - Progreso: 551/623 | Total compras: 8265
+2025-10-23 14:47:40 - scraper_rango_unico - INFO - Navegando a página 552
+2025-10-23 14:47:43 - scraper_rango_unico - INFO - Página 552 procesada: 15 compras
+2025-10-23 14:47:43 - scraper_rango_unico - INFO - Progreso: 552/623 | Total compras: 8280
+2025-10-23 14:47:45 - scraper_rango_unico - INFO - Navegando a página 553
+2025-10-23 14:47:48 - scraper_rango_unico - INFO - Página 553 procesada: 15 compras
+2025-10-23 14:47:48 - scraper_rango_unico - INFO - Progreso: 553/623 | Total compras: 8295
+2025-10-23 14:47:50 - scraper_rango_unico - INFO - Navegando a página 554
+2025-10-23 14:47:52 - scraper_rango_unico - INFO - Página 554 procesada: 15 compras
+2025-10-23 14:47:52 - scraper_rango_unico - INFO - Progreso: 554/623 | Total compras: 8310
+2025-10-23 14:47:54 - scraper_rango_unico - INFO - Navegando a página 555
+2025-10-23 14:47:57 - scraper_rango_unico - INFO - Página 555 procesada: 15 compras
+2025-10-23 14:47:57 - scraper_rango_unico - INFO - Progreso: 555/623 | Total compras: 8325
+2025-10-23 14:47:59 - scraper_rango_unico - INFO - Navegando a página 556
+2025-10-23 14:48:01 - scraper_rango_unico - INFO - Página 556 procesada: 15 compras
+2025-10-23 14:48:01 - scraper_rango_unico - INFO - Progreso: 556/623 | Total compras: 8340
+2025-10-23 14:48:03 - scraper_rango_unico - INFO - Navegando a página 557
+2025-10-23 14:48:06 - scraper_rango_unico - INFO - Página 557 procesada: 15 compras
+2025-10-23 14:48:06 - scraper_rango_unico - INFO - Progreso: 557/623 | Total compras: 8355
+2025-10-23 14:48:08 - scraper_rango_unico - INFO - Navegando a página 558
+2025-10-23 14:48:10 - scraper_rango_unico - INFO - Página 558 procesada: 15 compras
+2025-10-23 14:48:10 - scraper_rango_unico - INFO - Progreso: 558/623 | Total compras: 8370
+2025-10-23 14:48:12 - scraper_rango_unico - INFO - Navegando a página 559
+2025-10-23 14:48:15 - scraper_rango_unico - INFO - Página 559 procesada: 15 compras
+2025-10-23 14:48:15 - scraper_rango_unico - INFO - Progreso: 559/623 | Total compras: 8385
+2025-10-23 14:48:17 - scraper_rango_unico - INFO - Navegando a página 560
+2025-10-23 14:48:19 - scraper_rango_unico - INFO - Página 560 procesada: 15 compras
+2025-10-23 14:48:19 - scraper_rango_unico - INFO - Progreso: 560/623 | Total compras: 8400
+2025-10-23 14:48:21 - scraper_rango_unico - INFO - Navegando a página 561
+2025-10-23 14:48:23 - scraper_rango_unico - INFO - Página 561 procesada: 15 compras
+2025-10-23 14:48:23 - scraper_rango_unico - INFO - Progreso: 561/623 | Total compras: 8415
+2025-10-23 14:48:25 - scraper_rango_unico - INFO - Navegando a página 562
+2025-10-23 14:48:28 - scraper_rango_unico - INFO - Página 562 procesada: 15 compras
+2025-10-23 14:48:28 - scraper_rango_unico - INFO - Progreso: 562/623 | Total compras: 8430
+2025-10-23 14:48:30 - scraper_rango_unico - INFO - Navegando a página 563
+2025-10-23 14:48:32 - scraper_rango_unico - INFO - Página 563 procesada: 15 compras
+2025-10-23 14:48:32 - scraper_rango_unico - INFO - Progreso: 563/623 | Total compras: 8445
+2025-10-23 14:48:34 - scraper_rango_unico - INFO - Navegando a página 564
+2025-10-23 14:48:36 - scraper_rango_unico - INFO - Página 564 procesada: 15 compras
+2025-10-23 14:48:36 - scraper_rango_unico - INFO - Progreso: 564/623 | Total compras: 8460
+2025-10-23 14:48:38 - scraper_rango_unico - INFO - Navegando a página 565
+2025-10-23 14:48:41 - scraper_rango_unico - INFO - Página 565 procesada: 15 compras
+2025-10-23 14:48:41 - scraper_rango_unico - INFO - Progreso: 565/623 | Total compras: 8475
+2025-10-23 14:48:43 - scraper_rango_unico - INFO - Navegando a página 566
+2025-10-23 14:48:46 - scraper_rango_unico - INFO - Página 566 procesada: 15 compras
+2025-10-23 14:48:46 - scraper_rango_unico - INFO - Progreso: 566/623 | Total compras: 8490
+2025-10-23 14:48:48 - scraper_rango_unico - INFO - Navegando a página 567
+2025-10-23 14:48:51 - scraper_rango_unico - INFO - Página 567 procesada: 15 compras
+2025-10-23 14:48:51 - scraper_rango_unico - INFO - Progreso: 567/623 | Total compras: 8505
+2025-10-23 14:48:53 - scraper_rango_unico - INFO - Navegando a página 568
+2025-10-23 14:48:55 - scraper_rango_unico - INFO - Página 568 procesada: 15 compras
+2025-10-23 14:48:55 - scraper_rango_unico - INFO - Progreso: 568/623 | Total compras: 8520
+2025-10-23 14:48:57 - scraper_rango_unico - INFO - Navegando a página 569
+2025-10-23 14:49:00 - scraper_rango_unico - INFO - Página 569 procesada: 15 compras
+2025-10-23 14:49:00 - scraper_rango_unico - INFO - Progreso: 569/623 | Total compras: 8535
+2025-10-23 14:49:02 - scraper_rango_unico - INFO - Navegando a página 570
+2025-10-23 14:49:04 - scraper_rango_unico - INFO - Página 570 procesada: 15 compras
+2025-10-23 14:49:04 - scraper_rango_unico - INFO - Progreso: 570/623 | Total compras: 8550
+2025-10-23 14:49:06 - scraper_rango_unico - INFO - Navegando a página 571
+2025-10-23 14:49:08 - scraper_rango_unico - INFO - Página 571 procesada: 15 compras
+2025-10-23 14:49:08 - scraper_rango_unico - INFO - Progreso: 571/623 | Total compras: 8565
+2025-10-23 14:49:10 - scraper_rango_unico - INFO - Navegando a página 572
+2025-10-23 14:49:12 - scraper_rango_unico - INFO - Página 572 procesada: 15 compras
+2025-10-23 14:49:12 - scraper_rango_unico - INFO - Progreso: 572/623 | Total compras: 8580
+2025-10-23 14:49:14 - scraper_rango_unico - INFO - Navegando a página 573
+2025-10-23 14:49:17 - scraper_rango_unico - INFO - Página 573 procesada: 15 compras
+2025-10-23 14:49:17 - scraper_rango_unico - INFO - Progreso: 573/623 | Total compras: 8595
+2025-10-23 14:49:19 - scraper_rango_unico - INFO - Navegando a página 574
+2025-10-23 14:49:21 - scraper_rango_unico - INFO - Página 574 procesada: 15 compras
+2025-10-23 14:49:21 - scraper_rango_unico - INFO - Progreso: 574/623 | Total compras: 8610
+2025-10-23 14:49:23 - scraper_rango_unico - INFO - Navegando a página 575
+2025-10-23 14:49:25 - scraper_rango_unico - INFO - Página 575 procesada: 15 compras
+2025-10-23 14:49:25 - scraper_rango_unico - INFO - Progreso: 575/623 | Total compras: 8625
+2025-10-23 14:49:27 - scraper_rango_unico - INFO - Navegando a página 576
+2025-10-23 14:49:30 - scraper_rango_unico - INFO - Página 576 procesada: 15 compras
+2025-10-23 14:49:30 - scraper_rango_unico - INFO - Progreso: 576/623 | Total compras: 8640
+2025-10-23 14:49:32 - scraper_rango_unico - INFO - Navegando a página 577
+2025-10-23 14:49:34 - scraper_rango_unico - INFO - Página 577 procesada: 15 compras
+2025-10-23 14:49:34 - scraper_rango_unico - INFO - Progreso: 577/623 | Total compras: 8655
+2025-10-23 14:49:36 - scraper_rango_unico - INFO - Navegando a página 578
+2025-10-23 14:49:38 - scraper_rango_unico - INFO - Página 578 procesada: 15 compras
+2025-10-23 14:49:38 - scraper_rango_unico - INFO - Progreso: 578/623 | Total compras: 8670
+2025-10-23 14:49:40 - scraper_rango_unico - INFO - Navegando a página 579
+2025-10-23 14:49:43 - scraper_rango_unico - INFO - Página 579 procesada: 15 compras
+2025-10-23 14:49:43 - scraper_rango_unico - INFO - Progreso: 579/623 | Total compras: 8685
+2025-10-23 14:49:45 - scraper_rango_unico - INFO - Navegando a página 580
+2025-10-23 14:49:48 - scraper_rango_unico - INFO - Página 580 procesada: 15 compras
+2025-10-23 14:49:48 - scraper_rango_unico - INFO - Progreso: 580/623 | Total compras: 8700
+2025-10-23 14:49:50 - scraper_rango_unico - INFO - Navegando a página 581
+2025-10-23 14:49:52 - scraper_rango_unico - INFO - Página 581 procesada: 15 compras
+2025-10-23 14:49:52 - scraper_rango_unico - INFO - Progreso: 581/623 | Total compras: 8715
+2025-10-23 14:49:54 - scraper_rango_unico - INFO - Navegando a página 582
+2025-10-23 14:49:57 - scraper_rango_unico - INFO - Página 582 procesada: 15 compras
+2025-10-23 14:49:57 - scraper_rango_unico - INFO - Progreso: 582/623 | Total compras: 8730
+2025-10-23 14:49:59 - scraper_rango_unico - INFO - Navegando a página 583
+2025-10-23 14:50:01 - scraper_rango_unico - INFO - Página 583 procesada: 15 compras
+2025-10-23 14:50:01 - scraper_rango_unico - INFO - Progreso: 583/623 | Total compras: 8745
+2025-10-23 14:50:03 - scraper_rango_unico - INFO - Navegando a página 584
+2025-10-23 14:50:05 - scraper_rango_unico - INFO - Página 584 procesada: 15 compras
+2025-10-23 14:50:05 - scraper_rango_unico - INFO - Progreso: 584/623 | Total compras: 8760
+2025-10-23 14:50:07 - scraper_rango_unico - INFO - Navegando a página 585
+2025-10-23 14:50:10 - scraper_rango_unico - INFO - Página 585 procesada: 15 compras
+2025-10-23 14:50:10 - scraper_rango_unico - INFO - Progreso: 585/623 | Total compras: 8775
+2025-10-23 14:50:12 - scraper_rango_unico - INFO - Navegando a página 586
+2025-10-23 14:50:15 - scraper_rango_unico - INFO - Página 586 procesada: 15 compras
+2025-10-23 14:50:15 - scraper_rango_unico - INFO - Progreso: 586/623 | Total compras: 8790
+2025-10-23 14:50:17 - scraper_rango_unico - INFO - Navegando a página 587
+2025-10-23 14:50:19 - scraper_rango_unico - INFO - Página 587 procesada: 15 compras
+2025-10-23 14:50:19 - scraper_rango_unico - INFO - Progreso: 587/623 | Total compras: 8805
+2025-10-23 14:50:21 - scraper_rango_unico - INFO - Navegando a página 588
+2025-10-23 14:50:24 - scraper_rango_unico - INFO - Página 588 procesada: 15 compras
+2025-10-23 14:50:24 - scraper_rango_unico - INFO - Progreso: 588/623 | Total compras: 8820
+2025-10-23 14:50:26 - scraper_rango_unico - INFO - Navegando a página 589
+2025-10-23 14:50:28 - scraper_rango_unico - INFO - Página 589 procesada: 15 compras
+2025-10-23 14:50:28 - scraper_rango_unico - INFO - Progreso: 589/623 | Total compras: 8835
+2025-10-23 14:50:30 - scraper_rango_unico - INFO - Navegando a página 590
+2025-10-23 14:50:33 - scraper_rango_unico - INFO - Página 590 procesada: 15 compras
+2025-10-23 14:50:33 - scraper_rango_unico - INFO - Progreso: 590/623 | Total compras: 8850
+2025-10-23 14:50:35 - scraper_rango_unico - INFO - Navegando a página 591
+2025-10-23 14:50:37 - scraper_rango_unico - INFO - Página 591 procesada: 15 compras
+2025-10-23 14:50:37 - scraper_rango_unico - INFO - Progreso: 591/623 | Total compras: 8865
+2025-10-23 14:50:39 - scraper_rango_unico - INFO - Navegando a página 592
+2025-10-23 14:50:42 - scraper_rango_unico - INFO - Página 592 procesada: 15 compras
+2025-10-23 14:50:42 - scraper_rango_unico - INFO - Progreso: 592/623 | Total compras: 8880
+2025-10-23 14:50:44 - scraper_rango_unico - INFO - Navegando a página 593
+2025-10-23 14:50:46 - scraper_rango_unico - INFO - Página 593 procesada: 15 compras
+2025-10-23 14:50:46 - scraper_rango_unico - INFO - Progreso: 593/623 | Total compras: 8895
+2025-10-23 14:50:48 - scraper_rango_unico - INFO - Navegando a página 594
+2025-10-23 14:50:51 - scraper_rango_unico - INFO - Página 594 procesada: 15 compras
+2025-10-23 14:50:51 - scraper_rango_unico - INFO - Progreso: 594/623 | Total compras: 8910
+2025-10-23 14:50:53 - scraper_rango_unico - INFO - Navegando a página 595
+2025-10-23 14:50:55 - scraper_rango_unico - INFO - Página 595 procesada: 15 compras
+2025-10-23 14:50:55 - scraper_rango_unico - INFO - Progreso: 595/623 | Total compras: 8925
+2025-10-23 14:50:57 - scraper_rango_unico - INFO - Navegando a página 596
+2025-10-23 14:51:00 - scraper_rango_unico - INFO - Página 596 procesada: 15 compras
+2025-10-23 14:51:00 - scraper_rango_unico - INFO - Progreso: 596/623 | Total compras: 8940
+2025-10-23 14:51:02 - scraper_rango_unico - INFO - Navegando a página 597
+2025-10-23 14:51:04 - scraper_rango_unico - INFO - Página 597 procesada: 15 compras
+2025-10-23 14:51:04 - scraper_rango_unico - INFO - Progreso: 597/623 | Total compras: 8955
+2025-10-23 14:51:06 - scraper_rango_unico - INFO - Navegando a página 598
+2025-10-23 14:51:09 - scraper_rango_unico - INFO - Página 598 procesada: 15 compras
+2025-10-23 14:51:09 - scraper_rango_unico - INFO - Progreso: 598/623 | Total compras: 8970
+2025-10-23 14:51:11 - scraper_rango_unico - INFO - Navegando a página 599
+2025-10-23 14:51:12 - scraper_rango_unico - INFO - Página 599 procesada: 15 compras
+2025-10-23 14:51:12 - scraper_rango_unico - INFO - Progreso: 599/623 | Total compras: 8985
+2025-10-23 14:51:14 - scraper_rango_unico - INFO - Navegando a página 600
+2025-10-23 14:51:17 - scraper_rango_unico - INFO - Página 600 procesada: 15 compras
+2025-10-23 14:51:17 - scraper_rango_unico - INFO - Progreso: 600/623 | Total compras: 9000
+2025-10-23 14:51:19 - scraper_rango_unico - INFO - Navegando a página 601
+2025-10-23 14:51:22 - scraper_rango_unico - INFO - Página 601 procesada: 15 compras
+2025-10-23 14:51:22 - scraper_rango_unico - INFO - Progreso: 601/623 | Total compras: 9015
+2025-10-23 14:51:24 - scraper_rango_unico - INFO - Navegando a página 602
+2025-10-23 14:51:26 - scraper_rango_unico - INFO - Página 602 procesada: 15 compras
+2025-10-23 14:51:26 - scraper_rango_unico - INFO - Progreso: 602/623 | Total compras: 9030
+2025-10-23 14:51:28 - scraper_rango_unico - INFO - Navegando a página 603
+2025-10-23 14:51:30 - scraper_rango_unico - INFO - Página 603 procesada: 15 compras
+2025-10-23 14:51:30 - scraper_rango_unico - INFO - Progreso: 603/623 | Total compras: 9045
+2025-10-23 14:51:32 - scraper_rango_unico - INFO - Navegando a página 604
+2025-10-23 14:51:34 - scraper_rango_unico - INFO - Página 604 procesada: 15 compras
+2025-10-23 14:51:34 - scraper_rango_unico - INFO - Progreso: 604/623 | Total compras: 9060
+2025-10-23 14:51:36 - scraper_rango_unico - INFO - Navegando a página 605
+2025-10-23 14:51:39 - scraper_rango_unico - INFO - Página 605 procesada: 15 compras
+2025-10-23 14:51:39 - scraper_rango_unico - INFO - Progreso: 605/623 | Total compras: 9075
+2025-10-23 14:51:41 - scraper_rango_unico - INFO - Navegando a página 606
+2025-10-23 14:51:43 - scraper_rango_unico - INFO - Página 606 procesada: 15 compras
+2025-10-23 14:51:43 - scraper_rango_unico - INFO - Progreso: 606/623 | Total compras: 9090
+2025-10-23 14:51:45 - scraper_rango_unico - INFO - Navegando a página 607
+2025-10-23 14:51:48 - scraper_rango_unico - INFO - Página 607 procesada: 15 compras
+2025-10-23 14:51:48 - scraper_rango_unico - INFO - Progreso: 607/623 | Total compras: 9105
+2025-10-23 14:51:50 - scraper_rango_unico - INFO - Navegando a página 608
+2025-10-23 14:51:52 - scraper_rango_unico - INFO - Página 608 procesada: 15 compras
+2025-10-23 14:51:52 - scraper_rango_unico - INFO - Progreso: 608/623 | Total compras: 9120
+2025-10-23 14:51:54 - scraper_rango_unico - INFO - Navegando a página 609
+2025-10-23 14:51:56 - scraper_rango_unico - INFO - Página 609 procesada: 15 compras
+2025-10-23 14:51:56 - scraper_rango_unico - INFO - Progreso: 609/623 | Total compras: 9135
+2025-10-23 14:51:58 - scraper_rango_unico - INFO - Navegando a página 610
+2025-10-23 14:52:01 - scraper_rango_unico - INFO - Página 610 procesada: 15 compras
+2025-10-23 14:52:01 - scraper_rango_unico - INFO - Progreso: 610/623 | Total compras: 9150
+2025-10-23 14:52:03 - scraper_rango_unico - INFO - Navegando a página 611
+2025-10-23 14:52:05 - scraper_rango_unico - INFO - Página 611 procesada: 15 compras
+2025-10-23 14:52:05 - scraper_rango_unico - INFO - Progreso: 611/623 | Total compras: 9165
+2025-10-23 14:52:07 - scraper_rango_unico - INFO - Navegando a página 612
+2025-10-23 14:52:10 - scraper_rango_unico - INFO - Página 612 procesada: 15 compras
+2025-10-23 14:52:10 - scraper_rango_unico - INFO - Progreso: 612/623 | Total compras: 9180
+2025-10-23 14:52:12 - scraper_rango_unico - INFO - Navegando a página 613
+2025-10-23 14:52:14 - scraper_rango_unico - INFO - Página 613 procesada: 15 compras
+2025-10-23 14:52:14 - scraper_rango_unico - INFO - Progreso: 613/623 | Total compras: 9195
+2025-10-23 14:52:16 - scraper_rango_unico - INFO - Navegando a página 614
+2025-10-23 14:52:18 - scraper_rango_unico - INFO - Página 614 procesada: 15 compras
+2025-10-23 14:52:18 - scraper_rango_unico - INFO - Progreso: 614/623 | Total compras: 9210
+2025-10-23 14:52:20 - scraper_rango_unico - INFO - Navegando a página 615
+2025-10-23 14:52:25 - scraper_rango_unico - INFO - Página 615 procesada: 15 compras
+2025-10-23 14:52:25 - scraper_rango_unico - INFO - Progreso: 615/623 | Total compras: 9225
+2025-10-23 14:52:27 - scraper_rango_unico - INFO - Navegando a página 616
+2025-10-23 14:52:29 - scraper_rango_unico - INFO - Página 616 procesada: 15 compras
+2025-10-23 14:52:29 - scraper_rango_unico - INFO - Progreso: 616/623 | Total compras: 9240
+2025-10-23 14:52:31 - scraper_rango_unico - INFO - Navegando a página 617
+2025-10-23 14:52:33 - scraper_rango_unico - INFO - Página 617 procesada: 15 compras
+2025-10-23 14:52:33 - scraper_rango_unico - INFO - Progreso: 617/623 | Total compras: 9255
+2025-10-23 14:52:35 - scraper_rango_unico - INFO - Navegando a página 618
+2025-10-23 14:52:38 - scraper_rango_unico - INFO - Página 618 procesada: 15 compras
+2025-10-23 14:52:38 - scraper_rango_unico - INFO - Progreso: 618/623 | Total compras: 9270
+2025-10-23 14:52:40 - scraper_rango_unico - INFO - Navegando a página 619
+2025-10-23 14:52:43 - scraper_rango_unico - INFO - Página 619 procesada: 15 compras
+2025-10-23 14:52:43 - scraper_rango_unico - INFO - Progreso: 619/623 | Total compras: 9285
+2025-10-23 14:52:45 - scraper_rango_unico - INFO - Navegando a página 620
+2025-10-23 14:52:47 - scraper_rango_unico - INFO - Página 620 procesada: 15 compras
+2025-10-23 14:52:47 - scraper_rango_unico - INFO - Progreso: 620/623 | Total compras: 9300
+2025-10-23 14:52:49 - scraper_rango_unico - INFO - Navegando a página 621
+2025-10-23 14:52:51 - scraper_rango_unico - INFO - Página 621 procesada: 15 compras
+2025-10-23 14:52:51 - scraper_rango_unico - INFO - Progreso: 621/623 | Total compras: 9315
+2025-10-23 14:52:53 - scraper_rango_unico - INFO - Navegando a página 622
+2025-10-23 14:52:55 - scraper_rango_unico - INFO - Página 622 procesada: 15 compras
+2025-10-23 14:52:55 - scraper_rango_unico - INFO - Progreso: 622/623 | Total compras: 9330
+2025-10-23 14:52:57 - scraper_rango_unico - INFO - Navegando a página 623
+2025-10-23 14:53:00 - scraper_rango_unico - INFO - Página 623 procesada: 15 compras
+2025-10-23 14:53:00 - scraper_rango_unico - INFO - Progreso: 623/623 | Total compras: 9345
+2025-10-23 14:53:00 - scraper_rango_unico - INFO - ------------------------------------------------------------
+2025-10-23 14:53:00 - scraper_rango_unico - INFO - Scraping completado: 9345 compras
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - Navegador cerrado
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - RESUMEN DE SCRAPING
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - tiempo_total: 46m 26s
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - paginas_procesadas: 623
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - compras_scrapeadas: 9345
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - errores: 0
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - reintentos: 0
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - inicio: 2025-10-23 14:06:34
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - fin: 2025-10-23 14:53:01
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:53:01 - scraper_rango_unico - INFO - Resultados finales guardados en: C:\Users\jdnic\OneDrive\Escritorio\Covepa\Versiones\MB_CAv1\data\raw\CA_publicadas.json

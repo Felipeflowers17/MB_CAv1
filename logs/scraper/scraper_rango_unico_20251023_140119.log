@@ -1,0 +1,20 @@
+2025-10-23 14:01:19 - scraper_rango_unico - INFO - ============================================================
+2025-10-23 14:01:19 - scraper_rango_unico - INFO - INICIANDO EXTRACCIÓN ÚNICA POR RANGO DE FECHAS
+2025-10-23 14:01:19 - scraper_rango_unico - INFO - Rango de fechas: 2025-10-20 a 2025-10-23
+2025-10-23 14:01:19 - scraper_rango_unico - INFO - Archivo de salida: data/raw/CA_publicadas.json
+2025-10-23 14:01:19 - scraper_rango_unico - INFO - ============================================================
+2025-10-23 14:01:30 - scraper_rango_unico - INFO - Iniciando navegador...
+2025-10-23 14:01:35 - scraper_rango_unico - INFO - Obteniendo información de paginación...
+2025-10-23 14:01:42 - scraper_rango_unico - ERROR - ERROR: No se capturó respuesta en página 1. Abortando.
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - Navegador cerrado
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - RESUMEN DE SCRAPING
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - tiempo_total: 23s
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - paginas_procesadas: 0
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - compras_scrapeadas: 0
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - errores: 0
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - reintentos: 0
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - inicio: 2025-10-23 14:01:19
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - fin: 2025-10-23 14:01:43
+2025-10-23 14:01:43 - scraper_rango_unico - INFO - ==================================================

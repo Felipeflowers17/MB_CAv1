@@ -1,0 +1,21 @@
+2025-10-23 14:03:32 - scraper_rango_unico - INFO - ============================================================
+2025-10-23 14:03:32 - scraper_rango_unico - INFO - INICIANDO EXTRACCIÓN ÚNICA POR RANGO DE FECHAS
+2025-10-23 14:03:32 - scraper_rango_unico - INFO - Rango de fechas: 2025-10-20 a 2025-10-23
+2025-10-23 14:03:32 - scraper_rango_unico - INFO - ============================================================
+2025-10-23 14:03:33 - scraper_rango_unico - INFO - Iniciando navegador...
+2025-10-23 14:03:34 - scraper_rango_unico - INFO - Obteniendo información de paginación...
+2025-10-23 14:03:34 - scraper_rango_unico - INFO - Navegando a página 1
+2025-10-23 14:03:35 - scraper_rango_unico - ERROR - ERROR al scrapear página 1: 'Page' object has no attribute 'wait_for_response'
+2025-10-23 14:03:35 - scraper_rango_unico - ERROR - ERROR: No se pudo obtener la primera página. Abortando.
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - Navegador cerrado
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - RESUMEN DE SCRAPING
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - ==================================================
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - tiempo_total: 3s
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - paginas_procesadas: 0
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - compras_scrapeadas: 0
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - errores: 1
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - reintentos: 0
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - inicio: 2025-10-23 14:03:32
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - fin: 2025-10-23 14:03:36
+2025-10-23 14:03:36 - scraper_rango_unico - INFO - ==================================================
